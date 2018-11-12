@@ -1,12 +1,12 @@
 from jinja2 import FileSystemLoader, Environment
 from . import textrazor
-from . import rosette
+from . import ibm_watson
 import os
 import json
 
 VENDORS = {
     'textrazor': textrazor.TextRazorWrapper,
-    'rosette': rosette.RosetteWrapper
+    'ibm_watson': ibm_watson.IBMWatsonWrapper
 }
 
 class EntreGuillemets:

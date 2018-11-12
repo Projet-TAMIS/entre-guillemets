@@ -33,4 +33,8 @@ This will process all text files (`.txt` extension) in `input_files` and store t
 
 # TODO
 
-[ ] Create settings.json.dist and instructions
+[x] Create settings.json.dist and instructions
+[ ] Add more vendors
+[ ] Add TOC to vendor report
+[ ] Add metrics to vendor report
+[ ] Create an aggregated report for all vendors and a way to compare features accros vendors

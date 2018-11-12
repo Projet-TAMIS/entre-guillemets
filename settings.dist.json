@@ -1,0 +1,15 @@
+{
+  "input_files_dir": "./input_files",
+  "output_files_dir": "./output_files",
+  "report_dir": "./report",
+  "template_file": "./static/vendor_template.html",
+  "vendors": {
+    "textrazor": {
+      "api_key": "YOUR_KEY_HERE"
+    },
+    "ibm_watson": {
+      "api_key": "YOUR_KEY_HERE",
+      "api_url": "https://gateway.watsonplatform.net/natural-language-understanding/api"
+    }
+  }
+}

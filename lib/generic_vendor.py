@@ -12,3 +12,15 @@ class VendorWrapper:
         with open(file_name) as data:
             json_data = data.read()
         return json.loads(json_data)
+
+    def feature_report(self, response, feature_name, flattener):
+        report = {}
+        features = response[feature_name]
+        report['count'] = len(features)
+        report['examples'] = []
+        report['detailed_examples'] = []
+        for f in features[0:19]:
+            report['examples'].append(flattener(f))
+        for f in features[0:4]:
+            report['detailed_examples'].append(f)
+        return report

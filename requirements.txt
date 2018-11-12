@@ -1,0 +1,3 @@
+textrazor
+rosette_api
+jinja2

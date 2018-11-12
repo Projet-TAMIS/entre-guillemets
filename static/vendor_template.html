@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Entre Guillemets - Report for {{ vendor_name|capitalize }}</title>
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="../static/css/normalize.css">
+  <link rel="stylesheet" href="../static/css/skeleton.css">
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+    <div class="row">
+      <div class="twelve columns">
+        <h1>Entre Guillemets - Report for {{ vendor_name|capitalize }}</h1>
+      </div>
+    </div>
+
+    {% for file in vendor_report.keys() %}
+      <hr/>
+      <div class="row">
+        <div class="twelve columns">
+          <h2>{{ file|capitalize }}</h2>
+          <h3>Reference information</h3>
+          {% for info in file_refs[file]["products"][0].keys() %}
+            {{ info|capitalize }} : {{ file_refs[file]["products"][0][info] }}<br/>
+          {% endfor %}
+        </div>
+      </div>
+
+      {% for section in vendor_report[file].keys() %}
+        <div class="row">
+          <div class="twelve columns">
+            <h3>{{ section|capitalize }}</h3>
+          </div>
+        </div>
+
+        <div class="row">
+          {% for data in vendor_report[file][section].keys() %}
+            <div class="four columns">
+              <h4>{{ data|capitalize }}</h4>
+              {% set value = vendor_report[file][section][data] %}
+              {% set value_type = value.__class__.__name__ %}
+
+              {% if value_type == "int" or value_type == "str" %}
+                {{ value }}
+              {% endif %}
+
+              {% if value_type == "list" %}
+                {% set item_value_type = value[0].__class__.__name__ %}
+
+                {% if item_value_type == "str" or item_value_type == "int"  %}
+                  {% for item_value in value %}
+                    {{ item_value }}<br/>
+                  {% endfor %}
+
+                {% elif item_value_type == "dict" %}
+                  {% for item_value in value %}
+                    <pre><code>
+                      {{ item_value|tojson(indent=4) }}
+                    </code></pre>
+                  {% endfor %}
+                {% endif %}
+
+              {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+      {% endfor %}
+    {% endfor %}
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

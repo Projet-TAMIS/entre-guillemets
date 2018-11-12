@@ -1,0 +1,10 @@
+*~
+*.DS_Store
+settings.json
+input_files*
+output_files*
+report*
+__pycache__
+output
+*.pyc
+venv

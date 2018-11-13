@@ -37,4 +37,4 @@ This will process all text files (`.txt` extension) in `input_files` and store t
 [ ] Add more vendors
 [ ] Add TOC to vendor report
 [ ] Add metrics to vendor report
-[ ] Create an aggregated report for all vendors and a way to compare features accros vendors
+[ ] Create an aggregated report for all vendors and a way to compare features accross vendors

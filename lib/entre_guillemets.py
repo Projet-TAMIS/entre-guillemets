@@ -3,6 +3,7 @@ from . import textrazor
 from . import ibm_watson
 import os
 import json
+import datetime
 
 VENDORS = {
     'textrazor': textrazor.TextRazorWrapper,
@@ -14,6 +15,8 @@ class EntreGuillemets:
         self.settings = settings
         self.__ensure_directory_exists(self.settings['output_files_dir'])
         self.__ensure_directory_exists(self.settings['report_dir'])
+
+        # for Jinja2 templating
         loader = FileSystemLoader('.')
         env = Environment(loader=loader, trim_blocks=True, lstrip_blocks=True)
         self.report_template = env.get_template(self.settings['template_file'])
@@ -77,6 +80,12 @@ class EntreGuillemets:
         return refs
 
     def __build_vendor_report(self, vendor_name, vendor_report, file_refs):
-        report = self.report_template.render(vendor_name=vendor_name, vendor_report=vendor_report, file_refs=file_refs)
+        meta = {
+            "vendor_name": vendor_name,
+            "report_date": datetime.datetime.now(),
+            "features": vendor_report[list(vendor_report.keys())[0]].keys(),
+            "corpus_size": len(vendor_report.keys())
+        }
+        report = self.report_template.render(meta=meta, vendor_report=vendor_report, file_refs=file_refs)
         with open(os.path.join(self.settings['report_dir'], vendor_name + '.html'), 'w') as r:
             r.write(report)

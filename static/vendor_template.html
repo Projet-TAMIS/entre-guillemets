@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Entre Guillemets - Report for {{ vendor_name|capitalize }}</title>
+  <title>Entre Guillemets - Report for {{ meta.vendor_name|capitalize }}</title>
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -19,6 +19,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="../static/css/normalize.css">
   <link rel="stylesheet" href="../static/css/skeleton.css">
+  <link rel="stylesheet" href="../static/css/custom.css">
 </head>
 <body>
 
@@ -27,18 +28,43 @@
   <div class="container">
     <div class="row">
       <div class="twelve columns">
-        <h1>Entre Guillemets - Report for {{ vendor_name|capitalize }}</h1>
+        <h1>Entre Guillemets - Report for {{ meta.vendor_name|capitalize }}</h1>
       </div>
+    </div>
+
+    <div class="row">
+      <div class="twelve columns">
+        <a href="https://github.com/Projet-TAMIS/entre-guillemets">About</a><br/>
+        Report generated on {{ meta.report_date.strftime("%Y-%m-%d %H:%M") }}.<br/>
+        Vendor was {{ meta.vendor_name|capitalize }}.<br/>
+        Extracted features:
+        <ul>
+          {% for feature in meta.features  %}
+            <li>{{ feature }}</li>
+          {% endfor %}
+        </ul>
+        Corpus size: {{ meta.corpus_size  }}<br/>
+        <br/>
+        <a id="#top">Results for:</a>
+      </div>
+    </div>
+
+    <div class="row">
+      {% for file in vendor_report.keys() %}
+        <div class="three columns">
+          <a href="#{{ file|escape }}">{{ file }}</a>
+        </div>
+      {% endfor %}
     </div>
 
     {% for file in vendor_report.keys() %}
       <hr/>
       <div class="row">
         <div class="twelve columns">
-          <h2>{{ file|capitalize }}</h2>
+          <h2><a id="{{ file|escape }}">{{ file|capitalize }}</a> <small>(<a href="#top">back to top</a>)</small></h2>
           <h3>Reference information</h3>
           {% for info in file_refs[file]["products"][0].keys() %}
-            {{ info|capitalize }} : {{ file_refs[file]["products"][0][info] }}<br/>
+            <b>{{ info|capitalize }} :</b> {{ file_refs[file]["products"][0][info] }}<br/>
           {% endfor %}
         </div>
       </div>

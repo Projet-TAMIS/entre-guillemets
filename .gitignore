@@ -3,7 +3,6 @@
 settings.json
 input_files*
 output_files*
-report*
 __pycache__
 output
 *.pyc

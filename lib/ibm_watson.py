@@ -17,7 +17,6 @@ class IBMWatsonWrapper(generic_vendor.VendorWrapper):
                       keywords=KeywordsOptions(),
                       categories=CategoriesOptions(),
                       concepts=ConceptsOptions())).get_result()
-        print(response)
         return json.dumps(response)
 
     def report(self, response_file_name):

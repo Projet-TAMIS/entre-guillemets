@@ -1,13 +1,15 @@
 from jinja2 import FileSystemLoader, Environment
 from . import textrazor
 from . import ibm_watson
+from . import google_cloud
 import os
 import json
 import datetime
 
 VENDORS = {
     'textrazor': textrazor.TextRazorWrapper,
-    'ibm_watson': ibm_watson.IBMWatsonWrapper
+    'ibm_watson': ibm_watson.IBMWatsonWrapper,
+    'google_cloud': google_cloud.GoogleCloudWrapper
 }
 
 class EntreGuillemets:

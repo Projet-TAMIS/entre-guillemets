@@ -10,6 +10,9 @@
     "ibm_watson": {
       "api_key": "YOUR_KEY_HERE",
       "api_url": "https://gateway.watsonplatform.net/natural-language-understanding/api"
+    },
+    "google_cloud": {
+      "credentials_file": "PATH_TO_YOUR_CREDENTIALS_FILE.json"
     }
   }
 }

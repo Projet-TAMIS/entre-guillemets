@@ -21,7 +21,7 @@ class IBMWatsonWrapper(generic_vendor.VendorWrapper):
 
     def report(self, response_file_name):
         response = self.load_response_json(response_file_name)
-        report = {}
+        report = self.base_report(response_file_name)
 
         report['entities'] = self.feature_report(response, 'entities', lambda e: e['text'] + ' (' + e['type'] + ')')
         report['categories'] = self.feature_report(response, 'categories', lambda c: c['label'])

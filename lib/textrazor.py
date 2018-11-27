@@ -14,7 +14,7 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
     def report(self, response_file_name):
         json_response = self.load_response_json(response_file_name)
         response = textrazor.TextRazorResponse(json_response)
-        report = {}
+        report = self.base_report(response_file_name)
 
         # report on entities
         report['entities'] = {}

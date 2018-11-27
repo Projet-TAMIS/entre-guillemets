@@ -24,6 +24,6 @@ class GoogleCloudWrapper(generic_vendor.VendorWrapper):
     def report(self, response_file_name):
         response = self.load_response_json(response_file_name)
         response['entities'].sort(key=lambda x: x['salience'], reverse=True)
-        report = {}
+        report = self.base_report(response_file_name)
         report['entities'] = self.feature_report(response, 'entities', lambda e: e['name'] + ' (' + e['type'] + ')')
         return report

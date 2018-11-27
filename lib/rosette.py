@@ -28,7 +28,7 @@ class RosetteWrapper(generic_vendor.VendorWrapper):
         }
         response_without_confidence['entities'].sort(key=lambda x: x['count'], reverse=True)
 
-        report = {}
+        report = self.base_report(response_file_name)
         report['entities'] = self.feature_report(response_with_confidence, 'entities', lambda e: e['normalized'] + ' (' + e['type'] + ')')
         report['entities_without_confidence_information'] = self.feature_report(response_with_confidence, 'entities', lambda e: e['normalized'] + ' (' + e['type'] + ')')
 

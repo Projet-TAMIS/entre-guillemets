@@ -24,3 +24,6 @@ class VendorWrapper:
         for f in features[0:4]:
             report['detailed_examples'].append(f)
         return report
+
+    def base_report(self, response_file_name):
+        return { 'source_file': response_file_name }

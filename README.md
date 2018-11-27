@@ -31,6 +31,20 @@ python pg.py
 
 This will process all text files (`.txt` extension) in `input_files` and store the results in `output`.
 
+## Vendor specific notes
+
+### Rosette
+
+Text in truncated to 50 000 characters in order to respect Rosette's limit.
+
+Categories and Topics extractions are not benchmarked because they are available in English only.
+
+The Rosette entity output includes a confidence score _for some_ entities, and not for others. The report separates entities with confidence (sorted by reverse confidence value) and without confidence information (sorted by number of occurrences).
+
+### Google
+
+Classification is not benchmarked because it is available in English only.
+
 # TODO
 
 [x] Create settings.json.dist and instructions

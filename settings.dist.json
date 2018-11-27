@@ -13,6 +13,9 @@
     },
     "google_cloud": {
       "credentials_file": "PATH_TO_YOUR_CREDENTIALS_FILE.json"
+    },
+    "rosette": {
+      "api_key": "YOUR_KEY_HERE"
     }
   }
 }

@@ -37,6 +37,7 @@
         <a href="https://github.com/Projet-TAMIS/entre-guillemets">About</a><br/>
         Report generated on {{ meta.report_date.strftime("%Y-%m-%d %H:%M") }}.<br/>
         Vendor was {{ meta.vendor_name|capitalize }}.<br/>
+        (<a href="{{ meta.global_report_path }}">back to main report</a>)<br/>
         Extracted features:
         <ul>
           {%- for feature in meta.features  %}

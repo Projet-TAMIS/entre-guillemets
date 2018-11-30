@@ -23,7 +23,8 @@ class EntreGuillemets:
         # for Jinja2 templating
         loader = FileSystemLoader('.')
         env = Environment(loader=loader, trim_blocks=True, lstrip_blocks=True)
-        self.report_template = env.get_template(self.settings['template_file'])
+        self.global_report_template = env.get_template(self.settings['global_template_file'])
+        self.vendor_report_template = env.get_template(self.settings['vendor_template_file'])
 
     def run(self):
         print("Getting API responses...")
@@ -43,6 +44,7 @@ class EntreGuillemets:
         print("Creating report data...")
         all_files = self.__list_input_files()
         file_refs = self.__load_file_refs(all_files)
+        global_report = {}
         for vendor_name in self.settings['vendors'].keys():
             vendor = VENDORS[vendor_name](self.settings['vendors'][vendor_name])
             vendor_report = {}
@@ -52,9 +54,10 @@ class EntreGuillemets:
                     vendor_report[os.path.basename(file)] = vendor.report(vendor_response_file_name)
                     print("Analyzing and creating report for " + file)
             self.__build_vendor_report(vendor_name, vendor_report, file_refs)
+            global_report[vendor_name] = vendor_report
 
         print("Outputting report to HTML...")
-        # TODO!
+        self.__build_global_report(global_report, all_files, file_refs)
 
     def __list_input_files(self):
         files = os.listdir(self.settings['input_files_dir'])
@@ -88,8 +91,24 @@ class EntreGuillemets:
             "vendor_name": vendor_name,
             "report_date": datetime.datetime.now(),
             "features": vendor_report[list(vendor_report.keys())[0]].keys(),
-            "corpus_size": len(vendor_report.keys())
+            "corpus_size": len(vendor_report.keys()),
+            "global_report_path": 'index.html'
         }
-        report = self.report_template.render(meta=meta, vendor_report=vendor_report, file_refs=file_refs)
+        report = self.vendor_report_template.render(meta=meta, vendor_report=vendor_report, file_refs=file_refs)
         with open(os.path.join(self.settings['report_dir'], vendor_name + '.html'), 'w') as r:
+            r.write(report)
+
+    def __build_global_report(self, global_report, all_files, file_refs):
+        meta = {
+            "report_date": datetime.datetime.now(),
+            "vendors": [
+                {
+                    'name': vendor,
+                    'report_path': vendor + '.html'
+                }
+            for vendor in global_report]
+        }
+
+        report = self.global_report_template.render(meta=meta, report=global_report, files=all_files, file_refs=file_refs)
+        with open(os.path.join(self.settings['report_dir'], 'index.html'), 'w') as r:
             r.write(report)

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Entre Guillemets - Report</title>
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="../static/css/normalize.css">
+  <link rel="stylesheet" href="../static/css/skeleton.css">
+  <link rel="stylesheet" href="../static/css/custom.css">
+</head>
+<body>
+
+<!-- Primary Page Layout
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<div class="container">
+  <div class="row">
+    <div class="twelve columns">
+      <h1>Entre Guillemets - Report</h1>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="twelve columns">
+      <a href="https://github.com/Projet-TAMIS/entre-guillemets">About</a><br/>
+      Report generated on {{ meta.report_date.strftime("%Y-%m-%d %H:%M") }}.<br/>
+      In total, {{ files|count }} file(s) where analyzed with the API from the following vendors:
+      <ul>
+        {%- for vendor in meta.vendors %}
+          <li><a href="{{ vendor['report_path'] }}">{{ vendor['name'] }}</a></li>
+        {%- endfor %}
+      </ul>
+      Results for:
+    </div>
+  </div>
+
+  <div class="row">
+    {% for file in files %}
+      <div class="three columns">
+        <a href="#{{ file|escape }}">{{ file }}</a>
+      </div>
+    {% endfor %}
+  </div>
+
+  {% for file in files %}
+    <hr/>
+
+    <div class="row">
+      <div class="twelve columns">
+        <h2><a id="{{ file|escape }}">{{ file|capitalize }}</a> <small>(<a href="#top">back to top</a>)</small></h2>
+        <h3>Reference information</h3>
+        {% for info in file_refs[file]["products"][0].keys() %}
+          {% if info is in(['isbn', 'title', 'publisher', 'contributors', 'subjects']) %}
+            <b>{{ info|capitalize }} :</b> {{ file_refs[file]["products"][0][info] }}<br/>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+
+      {% for vendor in meta.vendors %}
+        <div class="row">
+          <h3>{{ vendor['name'] }}</h3>
+          <a href="{{ vendor['report_path'] }}#{{ file }}">Details</a>
+        </div>
+
+        {% for section in report[vendor['name']][file] %}
+          <div class="row">
+            {% if section != 'source_file' %}
+                <h4>{{ section|capitalize }}</h4>
+
+                {% for data in report[vendor['name']][file][section].keys() %}
+                  {% if 'detailed' not in data %}
+                    <div class="three columns">
+                      {% set value = report[vendor['name']][file][section][data] %}
+                      {% set value_type = value.__class__.__name__ %}
+                      <h5>{{ data|capitalize }}</h5>
+
+                      {% if value_type == "int" or value_type == "str" %}
+                        {{ value }}
+                      {% endif %}
+
+                      {% if value_type == "list" %}
+                        {% set item_value_type = value[0].__class__.__name__ %}
+
+                        {% if item_value_type == "str" or item_value_type == "int"  %}
+                          {% for item_value in value %}
+                            {{ item_value }}<br/>
+                          {% endfor %}
+                        {% endif %}
+                      {% endif %}
+                    </div>
+                  {% endif %}
+                {% endfor %} <!-- /data -->
+            {% endif %}
+          </div>
+        {% endfor %} <!-- /section -->
+    {% endfor %} <!-- /vendor -->
+
+  {% endfor %} <!-- /file  -->
+
+</div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

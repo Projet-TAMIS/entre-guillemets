@@ -4,6 +4,8 @@ Run a corpus of text files through multiple natural language processing (NLP) AP
 
 Entre Guillemets is greatly inspired by [Cloudy Vision](https://github.com/goberoi/cloudy_vision) which meets the same types of objectives, but for computer vision APIs.
 
+See [example results here](https://projet-tamis.github.io/entre-guillemets/report/).
+
 ## Installation
 
 Entre Guillemets works with Python 3.6. If using Anaconda, you can first:

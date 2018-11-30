@@ -28,4 +28,9 @@ class IBMWatsonWrapper(generic_vendor.VendorWrapper):
         report['keywords'] = self.feature_report(response, 'keywords', lambda k: k['text'])
         report['concepts'] = self.feature_report(response, 'concepts', lambda c: c['text'])
 
+        entity_types_of_interest = ['Location', 'Person', 'Date']
+        for entity_type in entity_types_of_interest:
+            entities = [entity for entity in response['entities'] if entity['type'] == entity_type]
+            report['entities'][entity_type + ' examples'] = [e['text'] for e in entities][0:19]
+
         return report

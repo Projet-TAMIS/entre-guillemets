@@ -32,4 +32,9 @@ class RosetteWrapper(generic_vendor.VendorWrapper):
         report['entities'] = self.feature_report(response_with_confidence, 'entities', lambda e: e['normalized'] + ' (' + e['type'] + ')')
         report['entities_without_confidence_information'] = self.feature_report(response_with_confidence, 'entities', lambda e: e['normalized'] + ' (' + e['type'] + ')')
 
+        entity_types_of_interest = ['LOCATION', 'PERSON', 'TEMPORAL:DATE', 'ORGANIZATION']
+        for entity_type in entity_types_of_interest:
+            entities = [entity for entity in response['entities'] if entity['type'] == entity_type]
+            report['entities'][entity_type + ' examples'] = [e['normalized'] for e in entities][0:19]
+
         return report

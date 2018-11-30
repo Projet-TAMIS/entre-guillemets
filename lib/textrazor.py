@@ -23,6 +23,14 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
         report['entities']['count'] = len(entities)
         report['entities']['examples'] = []
         report['entities']['detailed_examples'] = []
+        entity_types_of_interest = [
+            '/location/location',
+            '/people/person',
+            '/organization/organization',
+            '/time/event'
+        ]
+        for entity_type in entity_types_of_interest:
+            report['entities'][entity_type] = []
         seen = set()
         for entity in entities:
             if entity.id not in seen:
@@ -30,6 +38,9 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
                     report['entities']['examples'].append(entity.id)
                 if len(report['entities']['detailed_examples']) < 5:
                     report['entities']['detailed_examples'].append(entity.json)
+                for entity_type in entity_types_of_interest:
+                    if (entity_type in entity.freebase_types):
+                        report['entities'][entity_type].append(entity.id)
                 seen.add(entity.id)
 
         # report on categories

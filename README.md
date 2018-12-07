@@ -4,6 +4,8 @@ Run a corpus of text files through multiple natural language processing (NLP) AP
 
 Entre Guillemets is greatly inspired by [Cloudy Vision](https://github.com/goberoi/cloudy_vision) which meets the same types of objectives, but for computer vision APIs.
 
+See [example results here](https://projet-tamis.github.io/entre-guillemets/report/).
+
 ## Installation
 
 Entre Guillemets works with Python 3.6. If using Anaconda, you can first:
@@ -44,6 +46,10 @@ The Rosette entity output includes a confidence score _for some_ entities, and n
 ### Google
 
 Classification is not benchmarked because it is available in English only.
+
+### TextRazor
+
+Text in truncated to 200 000 characters in order to respect TextRazor's limit.
 
 # TODO
 

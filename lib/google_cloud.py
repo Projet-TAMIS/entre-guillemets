@@ -23,14 +23,17 @@ class GoogleCloudWrapper(generic_vendor.VendorWrapper):
 
     def report(self, response_file_name):
         response = self.load_response_json(response_file_name)
-        response['entities'].sort(key=lambda x: x['salience'], reverse=True)
-
         report = self.base_report(response_file_name)
-        report['entities'] = self.feature_report(response, 'entities', lambda e: e['name'] + ' (' + e['type'] + ')')
 
-        entity_types_of_interest = ['LOCATION', 'PERSON', 'EVENT']
-        for entity_type in entity_types_of_interest:
-            entities = [entity for entity in response['entities'] if entity['type'] == entity_type]
-            report['entities'][entity_type + ' examples'] = [e['name'] for e in entities][0:19]
+        if 'entities' in response:
+            response['entities'].sort(key=lambda x: x['salience'], reverse=True)
+            report['entities'] = self.feature_report(response, 'entities', lambda e: e['name'] + ' (' + e['type'] + ')')
+
+            entity_types_of_interest = ['LOCATION', 'PERSON', 'EVENT']
+            for entity_type in entity_types_of_interest:
+                entities = [entity for entity in response['entities'] if entity['type'] == entity_type]
+                report['entities'][entity_type + ' examples'] = [e['name'] for e in entities][0:19]
+        else:
+            report['error'] = 'No entities found'
 
         return report

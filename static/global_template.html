@@ -77,7 +77,7 @@
 
         {% for section in report[vendor['name']][file] %}
           <div class="row">
-            {% if section != 'source_file' %}
+            {% if section not in ['source_file', 'error'] %}
                 <h4>{{ section|capitalize }}</h4>
 
                 {% for data in report[vendor['name']][file][section].keys() %}

@@ -52,7 +52,7 @@ class EntreGuillemets:
                 if self.__already_processed(file, vendor_name):
                     vendor_response_file_name = self.__output_file_name(file, vendor_name)
                     vendor_report[os.path.basename(file)] = vendor.report(vendor_response_file_name)
-                    print("Analyzing and creating report for " + file)
+                    print("Analyzing and creating report for " + file + " (" + vendor_name + ")")
             self.__build_vendor_report(vendor_name, vendor_report, file_refs)
             global_report[vendor_name] = vendor_report
 

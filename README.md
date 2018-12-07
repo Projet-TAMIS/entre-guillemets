@@ -47,6 +47,10 @@ The Rosette entity output includes a confidence score _for some_ entities, and n
 
 Classification is not benchmarked because it is available in English only.
 
+### TextRazor
+
+Text in truncated to 200 000 characters in order to respect TextRazor's limit.
+
 # TODO
 
 [x] Create settings.json.dist and instructions

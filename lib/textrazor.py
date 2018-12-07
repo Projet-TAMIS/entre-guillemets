@@ -1,6 +1,10 @@
 from . import generic_vendor
 import textrazor
 import json
+import sys
+import textwrap
+
+MAX_SIZE = 200 * 1024
 
 class TextRazorWrapper(generic_vendor.VendorWrapper):
     def __init__(self, settings):
@@ -8,7 +12,8 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
         self.client = textrazor.TextRazor(extractors=["entities", "topics"])
 
     def call_api(self, content):
-        response = self.client.analyze(content)
+        truncated_content = self.__truncate_to_byte_size(content, MAX_SIZE-1)
+        response = self.client.analyze(truncated_content) # truncate the content
         return json.dumps(response.json)
 
     def report(self, response_file_name):
@@ -54,3 +59,12 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
                 report['topics']['examples'].append(topic.label)
 
         return report
+
+    # Ugly way to truncate text to a specific size in *bytes*
+    # (I did not find any other safe way of doing it with text in multi-bytes
+    # characters encoding)
+    def __truncate_to_byte_size(self, text, size):
+        res = ''
+        while sys.getsizeof(res) < size and len(text) > 0:
+            res, text = res+text[:1], text[1:]
+        return res

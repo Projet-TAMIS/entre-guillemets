@@ -77,7 +77,7 @@
           </div>
         </div>
 
-        {% if section == 'source_file' %}
+        {% if section in ['source_file', 'error'] %}
           <a href="../{{ vendor_report[file]['source_file'] }}">Vendor response as JSON</a>
 
         {% else %}

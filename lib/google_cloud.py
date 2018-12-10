@@ -5,6 +5,7 @@ from google.oauth2 import service_account
 from google.cloud.language import enums
 from google.cloud.language import types
 from google.protobuf.json_format import MessageToJson
+import functools
 
 class GoogleCloudWrapper(generic_vendor.VendorWrapper):
     def __init__(self, settings):
@@ -32,7 +33,10 @@ class GoogleCloudWrapper(generic_vendor.VendorWrapper):
             entity_types_of_interest = ['LOCATION', 'PERSON', 'EVENT']
             for entity_type in entity_types_of_interest:
                 entities = [entity for entity in response['entities'] if entity['type'] == entity_type]
-                report['entities'][entity_type + ' examples'] = [e['name'] for e in entities][0:19]
+                entity_names = [e['name'] for e in entities]
+                unique_entities = functools.reduce(lambda l, x: l+[x] if x not in l else l, entity_names, [])
+                  # the above line removes duplicates and keeps order (explanations: https://stackoverflow.com/a/37163210)
+                report['entities'][entity_type + ' examples'] = unique_entities[0:19]
         else:
             report['error'] = 'No entities found'
 

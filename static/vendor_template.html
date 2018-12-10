@@ -103,7 +103,7 @@
 
                   {% elif item_value_type == "dict" %}
                     {% for item_value in value %}
-                      <pre><code>{{ item_value|tojson(indent=4)|trim() }}</code></pre>
+                      <pre class="json_example"><code>{{ item_value|tojson(indent=4)|trim() }}</code></pre>
                     {% endfor %}
                   {% endif %}
 

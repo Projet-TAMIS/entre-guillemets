@@ -14,7 +14,7 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
     def call_api(self, content):
         truncated_content = self.__truncate_to_byte_size(content, MAX_SIZE-1)
         response = self.client.analyze(truncated_content) # truncate the content
-        return json.dumps(response.json)
+        return json.dumps(response.json, sort_keys=True, indent=4)
 
     def report(self, response_file_name):
         json_response = self.load_response_json(response_file_name)

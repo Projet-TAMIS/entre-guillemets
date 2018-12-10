@@ -15,7 +15,7 @@ class RosetteWrapper(generic_vendor.VendorWrapper):
         except RosetteException as exception:
             print(exception)
             res = {"rosette_exception": str(exception)}
-        return json.dumps(res)
+        return json.dumps(res, sort_keys=True, indent=4)
 
     def report(self, response_file_name):
         response = self.load_response_json(response_file_name)

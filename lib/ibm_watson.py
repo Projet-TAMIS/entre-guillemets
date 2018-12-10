@@ -21,7 +21,7 @@ class IBMWatsonWrapper(generic_vendor.VendorWrapper):
         except WatsonException as exception:
             print(exception)
             response = {"ibm_exception": str(exception)}
-        return json.dumps(response)
+        return json.dumps(response, sort_keys=True, indent=4)
 
     def report(self, response_file_name):
         response = self.load_response_json(response_file_name)

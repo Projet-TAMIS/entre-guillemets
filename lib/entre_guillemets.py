@@ -6,6 +6,9 @@ from . import rosette
 import os
 import json
 import datetime
+import xlsxwriter
+import pandas as pd
+from pandas.io.json import json_normalize
 
 VENDORS = {
     'textrazor': textrazor.TextRazorWrapper,
@@ -58,6 +61,7 @@ class EntreGuillemets:
 
         print("Outputting report to HTML...")
         self.__build_global_report(global_report, all_files, file_refs)
+        self.__build_global_xlsx_report(global_report, all_files, file_refs)
 
     def __list_input_files(self):
         files = os.listdir(self.settings['input_files_dir'])
@@ -112,3 +116,32 @@ class EntreGuillemets:
         report = self.global_report_template.render(meta=meta, report=global_report, files=all_files, file_refs=file_refs)
         with open(os.path.join(self.settings['report_dir'], 'index.html'), 'w') as r:
             r.write(report)
+
+    def __build_global_xlsx_report(self, global_report, all_files, file_refs):
+        ref_df = pd.DataFrame.from_dict({ k: self.__flattenize(v['products'][0], 'product') for (k,v) in file_refs.items()}, orient='index')
+        writer = pd.ExcelWriter(os.path.join(self.settings['report_dir'], 'index.xlsx'), engine='xlsxwriter')
+        all_dfs = ref_df
+        for vendor in global_report:
+            vendor_data = { k: self.__flattenize(v, vendor) for (k,v) in global_report[vendor].items()}
+            vendor_df = pd.DataFrame.from_dict(vendor_data, orient='index')
+            all_dfs = pd.concat([all_dfs, vendor_df], axis='columns')
+        all_dfs.to_excel(writer, sheet_name='Global report')
+        writer.save()
+
+    # this will flatten and nested dict objj to a single level
+    # dict, where keys are the result of concatenating the nested keys,
+    # and values are final str or int node values, or lists converted to
+    # multi-lines strs
+    def __flattenize(self, objj, base_k):
+        res = {}
+        if objj.__class__.__name__ == 'dict':
+            for k, v in objj.items():
+                if v.__class__.__name__ == 'dict':
+                    res = self.__flattenize(v, base_k + '.' + k)
+                else:
+                    res[base_k + '.' + k] = self.__flattenize(v, base_k + '.' + k)
+        elif objj.__class__.__name__ == 'list':
+            res = "\n".join(map(lambda x: str(x), objj))
+        else:
+            res = objj
+        return res

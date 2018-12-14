@@ -31,7 +31,9 @@ Running and getting results is simply
 python pg.py
 ```
 
-This will process all text files (`.txt` extension) in `input_files` and store the results in `output`.
+This will process all text files (`.txt` extension) in `input_files` and store the results in `output`. You can view the report by opening `index.html`.
+
+This will also output a tabular version of the report in Excel. This report is available under `output/report.xlsx`.
 
 ## Annotating input files for some context
 

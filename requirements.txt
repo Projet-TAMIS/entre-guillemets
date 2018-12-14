@@ -3,3 +3,5 @@ rosette_api
 jinja2
 watson-developer-cloud
 google-cloud-language
+XlsxWriter
+pandas

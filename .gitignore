@@ -9,3 +9,4 @@ output
 *.pyc
 venv
 private*
+*.xlsx

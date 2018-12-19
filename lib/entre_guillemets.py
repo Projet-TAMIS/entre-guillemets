@@ -137,7 +137,7 @@ class EntreGuillemets:
         if objj.__class__.__name__ == 'dict':
             for k, v in objj.items():
                 if v.__class__.__name__ == 'dict':
-                    res = self.__flattenize(v, base_k + '.' + k)
+                    res.update(self.__flattenize(v, base_k + '.' + k))
                 else:
                     res[base_k + '.' + k] = self.__flattenize(v, base_k + '.' + k)
         elif objj.__class__.__name__ == 'list':

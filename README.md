@@ -31,9 +31,9 @@ Running and getting results is simply
 python pg.py
 ```
 
-This will process all text files (`.txt` extension) in `input_files` and store the results in `output`. You can view the report by opening `index.html`.
+This will process all text files (`.txt` extension) in `input_files` and store the raw results in `output`. You can view the report by opening `report/index.html`.
 
-This will also output a tabular version of the report in Excel. This report is available under `output/report.xlsx`.
+This will also output a tabular version of the report in Excel. This report is available under `report/index.xlsx`.
 
 ## Annotating input files for some context
 
@@ -56,3 +56,11 @@ Classification is not benchmarked because it is available in English only.
 ### TextRazor
 
 Text in truncated to 200kb in order to respect TextRazor's limit.
+
+## Adding more vendors
+
+ Adding more vendors should be relatively easy if you are developer: have a look at the constant at the beginning of `lib/entre_guillemets.py`, and then at examples of the vendors already implemented.
+
+## License
+
+This project is licensed under the terms of the MIT license.

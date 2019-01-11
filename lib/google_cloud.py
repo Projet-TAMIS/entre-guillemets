@@ -22,13 +22,13 @@ class GoogleCloudWrapper(generic_vendor.VendorWrapper):
         )
         return MessageToJson(response)
 
-    def report(self, response_file_name):
+    def report(self, response_file_name, metadata):
         response = self.load_response_json(response_file_name)
         report = self.base_report(response_file_name)
 
         if 'entities' in response:
             response['entities'].sort(key=lambda x: x['salience'], reverse=True)
-            report['entities'] = self.feature_report(response, 'entities', lambda e: e['name'] + ' (' + e['type'] + ')')
+            report['entities'] = self.feature_report(response, 'entities', lambda e: e['name'] + ' (' + e['type'] + ')', metadata, lambda e: e['name'])
 
             entity_types_of_interest = ['LOCATION', 'PERSON', 'EVENT']
             for entity_type in entity_types_of_interest:

@@ -23,16 +23,16 @@ class IBMWatsonWrapper(generic_vendor.VendorWrapper):
             response = {"ibm_exception": str(exception)}
         return json.dumps(response, sort_keys=True, indent=4)
 
-    def report(self, response_file_name):
+    def report(self, response_file_name, metadata):
         response = self.load_response_json(response_file_name)
         report = self.base_report(response_file_name)
 
         if 'ibm_exception' in response:
             report['error'] = response['ibm_exception']
         else:
-            report['entities'] = self.feature_report(response, 'entities', lambda e: e['text'] + ' (' + e['type'] + ')')
+            report['entities'] = self.feature_report(response, 'entities', lambda e: e['text'] + ' (' + e['type'] + ')', metadata, lambda e: e['text'])
             report['categories'] = self.feature_report(response, 'categories', lambda c: c['label'])
-            report['keywords'] = self.feature_report(response, 'keywords', lambda k: k['text'])
+            report['keywords'] = self.feature_report(response, 'keywords', lambda k: k['text'], metadata, lambda k: k['text'])
             report['concepts'] = self.feature_report(response, 'concepts', lambda c: c['text'])
 
             entity_types_of_interest = ['Location', 'Person', 'Date']

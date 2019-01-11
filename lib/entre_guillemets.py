@@ -54,7 +54,7 @@ class EntreGuillemets:
             for file in all_files:
                 if self.__already_processed(file, vendor_name):
                     vendor_response_file_name = self.__output_file_name(file, vendor_name)
-                    vendor_report[os.path.basename(file)] = vendor.report(vendor_response_file_name)
+                    vendor_report[os.path.basename(file)] = vendor.report(vendor_response_file_name, self.__get_all_meta_as_string(file_refs[os.path.basename(file)]))
                     print("Analyzing and creating report for " + file + " (" + vendor_name + ")")
             self.__build_vendor_report(vendor_name, vendor_report, file_refs)
             global_report[vendor_name] = vendor_report
@@ -145,3 +145,7 @@ class EntreGuillemets:
         else:
             res = objj
         return res
+
+    # return a single long string with title, description and keywords
+    def __get_all_meta_as_string(self, ref):
+        return ref['products'][0]['title'] + ref['products'][0]['subjects']['keywords'] + ref['products'][0]['description']

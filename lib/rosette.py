@@ -17,7 +17,7 @@ class RosetteWrapper(generic_vendor.VendorWrapper):
             res = {"rosette_exception": str(exception)}
         return json.dumps(res, sort_keys=True, indent=4)
 
-    def report(self, response_file_name):
+    def report(self, response_file_name, metadata):
         response = self.load_response_json(response_file_name)
         response_with_confidence = {
             'entities': [entity for entity in response['entities'] if 'confidence' in entity]
@@ -29,7 +29,7 @@ class RosetteWrapper(generic_vendor.VendorWrapper):
         response_without_confidence['entities'].sort(key=lambda x: x['count'], reverse=True)
 
         report = self.base_report(response_file_name)
-        report['entities'] = self.feature_report(response_with_confidence, 'entities', lambda e: e['normalized'] + ' (' + e['type'] + ')')
+        report['entities'] = self.feature_report(response_with_confidence, 'entities', lambda e: e['normalized'] + ' (' + e['type'] + ')', metadata, lambda e: e['normalized'])
         report['entities_without_confidence_information'] = self.feature_report(response_with_confidence, 'entities', lambda e: e['normalized'] + ' (' + e['type'] + ')')
 
         entity_types_of_interest = ['LOCATION', 'PERSON', 'TEMPORAL:DATE', 'ORGANIZATION']

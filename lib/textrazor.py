@@ -16,7 +16,7 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
         response = self.client.analyze(truncated_content) # truncate the content
         return json.dumps(response.json, sort_keys=True, indent=4)
 
-    def report(self, response_file_name):
+    def report(self, response_file_name, metadata):
         json_response = self.load_response_json(response_file_name)
         response = textrazor.TextRazorResponse(json_response)
         report = self.base_report(response_file_name)
@@ -47,8 +47,10 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
                     if (entity_type in entity.freebase_types):
                         report['entities'][entity_type].append(entity.id)
                 seen.add(entity.id)
+        report['entities']['in_metadata_count'] = len({e for e in seen if e.lower() in metadata.lower()})
+        report['entities']['in_metadata_percent'] = report['entities']['in_metadata_count']/report['entities']['count']
 
-        # report on categories
+        # report on topics
         report['topics'] = {}
         topics = list(response.topics())
         topics.sort(key=lambda x: x.score, reverse=True)

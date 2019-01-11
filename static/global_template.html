@@ -77,7 +77,7 @@
 
         {% for section in report[vendor['name']][file] %}
           <div class="row">
-            {% if section != 'source_file' %}
+            {% if section not in ['source_file', 'error'] %}
                 <h4>{{ section|capitalize }}</h4>
 
                 {% for data in report[vendor['name']][file][section].keys() %}
@@ -87,14 +87,14 @@
                       {% set value_type = value.__class__.__name__ %}
                       <h5>{{ data|capitalize }}</h5>
 
-                      {% if value_type == "int" or value_type == "str" %}
+                      {% if value_type == "int" or value_type == "str" or value_type == "float" %}
                         {{ value }}
                       {% endif %}
 
                       {% if value_type == "list" %}
                         {% set item_value_type = value[0].__class__.__name__ %}
 
-                        {% if item_value_type == "str" or item_value_type == "int"  %}
+                        {% if item_value_type == "str" or item_value_type == "int" or item_value_type == "float" %}
                           {% for item_value in value %}
                             {{ item_value }}<br/>
                           {% endfor %}

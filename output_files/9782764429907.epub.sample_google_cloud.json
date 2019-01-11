@@ -1,0 +1,1171 @@
+{
+  "entities": [
+    {
+      "name": "image",
+      "type": "OTHER",
+      "salience": 0.11904047429561615,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 18
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.11904047429561615,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 2
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.10949354618787766,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 27
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.09824912995100021,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 12
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p3",
+      "type": "OTHER",
+      "salience": 0.08424949645996094,
+      "mentions": [
+        {
+          "text": {
+            "content": "p3",
+            "beginOffset": 9
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Projet",
+      "type": "OTHER",
+      "salience": 0.08424949645996094,
+      "mentions": [
+        {
+          "text": {
+            "content": "Projet",
+            "beginOffset": 32
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "St\u00e9phanie Durand",
+      "type": "PERSON",
+      "salience": 0.07408343255519867,
+      "mentions": [
+        {
+          "text": {
+            "content": "St\u00e9phanie Durand",
+            "beginOffset": 51
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "M\u00e9lanie Gigu\u00e8re-Gilbert",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11bwfvlny7"
+      },
+      "salience": 0.03037843108177185,
+      "mentions": [
+        {
+          "text": {
+            "content": "M\u00e9lanie Gigu\u00e8re-Gilbert",
+            "beginOffset": 111
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Conception",
+      "type": "OTHER",
+      "salience": 0.02957713045179844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conception",
+            "beginOffset": 72
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "illustrations",
+      "type": "WORK_OF_ART",
+      "salience": 0.02957713045179844,
+      "mentions": [
+        {
+          "text": {
+            "content": "illustrations",
+            "beginOffset": 96
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pages",
+      "type": "OTHER",
+      "salience": 0.019614847376942635,
+      "mentions": [
+        {
+          "text": {
+            "content": "pages",
+            "beginOffset": 146
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Julie Villemaire",
+      "type": "PERSON",
+      "salience": 0.017179591581225395,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie Villemaire",
+            "beginOffset": 153
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9vision",
+      "type": "OTHER",
+      "salience": 0.014641107991337776,
+      "mentions": [
+        {
+          "text": {
+            "content": "R\u00e9vision",
+            "beginOffset": 171
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Isabelle Pauz\u00e9",
+      "type": "PERSON",
+      "salience": 0.006421639118343592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Isabelle Pauz\u00e9",
+            "beginOffset": 195
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ePub",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/EPUB",
+        "mid": "/m/05n00zq"
+      },
+      "salience": 0.006001608911901712,
+      "mentions": [
+        {
+          "text": {
+            "content": "ePub",
+            "beginOffset": 226
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "ePub",
+            "beginOffset": 1269
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Conversion",
+      "type": "OTHER",
+      "salience": 0.005841436330229044,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conversion",
+            "beginOffset": 212
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Qu\u00e9bec",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Quebec",
+        "mid": "/m/0694j"
+      },
+      "salience": 0.005190555471926928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Qu\u00e9bec",
+            "beginOffset": 330
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Qu\u00e9bec",
+            "beginOffset": 849
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Qu\u00e9bec",
+            "beginOffset": 1419
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Maryl\u00e8ne Plante-Germain",
+      "type": "PERSON",
+      "salience": 0.005111880134791136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maryl\u00e8ne Plante-Germain",
+            "beginOffset": 232
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Qu\u00e9bec Am\u00e9rique",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://fr.wikipedia.org/wiki/Qu\u00e9bec_Am\u00e9rique",
+        "mid": "/g/122s8wbz"
+      },
+      "salience": 0.004980981349945068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Qu\u00e9bec Am\u00e9rique",
+            "beginOffset": 260
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "rue",
+      "type": "LOCATION",
+      "salience": 0.004140790551900864,
+      "mentions": [
+        {
+          "text": {
+            "content": "rue",
+            "beginOffset": 284
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Commune Ouest",
+      "type": "LOCATION",
+      "salience": 0.003623255528509617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Commune Ouest",
+            "beginOffset": 294
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "t\u00e9l\u00e9copieur",
+      "type": "OTHER",
+      "salience": 0.0032018201891332865,
+      "mentions": [
+        {
+          "text": {
+            "content": "t\u00e9l\u00e9copieur",
+            "beginOffset": 375
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "H2Y 2E1",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/g/1tplpyg2"
+      },
+      "salience": 0.003160448744893074,
+      "mentions": [
+        {
+          "text": {
+            "content": "H2Y 2E1",
+            "beginOffset": 339
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Montr\u00e9al",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Montreal",
+        "mid": "/m/052p7"
+      },
+      "salience": 0.003160448744893074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Montr\u00e9al",
+            "beginOffset": 319
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "SODEC",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Soci\u00e9t\u00e9_de_d\u00e9veloppement_des_entreprises_culturelles",
+        "mid": "/m/0gpsk7"
+      },
+      "salience": 0.0030022496357560158,
+      "mentions": [
+        {
+          "text": {
+            "content": "SODEC",
+            "beginOffset": 801
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "SODEC",
+            "beginOffset": 930
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0029637417756021023,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 942
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9dition",
+      "type": "EVENT",
+      "salience": 0.0029114645440131426,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9dition",
+            "beginOffset": 900
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Canada",
+        "mid": "/m/0d060g"
+      },
+      "salience": 0.0028830720111727715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 465
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 511
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 1455
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ISBN",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/International_Standard_Book_Number",
+        "mid": "/m/03vm8"
+      },
+      "salience": 0.0027614361606538296,
+      "mentions": [
+        {
+          "text": {
+            "content": "ISBN",
+            "beginOffset": 1171
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "ISBN",
+            "beginOffset": 1215
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "ISBN",
+            "beginOffset": 1245
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "livres",
+      "type": "WORK_OF_ART",
+      "salience": 0.002597765764221549,
+      "mentions": [
+        {
+          "text": {
+            "content": "livres",
+            "beginOffset": 912
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gouvernement",
+      "type": "ORGANIZATION",
+      "salience": 0.002597765764221549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gouvernement",
+            "beginOffset": 833
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enfants",
+      "type": "PERSON",
+      "salience": 0.002527320757508278,
+      "mentions": [
+        {
+          "text": {
+            "content": "enfants",
+            "beginOffset": 1161
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9dition",
+      "type": "EVENT",
+      "salience": 0.002503662370145321,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9dition",
+            "beginOffset": 542
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Version",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0023980149999260902,
+      "mentions": [
+        {
+          "text": {
+            "content": "Version",
+            "beginOffset": 1195
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appui",
+      "type": "OTHER",
+      "salience": 0.002386500360444188,
+      "mentions": [
+        {
+          "text": {
+            "content": "appui",
+            "beginOffset": 816
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Canadiens",
+      "type": "LOCATION",
+      "salience": 0.0023144339211285114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canadiens",
+            "beginOffset": 734
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Canadiennes",
+      "type": "ORGANIZATION",
+      "salience": 0.0023144339211285114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canadiennes",
+            "beginOffset": 715
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PDF",
+      "type": "OTHER",
+      "salience": 0.0022811568342149258,
+      "mentions": [
+        {
+          "text": {
+            "content": "PDF",
+            "beginOffset": 1239
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gouvernement",
+      "type": "ORGANIZATION",
+      "salience": 0.002233854727819562,
+      "mentions": [
+        {
+          "text": {
+            "content": "gouvernement",
+            "beginOffset": 449
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.002233854727819562,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 502
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gestion",
+      "type": "OTHER",
+      "salience": 0.0022121029905974865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gestion",
+            "beginOffset": 922
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Programme",
+      "type": "OTHER",
+      "salience": 0.0022121029905974865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Programme",
+            "beginOffset": 859
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cr\u00e9dit",
+      "type": "OTHER",
+      "salience": 0.0022121029905974865,
+      "mentions": [
+        {
+          "text": {
+            "content": "cr\u00e9dit",
+            "beginOffset": 872
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "imp\u00f4t",
+      "type": "OTHER",
+      "salience": 0.0022121029905974865,
+      "mentions": [
+        {
+          "text": {
+            "content": "imp\u00f4t",
+            "beginOffset": 884
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Biblioth\u00e8que et Archives Canada",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Library_and_Archives_Canada",
+        "mid": "/m/03h2px"
+      },
+      "salience": 0.002136754337698221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Biblioth\u00e8que et Archives Canada",
+            "beginOffset": 1069
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Titre",
+      "type": "OTHER",
+      "salience": 0.0019896123558282852,
+      "mentions": [
+        {
+          "text": {
+            "content": "Titre",
+            "beginOffset": 1279
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Biblioth\u00e8que nationale",
+      "type": "OTHER",
+      "salience": 0.001915074186399579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Biblioth\u00e8que nationale",
+            "beginOffset": 1392
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "activit\u00e9s",
+      "type": "OTHER",
+      "salience": 0.001902167685329914,
+      "mentions": [
+        {
+          "text": {
+            "content": "activit\u00e9s",
+            "beginOffset": 527
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "entremise",
+      "type": "EVENT",
+      "salience": 0.001902167685329914,
+      "mentions": [
+        {
+          "text": {
+            "content": "entremise",
+            "beginOffset": 480
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aide",
+      "type": "OTHER",
+      "salience": 0.001902167685329914,
+      "mentions": [
+        {
+          "text": {
+            "content": "aide",
+            "beginOffset": 429
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fonds",
+      "type": "ORGANIZATION",
+      "salience": 0.001902167685329914,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fonds",
+            "beginOffset": 493
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sodec.jpg/OEBPS/image/Sodec.jpg",
+      "type": "OTHER",
+      "salience": 0.0018946973141282797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sodec.jpg/OEBPS/image/Sodec.jpg",
+            "beginOffset": 949
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Biblioth\u00e8que nationale",
+      "type": "OTHER",
+      "salience": 0.00184505560901016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Biblioth\u00e8que nationale",
+            "beginOffset": 1428
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "D\u00e9p\u00f4t",
+      "type": "EVENT",
+      "salience": 0.0018330169841647148,
+      "mentions": [
+        {
+          "text": {
+            "content": "D\u00e9p\u00f4t",
+            "beginOffset": 1356
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Conseil des arts du Canada",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Canada_Council",
+        "mid": "/m/01lf4c"
+      },
+      "salience": 0.001772662391886115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conseil des arts du Canada",
+            "beginOffset": 572
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PS8613.I382P47",
+      "type": "PERSON",
+      "salience": 0.001669428893364966,
+      "mentions": [
+        {
+          "text": {
+            "content": "PS8613.I382P47",
+            "beginOffset": 1287
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "jC843",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001669428893364966,
+      "mentions": [
+        {
+          "text": {
+            "content": "jC843",
+            "beginOffset": 1307
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PS9613.I382P47",
+      "type": "OTHER",
+      "salience": 0.001669428893364966,
+      "mentions": [
+        {
+          "text": {
+            "content": "PS9613.I382P47",
+            "beginOffset": 1333
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "soutien",
+      "type": "OTHER",
+      "salience": 0.0016691848868504167,
+      "mentions": [
+        {
+          "text": {
+            "content": "soutien",
+            "beginOffset": 606
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00c9ditions",
+      "type": "ORGANIZATION",
+      "salience": 0.0015736037166789174,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00c9ditions",
+            "beginOffset": 1543
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vie",
+      "type": "OTHER",
+      "salience": 0.0015268519055098295,
+      "mentions": [
+        {
+          "text": {
+            "content": "vie",
+            "beginOffset": 707
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pays",
+      "type": "LOCATION",
+      "salience": 0.0015268519055098295,
+      "mentions": [
+        {
+          "text": {
+            "content": "pays",
+            "beginOffset": 755
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "art",
+      "type": "OTHER",
+      "salience": 0.0015268519055098295,
+      "mentions": [
+        {
+          "text": {
+            "content": "art",
+            "beginOffset": 695
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gilbert",
+      "type": "PERSON",
+      "salience": 0.0013611187459900975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gilbert",
+            "beginOffset": 1114
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "M\u00e9lanie",
+      "type": "PERSON",
+      "salience": 0.0013611187459900975,
+      "mentions": [
+        {
+          "text": {
+            "content": "M\u00e9lanie",
+            "beginOffset": 1123
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gigu\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0013611187459900975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gigu\u00e8re",
+            "beginOffset": 1105
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "coeur",
+      "type": "OTHER",
+      "salience": 0.0012493680696934462,
+      "mentions": [
+        {
+          "text": {
+            "content": "coeur",
+            "beginOffset": 1139
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cochon",
+      "type": "OTHER",
+      "salience": 0.0012493680696934462,
+      "mentions": [
+        {
+          "text": {
+            "content": "cochon",
+            "beginOffset": 1148
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "droits",
+      "type": "OTHER",
+      "salience": 0.001237670541740954,
+      "mentions": [
+        {
+          "text": {
+            "content": "droits",
+            "beginOffset": 1470
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "traduction",
+      "type": "OTHER",
+      "salience": 0.001237670541740954,
+      "mentions": [
+        {
+          "text": {
+            "content": "traduction",
+            "beginOffset": 1480
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reproduction",
+      "type": "OTHER",
+      "salience": 0.001237670541740954,
+      "mentions": [
+        {
+          "text": {
+            "content": "reproduction",
+            "beginOffset": 1495
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adaptation",
+      "type": "OTHER",
+      "salience": 0.001237670541740954,
+      "mentions": [
+        {
+          "text": {
+            "content": "adaptation",
+            "beginOffset": 1515
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Catalogage avant publication de Biblioth\u00e8que et Archives nationales du Qu\u00e9bec",
+      "type": "OTHER",
+      "salience": 0.0012332095066085458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Catalogage avant publication de Biblioth\u00e8que et Archives nationales du Qu\u00e9bec",
+            "beginOffset": 986
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Qu\u00e9bec Am\u00e9rique",
+      "type": "OTHER",
+      "salience": 0.0012282761745154858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Qu\u00e9bec Am\u00e9rique",
+            "beginOffset": 1553
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Conseil",
+      "type": "ORGANIZATION",
+      "salience": 0.001127326744608581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conseil",
+            "beginOffset": 634
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "quebec-amerique.com",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Americas",
+        "mid": "/m/07c5l"
+      },
+      "salience": 0.0010112705640494823,
+      "mentions": [
+        {
+          "text": {
+            "content": "quebec-amerique.com",
+            "beginOffset": 1584
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "fr"
+}

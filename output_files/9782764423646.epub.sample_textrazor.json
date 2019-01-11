@@ -1,0 +1,1 @@
+{"response": {"language": "eng", "languageIsReliable": false, "entities": [{"id": 0, "type": ["URL"], "matchingTokens": [0], "entityId": "62.jp", "freebaseTypes": [""], "confidenceScore": 0.5, "wikiLink": "", "matchedText": "62.jp", "relevanceScore": 0, "entityEnglishId": "", "startingPos": 0, "endingPos": 5}]}, "time": 0.008078, "ok": true}

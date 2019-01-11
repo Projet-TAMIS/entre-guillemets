@@ -1,0 +1,19 @@
+{
+  "entities": [
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 1.0,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 3
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

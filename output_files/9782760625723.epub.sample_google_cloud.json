@@ -1,0 +1,9137 @@
+{
+  "entities": [
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.06927594542503357,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 19
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "La g\u00e9ographie",
+      "type": "WORK_OF_ART",
+      "salience": 0.04847992584109306,
+      "mentions": [
+        {
+          "text": {
+            "content": "La g\u00e9ographie",
+            "beginOffset": 30
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pouvoir",
+      "type": "OTHER",
+      "salience": 0.030117711052298546,
+      "mentions": [
+        {
+          "text": {
+            "content": "pouvoir",
+            "beginOffset": 7
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abord",
+      "type": "OTHER",
+      "salience": 0.024831708520650864,
+      "mentions": [
+        {
+          "text": {
+            "content": "abord",
+            "beginOffset": 60
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guerre",
+      "type": "EVENT",
+      "salience": 0.02360386773943901,
+      "mentions": [
+        {
+          "text": {
+            "content": "guerre",
+            "beginOffset": 79
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yves Lacoste",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Yves_Lacoste",
+        "mid": "/m/08f6g_"
+      },
+      "salience": 0.01212108600884676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yves Lacoste",
+            "beginOffset": 91
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Yves Lacoste",
+            "beginOffset": 1689
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9moire",
+      "type": "OTHER",
+      "salience": 0.011494658887386322,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9moire",
+            "beginOffset": 194
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9tudes",
+      "type": "OTHER",
+      "salience": 0.010987755842506886,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9tudes",
+            "beginOffset": 284
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fois",
+      "type": "OTHER",
+      "salience": 0.010434817522764206,
+      "mentions": [
+        {
+          "text": {
+            "content": "fois",
+            "beginOffset": 725
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010235785506665707,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 1588
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9tudes sup\u00e9rieures",
+      "type": "OTHER",
+      "salience": 0.00938335806131363,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9tudes sup\u00e9rieures",
+            "beginOffset": 549
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008840558119118214,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 2106
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ma\u00eetrise",
+      "type": "OTHER",
+      "salience": 0.008733232505619526,
+      "mentions": [
+        {
+          "text": {
+            "content": "ma\u00eetrise",
+            "beginOffset": 206
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9but",
+      "type": "OTHER",
+      "salience": 0.008733232505619526,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9but",
+            "beginOffset": 114
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographes",
+      "type": "PERSON",
+      "salience": 0.00862413551658392,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographes",
+            "beginOffset": 1995
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9tudes",
+      "type": "WORK_OF_ART",
+      "salience": 0.008358782157301903,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9tudes",
+            "beginOffset": 399
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "La g\u00e9ographie",
+      "type": "WORK_OF_ART",
+      "salience": 0.008097715675830841,
+      "mentions": [
+        {
+          "text": {
+            "content": "La\ng\u00e9ographie",
+            "beginOffset": 1727
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Singapour",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Singapore",
+        "mid": "/m/06t2t"
+      },
+      "salience": 0.007640705909579992,
+      "mentions": [
+        {
+          "text": {
+            "content": "Singapour",
+            "beginOffset": 241
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Singapour",
+            "beginOffset": 767
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "id\u00e9e",
+      "type": "OTHER",
+      "salience": 0.0074577596969902515,
+      "mentions": [
+        {
+          "text": {
+            "content": "id\u00e9e",
+            "beginOffset": 525
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "raisons",
+      "type": "OTHER",
+      "salience": 0.0074577596969902515,
+      "mentions": [
+        {
+          "text": {
+            "content": "raisons",
+            "beginOffset": 643
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "effet",
+      "type": "OTHER",
+      "salience": 0.0074577596969902515,
+      "mentions": [
+        {
+          "text": {
+            "content": "effet",
+            "beginOffset": 308
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "direction",
+      "type": "OTHER",
+      "salience": 0.007436374202370644,
+      "mentions": [
+        {
+          "text": {
+            "content": "direction",
+            "beginOffset": 228
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doctorat",
+      "type": "OTHER",
+      "salience": 0.007436374202370644,
+      "mentions": [
+        {
+          "text": {
+            "content": "doctorat",
+            "beginOffset": 295
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moyen",
+      "type": "OTHER",
+      "salience": 0.0066269561648368835,
+      "mentions": [
+        {
+          "text": {
+            "content": "moyen",
+            "beginOffset": 1291
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fran\u00e7aise",
+      "type": "LOCATION",
+      "salience": 0.006524678319692612,
+      "mentions": [
+        {
+          "text": {
+            "content": "fran\u00e7aise",
+            "beginOffset": 435
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Qu\u00e9bec",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Quebec",
+        "mid": "/m/0694j"
+      },
+      "salience": 0.006524678319692612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Qu\u00e9bec",
+            "beginOffset": 573
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Qu\u00e9bec",
+            "beginOffset": 8290
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "th\u00e8me",
+      "type": "OTHER",
+      "salience": 0.0063501703552901745,
+      "mentions": [
+        {
+          "text": {
+            "content": "th\u00e8me",
+            "beginOffset": 459
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "air",
+      "type": "OTHER",
+      "salience": 0.0063501703552901745,
+      "mentions": [
+        {
+          "text": {
+            "content": "air",
+            "beginOffset": 693
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "large",
+      "type": "LOCATION",
+      "salience": 0.0063501703552901745,
+      "mentions": [
+        {
+          "text": {
+            "content": "large",
+            "beginOffset": 712
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "universit\u00e9",
+      "type": "ORGANIZATION",
+      "salience": 0.0063501703552901745,
+      "mentions": [
+        {
+          "text": {
+            "content": "universit\u00e9",
+            "beginOffset": 423
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "possibilit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0063501703552901745,
+      "mentions": [
+        {
+          "text": {
+            "content": "possibilit\u00e9",
+            "beginOffset": 363
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00c9tat",
+      "type": "ORGANIZATION",
+      "salience": 0.006337291561067104,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00c9tat",
+            "beginOffset": 916
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nom",
+      "type": "OTHER",
+      "salience": 0.0058006118051707745,
+      "mentions": [
+        {
+          "text": {
+            "content": "nom",
+            "beginOffset": 1031
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "africain",
+      "type": "LOCATION",
+      "salience": 0.0055555799044668674,
+      "mentions": [
+        {
+          "text": {
+            "content": "africain",
+            "beginOffset": 466
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Asie",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Asia",
+        "mid": "/m/0j0k"
+      },
+      "salience": 0.0055555799044668674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Asie",
+            "beginOffset": 743
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "arm\u00e9e",
+      "type": "ORGANIZATION",
+      "salience": 0.005260989535599947,
+      "mentions": [
+        {
+          "text": {
+            "content": "arm\u00e9e",
+            "beginOffset": 1163
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vue",
+      "type": "OTHER",
+      "salience": 0.00520683266222477,
+      "mentions": [
+        {
+          "text": {
+            "content": "vue",
+            "beginOffset": 1445
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reprises",
+      "type": "EVENT",
+      "salience": 0.00520683266222477,
+      "mentions": [
+        {
+          "text": {
+            "content": "reprises",
+            "beginOffset": 1430
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "instauration",
+      "type": "OTHER",
+      "salience": 0.005175183992832899,
+      "mentions": [
+        {
+          "text": {
+            "content": "instauration",
+            "beginOffset": 947
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colonels",
+      "type": "OTHER",
+      "salience": 0.005175183992832899,
+      "mentions": [
+        {
+          "text": {
+            "content": "colonels",
+            "beginOffset": 1053
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abord",
+      "type": "OTHER",
+      "salience": 0.005130385048687458,
+      "mentions": [
+        {
+          "text": {
+            "content": "abord",
+            "beginOffset": 1757
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e9riple",
+      "type": "OTHER",
+      "salience": 0.004985415376722813,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e9riple",
+            "beginOffset": 753
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guerre",
+      "type": "EVENT",
+      "salience": 0.004876174032688141,
+      "mentions": [
+        {
+          "text": {
+            "content": "guerre",
+            "beginOffset": 1776
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "point",
+      "type": "OTHER",
+      "salience": 0.004780254792422056,
+      "mentions": [
+        {
+          "text": {
+            "content": "point",
+            "beginOffset": 2045
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lieux",
+      "type": "LOCATION",
+      "salience": 0.004780254792422056,
+      "mentions": [
+        {
+          "text": {
+            "content": "lieux",
+            "beginOffset": 2071
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "auberge de jeunesse",
+      "type": "LOCATION",
+      "salience": 0.004693713970482349,
+      "mentions": [
+        {
+          "text": {
+            "content": "auberge de jeunesse",
+            "beginOffset": 1203
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aube",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004693713970482349,
+      "mentions": [
+        {
+          "text": {
+            "content": "aube",
+            "beginOffset": 1074
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fa\u00e7on",
+      "type": "OTHER",
+      "salience": 0.004433374851942062,
+      "mentions": [
+        {
+          "text": {
+            "content": "fa\u00e7on",
+            "beginOffset": 1546
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dictature",
+      "type": "EVENT",
+      "salience": 0.004406425170600414,
+      "mentions": [
+        {
+          "text": {
+            "content": "dictature",
+            "beginOffset": 968
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coup",
+      "type": "OTHER",
+      "salience": 0.004406425170600414,
+      "mentions": [
+        {
+          "text": {
+            "content": "coup",
+            "beginOffset": 907
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9gime",
+      "type": "OTHER",
+      "salience": 0.004406425170600414,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9gime",
+            "beginOffset": 1038
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "territoire",
+      "type": "LOCATION",
+      "salience": 0.004355068318545818,
+      "mentions": [
+        {
+          "text": {
+            "content": "territoire",
+            "beginOffset": 2915
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ath\u00e8nes",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Athens",
+        "mid": "/m/0n2z"
+      },
+      "salience": 0.004294417332857847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ath\u00e8nes",
+            "beginOffset": 847
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "grecque",
+      "type": "LOCATION",
+      "salience": 0.004106299020349979,
+      "mentions": [
+        {
+          "text": {
+            "content": "grecque",
+            "beginOffset": 1170
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographes",
+      "type": "PERSON",
+      "salience": 0.004032880999147892,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographes",
+            "beginOffset": 2326
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "utilisation",
+      "type": "OTHER",
+      "salience": 0.004023345187306404,
+      "mentions": [
+        {
+          "text": {
+            "content": "utilisation",
+            "beginOffset": 2145
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "h\u00e2te",
+      "type": "OTHER",
+      "salience": 0.003996443934738636,
+      "mentions": [
+        {
+          "text": {
+            "content": "h\u00e2te",
+            "beginOffset": 1117
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chars",
+      "type": "OTHER",
+      "salience": 0.003996443934738636,
+      "mentions": [
+        {
+          "text": {
+            "content": "chars",
+            "beginOffset": 1150
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "portes",
+      "type": "LOCATION",
+      "salience": 0.003996443934738636,
+      "mentions": [
+        {
+          "text": {
+            "content": "portes",
+            "beginOffset": 1189
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "OTHER",
+      "salience": 0.0038851413410156965,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 2685
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "junte militaire",
+      "type": "ORGANIZATION",
+      "salience": 0.0038607094902545214,
+      "mentions": [
+        {
+          "text": {
+            "content": "junte militaire",
+            "beginOffset": 875
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "monde",
+      "type": "LOCATION",
+      "salience": 0.003828728571534157,
+      "mentions": [
+        {
+          "text": {
+            "content": "monde",
+            "beginOffset": 1985
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "connaissance",
+      "type": "OTHER",
+      "salience": 0.003704240545630455,
+      "mentions": [
+        {
+          "text": {
+            "content": "connaissance",
+            "beginOffset": 2054
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sous-titr\u00e9e",
+      "type": "OTHER",
+      "salience": 0.0036660642363131046,
+      "mentions": [
+        {
+          "text": {
+            "content": "sous-titr\u00e9e",
+            "beginOffset": 1855
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "OTHER",
+      "salience": 0.0036641256883740425,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 2979
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "monstres",
+      "type": "OTHER",
+      "salience": 0.0036555477418005466,
+      "mentions": [
+        {
+          "text": {
+            "content": "monstres",
+            "beginOffset": 1364
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man\u0153uvres",
+      "type": "OTHER",
+      "salience": 0.0036555477418005466,
+      "mentions": [
+        {
+          "text": {
+            "content": "man\u0153uvres",
+            "beginOffset": 1349
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ext\u00e9rieur",
+      "type": "LOCATION",
+      "salience": 0.0036555477418005466,
+      "mentions": [
+        {
+          "text": {
+            "content": "ext\u00e9rieur",
+            "beginOffset": 1320
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Strat\u00e9gies, g\u00e9ographies, id\u00e9ologies",
+      "type": "OTHER",
+      "salience": 0.003594903973862529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Strat\u00e9gies, g\u00e9ographies,\nid\u00e9ologies",
+            "beginOffset": 1871
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographes",
+      "type": "PERSON",
+      "salience": 0.00357437483035028,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographes",
+            "beginOffset": 3004
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartographie",
+      "type": "OTHER",
+      "salience": 0.0034666419960558414,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartographie",
+            "beginOffset": 3126
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "raison",
+      "type": "OTHER",
+      "salience": 0.003415830433368683,
+      "mentions": [
+        {
+          "text": {
+            "content": "raison",
+            "beginOffset": 1944
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.003381726797670126,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 3111
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trappe",
+      "type": "OTHER",
+      "salience": 0.003367682220414281,
+      "mentions": [
+        {
+          "text": {
+            "content": "trappe",
+            "beginOffset": 1494
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "droits",
+      "type": "OTHER",
+      "salience": 0.003367682220414281,
+      "mentions": [
+        {
+          "text": {
+            "content": "droits",
+            "beginOffset": 1481
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mar\u00e9chal",
+      "type": "PERSON",
+      "salience": 0.003367682220414281,
+      "mentions": [
+        {
+          "text": {
+            "content": "mar\u00e9chal",
+            "beginOffset": 1556
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "officiers",
+      "type": "PERSON",
+      "salience": 0.003367682220414281,
+      "mentions": [
+        {
+          "text": {
+            "content": "of\ufb01ciers",
+            "beginOffset": 1453
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blind\u00e9s",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003367682220414281,
+      "mentions": [
+        {
+          "text": {
+            "content": "blind\u00e9s",
+            "beginOffset": 1519
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0032891342416405678,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 3457
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.003208565292879939,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 3304
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographes\u00e9taient",
+      "type": "PERSON",
+      "salience": 0.003208565292879939,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographes\u00e9taient",
+            "beginOffset": 3384
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "revue",
+      "type": "WORK_OF_ART",
+      "salience": 0.003121402580291033,
+      "mentions": [
+        {
+          "text": {
+            "content": "revue",
+            "beginOffset": 1832
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.003121402580291033,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 1721
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sc\u00e8ne",
+      "type": "OTHER",
+      "salience": 0.003121402580291033,
+      "mentions": [
+        {
+          "text": {
+            "content": "sc\u00e8ne",
+            "beginOffset": 1665
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.0030520865693688393,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 3617
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rommel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Erwin_Rommel",
+        "mid": "/m/02lmk"
+      },
+      "salience": 0.0029461646918207407,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rommel",
+            "beginOffset": 1566
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mat\u00e9rialisation",
+      "type": "EVENT",
+      "salience": 0.0029083334375172853,
+      "mentions": [
+        {
+          "text": {
+            "content": "mat\u00e9rialisation",
+            "beginOffset": 2081
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pr\u00e9paration",
+      "type": "EVENT",
+      "salience": 0.0029083334375172853,
+      "mentions": [
+        {
+          "text": {
+            "content": "pr\u00e9paration",
+            "beginOffset": 2124
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "H\u00e9rodote",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/H\u00e9rodote",
+        "mid": "/m/05p6bc0"
+      },
+      "salience": 0.0027307013515383005,
+      "mentions": [
+        {
+          "text": {
+            "content": "H\u00e9rodote",
+            "beginOffset": 1838
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "terre",
+      "type": "OTHER",
+      "salience": 0.0025861633475869894,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre",
+            "beginOffset": 3428
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abord",
+      "type": "OTHER",
+      "salience": 0.002387685002759099,
+      "mentions": [
+        {
+          "text": {
+            "content": "abord",
+            "beginOffset": 2183
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terre",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Earth",
+        "mid": "/m/02j71"
+      },
+      "salience": 0.002262440277263522,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre",
+            "beginOffset": 3260
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0022144950926303864,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 2758
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0021818368695676327,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3704
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0021818368695676327,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3711
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terrain",
+      "type": "LOCATION",
+      "salience": 0.002145393518730998,
+      "mentions": [
+        {
+          "text": {
+            "content": "terrain",
+            "beginOffset": 4075
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9moire",
+      "type": "OTHER",
+      "salience": 0.002102287719026208,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9moire",
+            "beginOffset": 2259
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lieux",
+      "type": "LOCATION",
+      "salience": 0.002100234618410468,
+      "mentions": [
+        {
+          "text": {
+            "content": "lieux",
+            "beginOffset": 2709
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.002084667794406414,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3850
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.002084667794406414,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3857
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chose",
+      "type": "OTHER",
+      "salience": 0.002017516642808914,
+      "mentions": [
+        {
+          "text": {
+            "content": "chose",
+            "beginOffset": 2498
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cas",
+      "type": "OTHER",
+      "salience": 0.0019340597791597247,
+      "mentions": [
+        {
+          "text": {
+            "content": "cas",
+            "beginOffset": 4161
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "relation",
+      "type": "OTHER",
+      "salience": 0.0018377816304564476,
+      "mentions": [
+        {
+          "text": {
+            "content": "relation",
+            "beginOffset": 2435
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bataille",
+      "type": "EVENT",
+      "salience": 0.0018377816304564476,
+      "mentions": [
+        {
+          "text": {
+            "content": "bataille",
+            "beginOffset": 2744
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "salience": 0.0018377816304564476,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 2675
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sorte",
+      "type": "OTHER",
+      "salience": 0.0017899076920002699,
+      "mentions": [
+        {
+          "text": {
+            "content": "sorte",
+            "beginOffset": 2387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00c9tats",
+      "type": "ORGANIZATION",
+      "salience": 0.0017332123825326562,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00c9tats",
+            "beginOffset": 2875
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lacoste",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Lacoste",
+        "mid": "/m/05l8z1"
+      },
+      "salience": 0.0017283251509070396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lacoste",
+            "beginOffset": 2408
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Lacoste",
+            "beginOffset": 4721
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Lacoste",
+            "beginOffset": 5636
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9monstration",
+      "type": "EVENT",
+      "salience": 0.001682075671851635,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9monstration",
+            "beginOffset": 2582
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "si\u00e8cles",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001586364465765655,
+      "mentions": [
+        {
+          "text": {
+            "content": "si\u00e8cles",
+            "beginOffset": 2959
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pouvoir",
+      "type": "OTHER",
+      "salience": 0.001586364465765655,
+      "mentions": [
+        {
+          "text": {
+            "content": "pouvoir",
+            "beginOffset": 3030
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.0015732261817902327,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 10683
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "savoir",
+      "type": "OTHER",
+      "salience": 0.0015263473615050316,
+      "mentions": [
+        {
+          "text": {
+            "content": "savoir",
+            "beginOffset": 2315
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Austerlitz",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Slavkov_u_Brna",
+        "mid": "/m/04n6vj"
+      },
+      "salience": 0.001471503172069788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Austerlitz",
+            "beginOffset": 2769
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Austerlitz",
+            "beginOffset": 4168
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "militaires",
+      "type": "PERSON",
+      "salience": 0.0014525288715958595,
+      "mentions": [
+        {
+          "text": {
+            "content": "militaires",
+            "beginOffset": 2219
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "affaire",
+      "type": "EVENT",
+      "salience": 0.0014525288715958595,
+      "mentions": [
+        {
+          "text": {
+            "content": "affaire",
+            "beginOffset": 2207
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.001450296025723219,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 4735
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "compos\u00e9s",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0014239799929782748,
+      "mentions": [
+        {
+          "text": {
+            "content": "compos\u00e9s",
+            "beginOffset": 3226
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "formation",
+      "type": "OTHER",
+      "salience": 0.001415249309502542,
+      "mentions": [
+        {
+          "text": {
+            "content": "formation",
+            "beginOffset": 2861
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.0014007668942213058,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 4961
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lurette",
+      "type": "OTHER",
+      "salience": 0.001375320483930409,
+      "mentions": [
+        {
+          "text": {
+            "content": "lurette",
+            "beginOffset": 2820
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartographie",
+      "type": "OTHER",
+      "salience": 0.0013657578965649009,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartographie",
+            "beginOffset": 13453
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tendance",
+      "type": "OTHER",
+      "salience": 0.0013595541240647435,
+      "mentions": [
+        {
+          "text": {
+            "content": "tendance",
+            "beginOffset": 2288
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9tiers",
+      "type": "OTHER",
+      "salience": 0.0013545206747949123,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9tiers",
+            "beginOffset": 3543
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.0013544718967750669,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 5087
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.0013152288738638163,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 13850
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "carte",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001314567169174552,
+      "mentions": [
+        {
+          "text": {
+            "content": "carte",
+            "beginOffset": 14316
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Napol\u00e9on Bonaparte",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon",
+        "mid": "/m/0j5b8"
+      },
+      "salience": 0.001312775886617601,
+      "mentions": [
+        {
+          "text": {
+            "content": "Napol\u00e9on\nBonaparte",
+            "beginOffset": 2546
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Napol\u00e9on",
+            "beginOffset": 4030
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Napol\u00e9on",
+            "beginOffset": 4581
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "carte",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001302305026911199,
+      "mentions": [
+        {
+          "text": {
+            "content": "carte",
+            "beginOffset": 5356
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographe",
+      "type": "PERSON",
+      "salience": 0.001298588584177196,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographe",
+            "beginOffset": 14157
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bataille",
+      "type": "EVENT",
+      "salience": 0.001290612737648189,
+      "mentions": [
+        {
+          "text": {
+            "content": "bataille",
+            "beginOffset": 4141
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bataille",
+      "type": "EVENT",
+      "salience": 0.001237725606188178,
+      "mentions": [
+        {
+          "text": {
+            "content": "bataille",
+            "beginOffset": 4188
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fondation Napol\u00e9on",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Fondation_Napol\u00e9on",
+        "mid": "/m/0hhqp5t"
+      },
+      "salience": 0.0012343603884801269,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fondation Napol\u00e9on",
+            "beginOffset": 3826
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographe",
+      "type": "PERSON",
+      "salience": 0.0012131662806496024,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographe",
+            "beginOffset": 9324
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disciplines",
+      "type": "OTHER",
+      "salience": 0.0012084103655070066,
+      "mentions": [
+        {
+          "text": {
+            "content": "disciplines",
+            "beginOffset": 3521
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "service",
+      "type": "OTHER",
+      "salience": 0.0012049428187310696,
+      "mentions": [
+        {
+          "text": {
+            "content": "service",
+            "beginOffset": 3019
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartographie",
+      "type": "OTHER",
+      "salience": 0.001178862527012825,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartographie",
+            "beginOffset": 9808
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0011582006700336933,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 6032
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9tangs",
+      "type": "LOCATION",
+      "salience": 0.001143840723671019,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9tangs",
+            "beginOffset": 4420
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.0011303379433229566,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 9904
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0011269703973084688,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 6354
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0011204314650967717,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 10316
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grec",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Greek_language",
+        "mid": "/m/0349s"
+      },
+      "salience": 0.001111338147893548,
+      "mentions": [
+        {
+          "text": {
+            "content": "grec",
+            "beginOffset": 3180
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "travail",
+      "type": "OTHER",
+      "salience": 0.0010999912628903985,
+      "mentions": [
+        {
+          "text": {
+            "content": "travail",
+            "beginOffset": 16842
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0010973610915243626,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 6492
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "carte",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0010920986533164978,
+      "mentions": [
+        {
+          "text": {
+            "content": "carte",
+            "beginOffset": 5743
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arm\u00e9e",
+      "type": "ORGANIZATION",
+      "salience": 0.001088214572519064,
+      "mentions": [
+        {
+          "text": {
+            "content": "arm\u00e9e",
+            "beginOffset": 4342
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartographie",
+      "type": "OTHER",
+      "salience": 0.0010845569195225835,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartographie",
+            "beginOffset": 10656
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terme",
+      "type": "OTHER",
+      "salience": 0.0010815970599651337,
+      "mentions": [
+        {
+          "text": {
+            "content": "terme",
+            "beginOffset": 3289
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dessin",
+      "type": "OTHER",
+      "salience": 0.0010815970599651337,
+      "mentions": [
+        {
+          "text": {
+            "content": "dessin",
+            "beginOffset": 3275
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mot",
+      "type": "OTHER",
+      "salience": 0.0010815970599651337,
+      "mentions": [
+        {
+          "text": {
+            "content": "mot",
+            "beginOffset": 3176
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "graphos",
+      "type": "OTHER",
+      "salience": 0.0010815970599651337,
+      "mentions": [
+        {
+          "text": {
+            "content": "graphos",
+            "beginOffset": 3243
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001066358177922666,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 10463
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "autre",
+      "type": "PERSON",
+      "salience": 0.0010288367047905922,
+      "mentions": [
+        {
+          "text": {
+            "content": "autre",
+            "beginOffset": 3694
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "une",
+      "type": "OTHER",
+      "salience": 0.0010288367047905922,
+      "mentions": [
+        {
+          "text": {
+            "content": "une",
+            "beginOffset": 3683
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartographie",
+      "type": "OTHER",
+      "salience": 0.0010288367047905922,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartographie",
+            "beginOffset": 3632
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terrain",
+      "type": "LOCATION",
+      "salience": 0.0010208005551248789,
+      "mentions": [
+        {
+          "text": {
+            "content": "terrain",
+            "beginOffset": 14691
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terrain",
+      "type": "LOCATION",
+      "salience": 0.0010208005551248789,
+      "mentions": [
+        {
+          "text": {
+            "content": "terrain",
+            "beginOffset": 14601
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.001018467009998858,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 12096
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "informatique",
+      "type": "OTHER",
+      "salience": 0.0010120028164237738,
+      "mentions": [
+        {
+          "text": {
+            "content": "informatique",
+            "beginOffset": 13345
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "imagerie",
+      "type": "OTHER",
+      "salience": 0.0010120028164237738,
+      "mentions": [
+        {
+          "text": {
+            "content": "imagerie",
+            "beginOffset": 13244
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "salience": 0.0010120028164237738,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": 13131
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0010086199035868049,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 6816
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "2Napol\u00e9on Bonaparte",
+      "type": "OTHER",
+      "salience": 0.0010079030180349946,
+      "mentions": [
+        {
+          "text": {
+            "content": "2Napol\u00e9on Bonaparte",
+            "beginOffset": 3777
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "chap003_img005-jpg/OEBPS/images/chap003_img005.jpg",
+      "type": "OTHER",
+      "salience": 0.0010079030180349946,
+      "mentions": [
+        {
+          "text": {
+            "content": "chap003_img005-jpg/OEBPS/images/chap003_img005.jpg",
+            "beginOffset": 3718
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "informations",
+      "type": "OTHER",
+      "salience": 0.0009988746605813503,
+      "mentions": [
+        {
+          "text": {
+            "content": "informations",
+            "beginOffset": 13373
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terre",
+      "type": "LOCATION",
+      "salience": 0.000996018759906292,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre",
+            "beginOffset": 9156
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "territoire",
+      "type": "LOCATION",
+      "salience": 0.000993064371868968,
+      "mentions": [
+        {
+          "text": {
+            "content": "territoire",
+            "beginOffset": 5566
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "OTHER",
+      "salience": 0.0009736020001582801,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 14233
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "informations",
+      "type": "OTHER",
+      "salience": 0.0009736020001582801,
+      "mentions": [
+        {
+          "text": {
+            "content": "informations",
+            "beginOffset": 13938
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "empereur",
+      "type": "PERSON",
+      "salience": 0.0009708271827548742,
+      "mentions": [
+        {
+          "text": {
+            "content": "empereur",
+            "beginOffset": 4227
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chap003_img006-jpg/OEBPS/images/chap003_img006.jpg)figure 3La bataille d'Austerlitz",
+      "type": "OTHER",
+      "salience": 0.0009630100103095174,
+      "mentions": [
+        {
+          "text": {
+            "content": "chap003_img006-jpg/OEBPS/images/chap003_img006.jpg]\ufb01gure 3La bataille d\u2019Austerlitz",
+            "beginOffset": 3864
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "informations",
+      "type": "OTHER",
+      "salience": 0.0009614338050596416,
+      "mentions": [
+        {
+          "text": {
+            "content": "informations",
+            "beginOffset": 14440
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0009614338050596416,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 14548
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0009605624945834279,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 7319
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.0009599020704627037,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 6973
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Europe",
+        "mid": "/m/02j9z"
+      },
+      "salience": 0.000946188229136169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 3338
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "terre",
+      "type": "LOCATION",
+      "salience": 0.0009432470542378724,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre",
+            "beginOffset": 9773
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "http://www.searchlores.org/evaluate/austerlitz.htm#maps",
+      "type": "OTHER",
+      "salience": 0.0009372379863634706,
+      "mentions": [
+        {
+          "text": {
+            "content": "http://www.searchlores.org/evaluate/austerlitz.htm#maps",
+            "beginOffset": 3971
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "OTHER",
+      "salience": 0.000923188345041126,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 15501
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.0009220424108207226,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 15315
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0009156246087513864,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 15236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cas",
+      "type": "OTHER",
+      "salience": 0.0009078740258701146,
+      "mentions": [
+        {
+          "text": {
+            "content": "cas",
+            "beginOffset": 8777
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9omatique",
+      "type": "OTHER",
+      "salience": 0.0009005686151795089,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9omatique",
+            "beginOffset": 15967
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.0009005686151795089,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 16104
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soin",
+      "type": "OTHER",
+      "salience": 0.0008972306386567652,
+      "mentions": [
+        {
+          "text": {
+            "content": "soin",
+            "beginOffset": 4067
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terres",
+      "type": "LOCATION",
+      "salience": 0.0008957271929830313,
+      "mentions": [
+        {
+          "text": {
+            "content": "terres",
+            "beginOffset": 10166
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Trois Empereurs",
+      "type": "PERSON",
+      "salience": 0.0008841231465339661,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trois Empereurs",
+            "beginOffset": 4206
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008820682996883988,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 16690
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographe",
+      "type": "PERSON",
+      "salience": 0.0008763838559389114,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographe",
+            "beginOffset": 6827
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9chelles",
+      "type": "OTHER",
+      "salience": 0.0008717605378478765,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9chelles",
+            "beginOffset": 5410
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographes",
+      "type": "PERSON",
+      "salience": 0.0008701494662091136,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographes",
+            "beginOffset": 16507
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "analyse",
+      "type": "OTHER",
+      "salience": 0.0008670493843965232,
+      "mentions": [
+        {
+          "text": {
+            "content": "analyse",
+            "beginOffset": 6959
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "analyse",
+      "type": "OTHER",
+      "salience": 0.00086161307990551,
+      "mentions": [
+        {
+          "text": {
+            "content": "analyse",
+            "beginOffset": 13287
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.0008604559698142111,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 16585
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Photo12.com",
+      "type": "OTHER",
+      "salience": 0.0008581224828958511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Photo12.com",
+            "beginOffset": 3812
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "carte",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008535279775969684,
+      "mentions": [
+        {
+          "text": {
+            "content": "carte",
+            "beginOffset": 17394
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fran\u00e7ais",
+      "type": "LOCATION",
+      "salience": 0.0008492846973240376,
+      "mentions": [
+        {
+          "text": {
+            "content": "fran\u00e7ais",
+            "beginOffset": 4236
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9chelles",
+      "type": "OTHER",
+      "salience": 0.0008454888011328876,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9chelles",
+            "beginOffset": 5534
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "analyse",
+      "type": "OTHER",
+      "salience": 0.0008369081770069897,
+      "mentions": [
+        {
+          "text": {
+            "content": "analyse",
+            "beginOffset": 5169
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographe",
+      "type": "PERSON",
+      "salience": 0.0008326148963533342,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographe",
+            "beginOffset": 17488
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "alli\u00e9s",
+      "type": "PERSON",
+      "salience": 0.0008265558863058686,
+      "mentions": [
+        {
+          "text": {
+            "content": "alli\u00e9s",
+            "beginOffset": 4276
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plateau",
+      "type": "LOCATION",
+      "salience": 0.0008265558863058686,
+      "mentions": [
+        {
+          "text": {
+            "content": "plateau",
+            "beginOffset": 4310
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "combats",
+      "type": "EVENT",
+      "salience": 0.0008265558863058686,
+      "mentions": [
+        {
+          "text": {
+            "content": "combats",
+            "beginOffset": 4386
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "issue",
+      "type": "OTHER",
+      "salience": 0.0008265558863058686,
+      "mentions": [
+        {
+          "text": {
+            "content": "issue",
+            "beginOffset": 4369
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9chelle",
+      "type": "OTHER",
+      "salience": 0.0008207362843677402,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9chelle",
+            "beginOffset": 5827
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "salience": 0.000819444190710783,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": 10285
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tout",
+      "type": "OTHER",
+      "salience": 0.0008175187394954264,
+      "mentions": [
+        {
+          "text": {
+            "content": "tout",
+            "beginOffset": 9467
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "salience": 0.0008061143453232944,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": 10446
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9moire",
+      "type": "OTHER",
+      "salience": 0.0007995786145329475,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9moire",
+            "beginOffset": 7584
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arm\u00e9e",
+      "type": "ORGANIZATION",
+      "salience": 0.0007904139929451048,
+      "mentions": [
+        {
+          "text": {
+            "content": "arm\u00e9e",
+            "beginOffset": 4503
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0007797061116434634,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 10718
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "point",
+      "type": "OTHER",
+      "salience": 0.0007761492161080241,
+      "mentions": [
+        {
+          "text": {
+            "content": "point",
+            "beginOffset": 4872
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9chelle",
+      "type": "OTHER",
+      "salience": 0.0007752932142466307,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9chelle",
+            "beginOffset": 6049
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "carte",
+      "type": "OTHER",
+      "salience": 0.000767599034588784,
+      "mentions": [
+        {
+          "text": {
+            "content": "carte",
+            "beginOffset": 10862
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "recours",
+      "type": "OTHER",
+      "salience": 0.0007634871872141957,
+      "mentions": [
+        {
+          "text": {
+            "content": "recours",
+            "beginOffset": 15224
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9chelle",
+      "type": "OTHER",
+      "salience": 0.0007543869432993233,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9chelle",
+            "beginOffset": 6341
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "victoire",
+      "type": "EVENT",
+      "salience": 0.000753532163798809,
+      "mentions": [
+        {
+          "text": {
+            "content": "victoire",
+            "beginOffset": 4569
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0007491987780667841,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 14338
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.000748791208025068,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 10902
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "carte",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0007444660877808928,
+      "mentions": [
+        {
+          "text": {
+            "content": "carte",
+            "beginOffset": 11175
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terre",
+      "type": "LOCATION",
+      "salience": 0.0007431465201079845,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre",
+            "beginOffset": 15263
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9chelles",
+      "type": "OTHER",
+      "salience": 0.0007378091686405241,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9chelles",
+            "beginOffset": 10598
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9chelle",
+      "type": "OTHER",
+      "salience": 0.0007345658377744257,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9chelle",
+            "beginOffset": 6514
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "carte",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0007334086112678051,
+      "mentions": [
+        {
+          "text": {
+            "content": "carte",
+            "beginOffset": 11397
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0007298443233594298,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 15350
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "partie",
+      "type": "OTHER",
+      "salience": 0.0007289148052223027,
+      "mentions": [
+        {
+          "text": {
+            "content": "partie",
+            "beginOffset": 4604
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "point de vue",
+      "type": "OTHER",
+      "salience": 0.000728750484995544,
+      "mentions": [
+        {
+          "text": {
+            "content": "point de vue",
+            "beginOffset": 13794
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lieu",
+      "type": "OTHER",
+      "salience": 0.0007264651940204203,
+      "mentions": [
+        {
+          "text": {
+            "content": "lieu",
+            "beginOffset": 5111
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "austro",
+      "type": "OTHER",
+      "salience": 0.0007230739574879408,
+      "mentions": [
+        {
+          "text": {
+            "content": "austro",
+            "beginOffset": 4284
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pratzen",
+      "type": "OTHER",
+      "salience": 0.0007230739574879408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pratzen",
+            "beginOffset": 4321
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.000722106546163559,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 15149
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paysages",
+      "type": "OTHER",
+      "salience": 0.0007195296930149198,
+      "mentions": [
+        {
+          "text": {
+            "content": "paysages",
+            "beginOffset": 13908
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartographie",
+      "type": "OTHER",
+      "salience": 0.0007122393581084907,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartographie",
+            "beginOffset": 11850
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paysages",
+      "type": "OTHER",
+      "salience": 0.0007112242165021598,
+      "mentions": [
+        {
+          "text": {
+            "content": "paysages",
+            "beginOffset": 8709
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lieu",
+      "type": "OTHER",
+      "salience": 0.0007039085030555725,
+      "mentions": [
+        {
+          "text": {
+            "content": "lieu",
+            "beginOffset": 5347
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "recours",
+      "type": "OTHER",
+      "salience": 0.0007035350427031517,
+      "mentions": [
+        {
+          "text": {
+            "content": "recours",
+            "beginOffset": 13330
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartographie",
+      "type": "OTHER",
+      "salience": 0.0007021013298071921,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartographie",
+            "beginOffset": 12190
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9chelle",
+      "type": "OTHER",
+      "salience": 0.0006924679619260132,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9chelle",
+            "beginOffset": 6665
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "OTHER",
+      "salience": 0.0006922442698851228,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 12336
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terre",
+      "type": "LOCATION",
+      "salience": 0.0006894128164276481,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre",
+            "beginOffset": 7830
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "analyse",
+      "type": "OTHER",
+      "salience": 0.000686318555381149,
+      "mentions": [
+        {
+          "text": {
+            "content": "analyse",
+            "beginOffset": 10507
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "donn\u00e9es",
+      "type": "OTHER",
+      "salience": 0.000685512030031532,
+      "mentions": [
+        {
+          "text": {
+            "content": "donn\u00e9es",
+            "beginOffset": 13591
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "syst\u00e8mes d'information g\u00e9ographique",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000685512030031532,
+      "mentions": [
+        {
+          "text": {
+            "content": "syst\u00e8mes d\u2019information g\u00e9ographique",
+            "beginOffset": 13697
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pouvoir",
+      "type": "OTHER",
+      "salience": 0.0006836844841018319,
+      "mentions": [
+        {
+          "text": {
+            "content": "pouvoir",
+            "beginOffset": 13275
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartographie",
+      "type": "OTHER",
+      "salience": 0.0006826570024713874,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartographie",
+            "beginOffset": 12605
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cas",
+      "type": "OTHER",
+      "salience": 0.0006791462074033916,
+      "mentions": [
+        {
+          "text": {
+            "content": "cas",
+            "beginOffset": 4901
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0006788784521631896,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 5926
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.000677479722071439,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 10752
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "donn\u00e9es",
+      "type": "OTHER",
+      "salience": 0.0006768382736481726,
+      "mentions": [
+        {
+          "text": {
+            "content": "donn\u00e9es",
+            "beginOffset": 13957
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images satellitaires",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006751835462637246,
+      "mentions": [
+        {
+          "text": {
+            "content": "images satellitaires",
+            "beginOffset": 15570
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "salience": 0.0006751835462637246,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": 15549
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "salience": 0.0006751835462637246,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": 16006
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somme",
+      "type": "OTHER",
+      "salience": 0.0006677618366666138,
+      "mentions": [
+        {
+          "text": {
+            "content": "somme",
+            "beginOffset": 13363
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "salience": 0.0006674082833342254,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": 16178
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strat\u00e9gie",
+      "type": "OTHER",
+      "salience": 0.0006671505398117006,
+      "mentions": [
+        {
+          "text": {
+            "content": "strat\u00e9gie",
+            "beginOffset": 4629
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartographie",
+      "type": "OTHER",
+      "salience": 0.0006642487132921815,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartographie",
+            "beginOffset": 12747
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "repr\u00e9sentation",
+      "type": "OTHER",
+      "salience": 0.0006621438660658896,
+      "mentions": [
+        {
+          "text": {
+            "content": "repr\u00e9sentation",
+            "beginOffset": 5423
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0006600774358958006,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 6063
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "donn\u00e9es",
+      "type": "OTHER",
+      "salience": 0.0006520714377984405,
+      "mentions": [
+        {
+          "text": {
+            "content": "donn\u00e9es",
+            "beginOffset": 14986
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "survol",
+      "type": "EVENT",
+      "salience": 0.0006508788210339844,
+      "mentions": [
+        {
+          "text": {
+            "content": "survol",
+            "beginOffset": 9087
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ographie",
+      "type": "OTHER",
+      "salience": 0.0006479729781858623,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ographie",
+            "beginOffset": 12782
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terre vue du ciel",
+      "type": "OTHER",
+      "salience": 0.0006452851230278611,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre vue du ciel",
+            "beginOffset": 7360
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9chelles",
+      "type": "OTHER",
+      "salience": 0.0006429905770346522,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9chelles",
+            "beginOffset": 7250
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "repr\u00e9sentation",
+      "type": "OTHER",
+      "salience": 0.0006421887665055692,
+      "mentions": [
+        {
+          "text": {
+            "content": "repr\u00e9sentation",
+            "beginOffset": 5547
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006379997939802706,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 16968
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "partie",
+      "type": "OTHER",
+      "salience": 0.0006376709206961095,
+      "mentions": [
+        {
+          "text": {
+            "content": "partie",
+            "beginOffset": 13653
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nature",
+      "type": "OTHER",
+      "salience": 0.0006356712547130883,
+      "mentions": [
+        {
+          "text": {
+            "content": "nature",
+            "beginOffset": 5257
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cas",
+      "type": "OTHER",
+      "salience": 0.0006324995192699134,
+      "mentions": [
+        {
+          "text": {
+            "content": "cas",
+            "beginOffset": 5903
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "conscience",
+      "type": "OTHER",
+      "salience": 0.0006323123816400766,
+      "mentions": [
+        {
+          "text": {
+            "content": "conscience",
+            "beginOffset": 9285
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "relation",
+      "type": "OTHER",
+      "salience": 0.0006296024657785892,
+      "mentions": [
+        {
+          "text": {
+            "content": "relation",
+            "beginOffset": 13874
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nature",
+      "type": "OTHER",
+      "salience": 0.0006296024657785892,
+      "mentions": [
+        {
+          "text": {
+            "content": "nature",
+            "beginOffset": 14065
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mise",
+      "type": "OTHER",
+      "salience": 0.0006296024657785892,
+      "mentions": [
+        {
+          "text": {
+            "content": "mise",
+            "beginOffset": 13866
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "point",
+      "type": "OTHER",
+      "salience": 0.0006260140798985958,
+      "mentions": [
+        {
+          "text": {
+            "content": "point",
+            "beginOffset": 6125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0006254020845517516,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 6528
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adversaires",
+      "type": "PERSON",
+      "salience": 0.0006240363582037389,
+      "mentions": [
+        {
+          "text": {
+            "content": "adversaires",
+            "beginOffset": 4259
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/France",
+        "mid": "/m/0f8l9c"
+      },
+      "salience": 0.0006151273264549673,
+      "mentions": [
+        {
+          "text": {
+            "content": "France",
+            "beginOffset": 4858
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9tablissement",
+      "type": "ORGANIZATION",
+      "salience": 0.0006140562472864985,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9tablissement",
+            "beginOffset": 14878
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9partition",
+      "type": "OTHER",
+      "salience": 0.0006140562472864985,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9partition",
+            "beginOffset": 14842
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "certains",
+      "type": "PERSON",
+      "salience": 0.0006133156130090356,
+      "mentions": [
+        {
+          "text": {
+            "content": "certains",
+            "beginOffset": 13550
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photos",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006069578230381012,
+      "mentions": [
+        {
+          "text": {
+            "content": "photos",
+            "beginOffset": 13042
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lieux",
+      "type": "LOCATION",
+      "salience": 0.0006055983831174672,
+      "mentions": [
+        {
+          "text": {
+            "content": "lieux",
+            "beginOffset": 10233
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SIG",
+      "type": "ORGANIZATION",
+      "salience": 0.0005996871041134,
+      "mentions": [
+        {
+          "text": {
+            "content": "SIG",
+            "beginOffset": 13738
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9volution",
+      "type": "EVENT",
+      "salience": 0.0005989824421703815,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9volution",
+            "beginOffset": 13172
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "av\u00e8nement",
+      "type": "OTHER",
+      "salience": 0.0005989824421703815,
+      "mentions": [
+        {
+          "text": {
+            "content": "av\u00e8nement",
+            "beginOffset": 13226
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "analyse",
+      "type": "OTHER",
+      "salience": 0.0005981168360449374,
+      "mentions": [
+        {
+          "text": {
+            "content": "analyse",
+            "beginOffset": 7216
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "relations",
+      "type": "OTHER",
+      "salience": 0.0005973709630779922,
+      "mentions": [
+        {
+          "text": {
+            "content": "relations",
+            "beginOffset": 5604
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "outil",
+      "type": "OTHER",
+      "salience": 0.0005973709630779922,
+      "mentions": [
+        {
+          "text": {
+            "content": "outil",
+            "beginOffset": 5683
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abord",
+      "type": "OTHER",
+      "salience": 0.0005957469111308455,
+      "mentions": [
+        {
+          "text": {
+            "content": "abord",
+            "beginOffset": 10402
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fois",
+      "type": "OTHER",
+      "salience": 0.0005957469111308455,
+      "mentions": [
+        {
+          "text": {
+            "content": "fois",
+            "beginOffset": 10414
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doute",
+      "type": "OTHER",
+      "salience": 0.0005951809580437839,
+      "mentions": [
+        {
+          "text": {
+            "content": "doute",
+            "beginOffset": 4538
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0005895599606446922,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 6679
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "analyse",
+      "type": "OTHER",
+      "salience": 0.0005841866950504482,
+      "mentions": [
+        {
+          "text": {
+            "content": "analyse",
+            "beginOffset": 7332
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9alit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0005836376803927124,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9alit\u00e9",
+            "beginOffset": 13755
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9marche",
+      "type": "OTHER",
+      "salience": 0.0005836376803927124,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9marche",
+            "beginOffset": 13813
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "monde",
+      "type": "LOCATION",
+      "salience": 0.0005818074569106102,
+      "mentions": [
+        {
+          "text": {
+            "content": "monde",
+            "beginOffset": 5228
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "compr\u00e9hension",
+      "type": "OTHER",
+      "salience": 0.0005818074569106102,
+      "mentions": [
+        {
+          "text": {
+            "content": "compr\u00e9hension",
+            "beginOffset": 5199
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "territoire",
+      "type": "LOCATION",
+      "salience": 0.0005766255781054497,
+      "mentions": [
+        {
+          "text": {
+            "content": "territoire",
+            "beginOffset": 11452
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photo",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005762528744526207,
+      "mentions": [
+        {
+          "text": {
+            "content": "photo",
+            "beginOffset": 14207
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ensemble",
+      "type": "OTHER",
+      "salience": 0.0005762528744526207,
+      "mentions": [
+        {
+          "text": {
+            "content": "ensemble",
+            "beginOffset": 13925
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "av\u00e8nement",
+      "type": "EVENT",
+      "salience": 0.0005762528744526207,
+      "mentions": [
+        {
+          "text": {
+            "content": "av\u00e8nement",
+            "beginOffset": 14190
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9marche",
+      "type": "OTHER",
+      "salience": 0.0005762528744526207,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9marche",
+            "beginOffset": 14144
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "critique",
+      "type": "OTHER",
+      "salience": 0.0005741525674238801,
+      "mentions": [
+        {
+          "text": {
+            "content": "critique",
+            "beginOffset": 4698
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "suite",
+      "type": "OTHER",
+      "salience": 0.0005741525674238801,
+      "mentions": [
+        {
+          "text": {
+            "content": "suite",
+            "beginOffset": 4686
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fa\u00e7ons",
+      "type": "OTHER",
+      "salience": 0.0005690504913218319,
+      "mentions": [
+        {
+          "text": {
+            "content": "fa\u00e7ons",
+            "beginOffset": 14477
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terroir",
+      "type": "LOCATION",
+      "salience": 0.0005681832553818822,
+      "mentions": [
+        {
+          "text": {
+            "content": "terroir",
+            "beginOffset": 11538
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "territoire",
+      "type": "LOCATION",
+      "salience": 0.0005681832553818822,
+      "mentions": [
+        {
+          "text": {
+            "content": "territoire",
+            "beginOffset": 11500
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jeu",
+      "type": "OTHER",
+      "salience": 0.0005637420690618455,
+      "mentions": [
+        {
+          "text": {
+            "content": "jeu",
+            "beginOffset": 5391
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "atlas",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005633762921206653,
+      "mentions": [
+        {
+          "text": {
+            "content": "atlas",
+            "beginOffset": 6017
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "population",
+      "type": "PERSON",
+      "salience": 0.0005620238371193409,
+      "mentions": [
+        {
+          "text": {
+            "content": "population",
+            "beginOffset": 14824
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "territoires",
+      "type": "LOCATION",
+      "salience": 0.0005599814467132092,
+      "mentions": [
+        {
+          "text": {
+            "content": "territoires",
+            "beginOffset": 11896
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rien",
+      "type": "OTHER",
+      "salience": 0.0005562745500355959,
+      "mentions": [
+        {
+          "text": {
+            "content": "rien",
+            "beginOffset": 13765
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contribution",
+      "type": "OTHER",
+      "salience": 0.0005526118911802769,
+      "mentions": [
+        {
+          "text": {
+            "content": "contribution",
+            "beginOffset": 17503
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "analyse",
+      "type": "OTHER",
+      "salience": 0.0005492387572303414,
+      "mentions": [
+        {
+          "text": {
+            "content": "analyse",
+            "beginOffset": 16720
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "analyse spatiale",
+      "type": "OTHER",
+      "salience": 0.0005372631712816656,
+      "mentions": [
+        {
+          "text": {
+            "content": "analyse spatiale",
+            "beginOffset": 17328
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nature",
+      "type": "OTHER",
+      "salience": 0.0005330023122951388,
+      "mentions": [
+        {
+          "text": {
+            "content": "nature",
+            "beginOffset": 6428
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "premi\u00e8res",
+      "type": "PERSON",
+      "salience": 0.0005323341465555131,
+      "mentions": [
+        {
+          "text": {
+            "content": "premi\u00e8res",
+            "beginOffset": 15332
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "analyse",
+      "type": "OTHER",
+      "salience": 0.0005314668524079025,
+      "mentions": [
+        {
+          "text": {
+            "content": "analyse",
+            "beginOffset": 17443
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "choses",
+      "type": "OTHER",
+      "salience": 0.0005307450774125755,
+      "mentions": [
+        {
+          "text": {
+            "content": "choses",
+            "beginOffset": 5773
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "salience": 0.0005301862256601453,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 10635
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Montr\u00e9al",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Montreal",
+        "mid": "/m/052p7"
+      },
+      "salience": 0.0005298176547512412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Montr\u00e9al",
+            "beginOffset": 5934
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Montr\u00e9al",
+            "beginOffset": 6917
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Montr\u00e9al",
+            "beginOffset": 8319
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Montr\u00e9al",
+            "beginOffset": 14358
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e9riple",
+      "type": "EVENT",
+      "salience": 0.0005286643281579018,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e9riple",
+            "beginOffset": 9493
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cours",
+      "type": "OTHER",
+      "salience": 0.0005286643281579018,
+      "mentions": [
+        {
+          "text": {
+            "content": "cours",
+            "beginOffset": 9383
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "type": "OTHER",
+      "salience": 0.0005274338182061911,
+      "mentions": [
+        {
+          "text": {
+            "content": "base",
+            "beginOffset": 13389
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sud",
+      "type": "LOCATION",
+      "salience": 0.0005259769968688488,
+      "mentions": [
+        {
+          "text": {
+            "content": "sud",
+            "beginOffset": 4446
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hommes",
+      "type": "PERSON",
+      "salience": 0.0005259769968688488,
+      "mentions": [
+        {
+          "text": {
+            "content": "hommes",
+            "beginOffset": 4474
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "outils",
+      "type": "OTHER",
+      "salience": 0.0005212892428971827,
+      "mentions": [
+        {
+          "text": {
+            "content": "outils",
+            "beginOffset": 10419
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "outils",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0005212892428971827,
+      "mentions": [
+        {
+          "text": {
+            "content": "outils",
+            "beginOffset": 10480
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tout",
+      "type": "OTHER",
+      "salience": 0.0005206766072660685,
+      "mentions": [
+        {
+          "text": {
+            "content": "tout",
+            "beginOffset": 13642
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ciel",
+      "type": "OTHER",
+      "salience": 0.0005193230463191867,
+      "mentions": [
+        {
+          "text": {
+            "content": "ciel",
+            "beginOffset": 9786
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u0153uvre",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005193230463191867,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u0153uvre",
+            "beginOffset": 9696
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "connaissance",
+      "type": "OTHER",
+      "salience": 0.0005181664018891752,
+      "mentions": [
+        {
+          "text": {
+            "content": "connaissance",
+            "beginOffset": 10216
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fa\u00e7on",
+      "type": "OTHER",
+      "salience": 0.0005156380357220769,
+      "mentions": [
+        {
+          "text": {
+            "content": "fa\u00e7on",
+            "beginOffset": 5951
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ville",
+      "type": "LOCATION",
+      "salience": 0.0005156380357220769,
+      "mentions": [
+        {
+          "text": {
+            "content": "ville",
+            "beginOffset": 5915
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "explicationdes",
+      "type": "OTHER",
+      "salience": 0.0005140884313732386,
+      "mentions": [
+        {
+          "text": {
+            "content": "explicationdes",
+            "beginOffset": 13893
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "consid\u00e9rations",
+      "type": "OTHER",
+      "salience": 0.0005128143820911646,
+      "mentions": [
+        {
+          "text": {
+            "content": "consid\u00e9rations",
+            "beginOffset": 6859
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "inscription",
+      "type": "EVENT",
+      "salience": 0.0005076629458926618,
+      "mentions": [
+        {
+          "text": {
+            "content": "inscription",
+            "beginOffset": 14403
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fond",
+      "type": "OTHER",
+      "salience": 0.0005076629458926618,
+      "mentions": [
+        {
+          "text": {
+            "content": "fond",
+            "beginOffset": 14308
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "liste",
+      "type": "OTHER",
+      "salience": 0.0005076629458926618,
+      "mentions": [
+        {
+          "text": {
+            "content": "liste",
+            "beginOffset": 14430
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "particulier",
+      "type": "OTHER",
+      "salience": 0.0005076629458926618,
+      "mentions": [
+        {
+          "text": {
+            "content": "particulier",
+            "beginOffset": 14494
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bien",
+      "type": "OTHER",
+      "salience": 0.0005076629458926618,
+      "mentions": [
+        {
+          "text": {
+            "content": "bien",
+            "beginOffset": 14468
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spatiale",
+      "type": "LOCATION",
+      "salience": 0.0005041062249802053,
+      "mentions": [
+        {
+          "text": {
+            "content": "spatiale",
+            "beginOffset": 13981
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "type": "OTHER",
+      "salience": 0.0005013942718505859,
+      "mentions": [
+        {
+          "text": {
+            "content": "type",
+            "beginOffset": 14869
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "formes",
+      "type": "OTHER",
+      "salience": 0.0005013942718505859,
+      "mentions": [
+        {
+          "text": {
+            "content": "formes",
+            "beginOffset": 14591
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "distribution",
+      "type": "OTHER",
+      "salience": 0.0005013942718505859,
+      "mentions": [
+        {
+          "text": {
+            "content": "distribution",
+            "beginOffset": 14805
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rues",
+      "type": "LOCATION",
+      "salience": 0.0005013942718505859,
+      "mentions": [
+        {
+          "text": {
+            "content": "rues",
+            "beginOffset": 14782
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9seau",
+      "type": "OTHER",
+      "salience": 0.0005013942718505859,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9seau",
+            "beginOffset": 14770
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grand-chose",
+      "type": "OTHER",
+      "salience": 0.0005013575428165495,
+      "mentions": [
+        {
+          "text": {
+            "content": "grand-chose",
+            "beginOffset": 6150
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ville",
+      "type": "LOCATION",
+      "salience": 0.0005013575428165495,
+      "mentions": [
+        {
+          "text": {
+            "content": "ville",
+            "beginOffset": 6184
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "montagne",
+      "type": "LOCATION",
+      "salience": 0.0005003021797165275,
+      "mentions": [
+        {
+          "text": {
+            "content": "montagne",
+            "beginOffset": 7012
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abord",
+      "type": "OTHER",
+      "salience": 0.0004989825538359582,
+      "mentions": [
+        {
+          "text": {
+            "content": "abord",
+            "beginOffset": 15428
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rien",
+      "type": "OTHER",
+      "salience": 0.0004985102568753064,
+      "mentions": [
+        {
+          "text": {
+            "content": "rien",
+            "beginOffset": 9010
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quartiers",
+      "type": "LOCATION",
+      "salience": 0.0004985102568753064,
+      "mentions": [
+        {
+          "text": {
+            "content": "quartiers",
+            "beginOffset": 8832
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9chelle",
+      "type": "OTHER",
+      "salience": 0.0004983339458703995,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9chelle",
+            "beginOffset": 11304
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paysages",
+      "type": "OTHER",
+      "salience": 0.0004955444019287825,
+      "mentions": [
+        {
+          "text": {
+            "content": "paysages",
+            "beginOffset": 7471
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fois",
+      "type": "OTHER",
+      "salience": 0.0004955444019287825,
+      "mentions": [
+        {
+          "text": {
+            "content": "fois",
+            "beginOffset": 7389
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fonction",
+      "type": "OTHER",
+      "salience": 0.0004952765884809196,
+      "mentions": [
+        {
+          "text": {
+            "content": "fonction",
+            "beginOffset": 15043
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "objectifs",
+      "type": "OTHER",
+      "salience": 0.0004952765884809196,
+      "mentions": [
+        {
+          "text": {
+            "content": "objectifs",
+            "beginOffset": 15056
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contour",
+      "type": "OTHER",
+      "salience": 0.0004931589355692267,
+      "mentions": [
+        {
+          "text": {
+            "content": "contour",
+            "beginOffset": 10154
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "salience": 0.0004924422828480601,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": 12717
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "places",
+      "type": "OTHER",
+      "salience": 0.0004892533179372549,
+      "mentions": [
+        {
+          "text": {
+            "content": "places",
+            "beginOffset": 6761
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "professeurs",
+      "type": "PERSON",
+      "salience": 0.0004888265393674374,
+      "mentions": [
+        {
+          "text": {
+            "content": "professeurs",
+            "beginOffset": 4756
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "publications",
+      "type": "OTHER",
+      "salience": 0.0004888265393674374,
+      "mentions": [
+        {
+          "text": {
+            "content": "publications",
+            "beginOffset": 4773
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "saveur",
+      "type": "OTHER",
+      "salience": 0.0004888265393674374,
+      "mentions": [
+        {
+          "text": {
+            "content": "saveur",
+            "beginOffset": 4789
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9tropole",
+      "type": "LOCATION",
+      "salience": 0.00048783773672766984,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9tropole",
+            "beginOffset": 6457
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "communication",
+      "type": "OTHER",
+      "salience": 0.00048777012852951884,
+      "mentions": [
+        {
+          "text": {
+            "content": "communication",
+            "beginOffset": 5692
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u0153uvres",
+      "type": "WORK_OF_ART",
+      "salience": 0.0004850069817621261,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u0153uvres",
+            "beginOffset": 10381
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "certaines",
+      "type": "PERSON",
+      "salience": 0.0004850069817621261,
+      "mentions": [
+        {
+          "text": {
+            "content": "certaines",
+            "beginOffset": 10329
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fois",
+      "type": "OTHER",
+      "salience": 0.0004845047660637647,
+      "mentions": [
+        {
+          "text": {
+            "content": "fois",
+            "beginOffset": 7693
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9chelles",
+      "type": "OTHER",
+      "salience": 0.00048374428297393024,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9chelles",
+            "beginOffset": 11765
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "partie int\u00e9grante",
+      "type": "OTHER",
+      "salience": 0.00048215180868282914,
+      "mentions": [
+        {
+          "text": {
+            "content": "partie int\u00e9grante",
+            "beginOffset": 16044
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "point",
+      "type": "OTHER",
+      "salience": 0.00048212733236141503,
+      "mentions": [
+        {
+          "text": {
+            "content": "point",
+            "beginOffset": 16459
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Atlantique",
+      "type": "LOCATION",
+      "salience": 0.00047919253120198846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Atlantique",
+            "beginOffset": 6286
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u0153uvre",
+      "type": "OTHER",
+      "salience": 0.0004771171079482883,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u0153uvre",
+            "beginOffset": 10580
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jeu",
+      "type": "OTHER",
+      "salience": 0.0004771171079482883,
+      "mentions": [
+        {
+          "text": {
+            "content": "jeu",
+            "beginOffset": 10590
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paysage",
+      "type": "OTHER",
+      "salience": 0.00047675619134679437,
+      "mentions": [
+        {
+          "text": {
+            "content": "paysage",
+            "beginOffset": 16747
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fonction",
+      "type": "OTHER",
+      "salience": 0.0004734896356239915,
+      "mentions": [
+        {
+          "text": {
+            "content": "fonction",
+            "beginOffset": 5811
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diff\u00e9rence",
+      "type": "OTHER",
+      "salience": 0.00047213086509145796,
+      "mentions": [
+        {
+          "text": {
+            "content": "diff\u00e9rence",
+            "beginOffset": 4943
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9t\u00e9s",
+      "type": "EVENT",
+      "salience": 0.0004716333351098001,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9t\u00e9s",
+            "beginOffset": 9441
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doute",
+      "type": "OTHER",
+      "salience": 0.0004716333351098001,
+      "mentions": [
+        {
+          "text": {
+            "content": "doute",
+            "beginOffset": 9351
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SIG",
+      "type": "OTHER",
+      "salience": 0.00046937604201957583,
+      "mentions": [
+        {
+          "text": {
+            "content": "SIG",
+            "beginOffset": 15803
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SIG",
+      "type": "OTHER",
+      "salience": 0.00046937604201957583,
+      "mentions": [
+        {
+          "text": {
+            "content": "SIG",
+            "beginOffset": 15857
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Syst\u00e8me d'information g\u00e9ographique",
+      "type": "ORGANIZATION",
+      "salience": 0.00046937604201957583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Syst\u00e8me d\u2019information\ng\u00e9ographique",
+            "beginOffset": 15763
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9volution",
+      "type": "EVENT",
+      "salience": 0.00046700891107320786,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9volution",
+            "beginOffset": 15295
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fois",
+      "type": "OTHER",
+      "salience": 0.0004663609142880887,
+      "mentions": [
+        {
+          "text": {
+            "content": "fois",
+            "beginOffset": 17262
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nature",
+      "type": "OTHER",
+      "salience": 0.00046538602327927947,
+      "mentions": [
+        {
+          "text": {
+            "content": "nature",
+            "beginOffset": 7135
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "salience": 0.00046538602327927947,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 7000
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "syst\u00e8mes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00046397067490033805,
+      "mentions": [
+        {
+          "text": {
+            "content": "syst\u00e8mes",
+            "beginOffset": 16164
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "construction",
+      "type": "OTHER",
+      "salience": 0.00046397067490033805,
+      "mentions": [
+        {
+          "text": {
+            "content": "construction",
+            "beginOffset": 16229
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "savant",
+      "type": "PERSON",
+      "salience": 0.000463669013697654,
+      "mentions": [
+        {
+          "text": {
+            "content": "savant",
+            "beginOffset": 14658
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "critique",
+      "type": "OTHER",
+      "salience": 0.0004632997151929885,
+      "mentions": [
+        {
+          "text": {
+            "content": "critique",
+            "beginOffset": 9758
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "usage",
+      "type": "OTHER",
+      "salience": 0.00046101026237010956,
+      "mentions": [
+        {
+          "text": {
+            "content": "usage",
+            "beginOffset": 13052
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dirigeables",
+      "type": "PERSON",
+      "salience": 0.00046101026237010956,
+      "mentions": [
+        {
+          "text": {
+            "content": "dirigeables",
+            "beginOffset": 13095
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "russe",
+      "type": "LOCATION",
+      "salience": 0.0004601245454978198,
+      "mentions": [
+        {
+          "text": {
+            "content": "russe",
+            "beginOffset": 4510
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9loge",
+      "type": "OTHER",
+      "salience": 0.0004577327927108854,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9loge",
+            "beginOffset": 9737
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "avantages",
+      "type": "OTHER",
+      "salience": 0.0004565255076158792,
+      "mentions": [
+        {
+          "text": {
+            "content": "avantages",
+            "beginOffset": 5069
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "probl\u00e8mes",
+      "type": "OTHER",
+      "salience": 0.0004565255076158792,
+      "mentions": [
+        {
+          "text": {
+            "content": "probl\u00e8mes",
+            "beginOffset": 5004
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0004562946851365268,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 16136
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "recours",
+      "type": "OTHER",
+      "salience": 0.0004560240777209401,
+      "mentions": [
+        {
+          "text": {
+            "content": "recours",
+            "beginOffset": 17380
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "outil",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0004558465152513236,
+      "mentions": [
+        {
+          "text": {
+            "content": "outil",
+            "beginOffset": 16317
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9moire",
+      "type": "OTHER",
+      "salience": 0.0004557572538033128,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9moire",
+            "beginOffset": 7528
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "limites",
+      "type": "OTHER",
+      "salience": 0.00044905036338604987,
+      "mentions": [
+        {
+          "text": {
+            "content": "limites",
+            "beginOffset": 13507
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "traitement",
+      "type": "OTHER",
+      "salience": 0.00044905036338604987,
+      "mentions": [
+        {
+          "text": {
+            "content": "traitement",
+            "beginOffset": 13415
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SIG",
+      "type": "OTHER",
+      "salience": 0.00044846837408840656,
+      "mentions": [
+        {
+          "text": {
+            "content": "SIG",
+            "beginOffset": 16813
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "construction",
+      "type": "OTHER",
+      "salience": 0.00044846837408840656,
+      "mentions": [
+        {
+          "text": {
+            "content": "construction",
+            "beginOffset": 16779
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tout",
+      "type": "OTHER",
+      "salience": 0.00044727217755280435,
+      "mentions": [
+        {
+          "text": {
+            "content": "tout",
+            "beginOffset": 6212
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "situation",
+      "type": "OTHER",
+      "salience": 0.00044727217755280435,
+      "mentions": [
+        {
+          "text": {
+            "content": "situation",
+            "beginOffset": 6229
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "distance",
+      "type": "OTHER",
+      "salience": 0.00044727217755280435,
+      "mentions": [
+        {
+          "text": {
+            "content": "distance",
+            "beginOffset": 6270
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9moire",
+      "type": "OTHER",
+      "salience": 0.0004458199255168438,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9moire",
+            "beginOffset": 7779
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "donn\u00e9es",
+      "type": "OTHER",
+      "salience": 0.00044352596160024405,
+      "mentions": [
+        {
+          "text": {
+            "content": "donn\u00e9es",
+            "beginOffset": 16934
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enjeux",
+      "type": "OTHER",
+      "salience": 0.00044190717744641006,
+      "mentions": [
+        {
+          "text": {
+            "content": "enjeux",
+            "beginOffset": 5218
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "salience": 0.00044190717744641006,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": 5121
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pertinence",
+      "type": "OTHER",
+      "salience": 0.00044190717744641006,
+      "mentions": [
+        {
+          "text": {
+            "content": "pertinence",
+            "beginOffset": 5151
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nom",
+      "type": "OTHER",
+      "salience": 0.0004402709600981325,
+      "mentions": [
+        {
+          "text": {
+            "content": "nom",
+            "beginOffset": 7035
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "explorateurs",
+      "type": "PERSON",
+      "salience": 0.0004399579484015703,
+      "mentions": [
+        {
+          "text": {
+            "content": "explorateurs",
+            "beginOffset": 9921
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9f\u00e9rence",
+      "type": "OTHER",
+      "salience": 0.00043768819887191057,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9f\u00e9rence",
+            "beginOffset": 13969
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "c'",
+      "type": "OTHER",
+      "salience": 0.00043768819887191057,
+      "mentions": [
+        {
+          "text": {
+            "content": "c\u2019",
+            "beginOffset": 14010
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "c\u0153ur",
+      "type": "OTHER",
+      "salience": 0.00043768819887191057,
+      "mentions": [
+        {
+          "text": {
+            "content": "c\u0153ur",
+            "beginOffset": 14132
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "topographie",
+      "type": "OTHER",
+      "salience": 0.00043521076440811157,
+      "mentions": [
+        {
+          "text": {
+            "content": "topographie",
+            "beginOffset": 6410
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "repr\u00e9sentation",
+      "type": "OTHER",
+      "salience": 0.00043395700049586594,
+      "mentions": [
+        {
+          "text": {
+            "content": "repr\u00e9sentation",
+            "beginOffset": 17420
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "regard",
+      "type": "OTHER",
+      "salience": 0.00043263580300845206,
+      "mentions": [
+        {
+          "text": {
+            "content": "regard",
+            "beginOffset": 8664
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "agencement",
+      "type": "EVENT",
+      "salience": 0.00043263580300845206,
+      "mentions": [
+        {
+          "text": {
+            "content": "agencement",
+            "beginOffset": 8694
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sens",
+      "type": "OTHER",
+      "salience": 0.00043263580300845206,
+      "mentions": [
+        {
+          "text": {
+            "content": "sens",
+            "beginOffset": 8728
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "signification",
+      "type": "OTHER",
+      "salience": 0.00043263580300845206,
+      "mentions": [
+        {
+          "text": {
+            "content": "signi\ufb01cation",
+            "beginOffset": 8750
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00eele",
+      "type": "LOCATION",
+      "salience": 0.00043221761006861925,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00eele",
+            "beginOffset": 14350
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Compagnie des Indes",
+      "type": "ORGANIZATION",
+      "salience": 0.00043141513015143573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Compagnie des Indes",
+            "beginOffset": 10039
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "appr\u00e9hension",
+      "type": "OTHER",
+      "salience": 0.00042818556539714336,
+      "mentions": [
+        {
+          "text": {
+            "content": "appr\u00e9hension",
+            "beginOffset": 5446
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lumi\u00e8re",
+      "type": "OTHER",
+      "salience": 0.00042818556539714336,
+      "mentions": [
+        {
+          "text": {
+            "content": "lumi\u00e8re",
+            "beginOffset": 5491
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "niveaux",
+      "type": "OTHER",
+      "salience": 0.00042818556539714336,
+      "mentions": [
+        {
+          "text": {
+            "content": "niveaux",
+            "beginOffset": 5399
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chemin",
+      "type": "OTHER",
+      "salience": 0.00042754397145472467,
+      "mentions": [
+        {
+          "text": {
+            "content": "chemin",
+            "beginOffset": 10133
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paysage",
+      "type": "OTHER",
+      "salience": 0.00042728515109047294,
+      "mentions": [
+        {
+          "text": {
+            "content": "paysage",
+            "beginOffset": 8468
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "relief",
+      "type": "OTHER",
+      "salience": 0.0004268804914318025,
+      "mentions": [
+        {
+          "text": {
+            "content": "relief",
+            "beginOffset": 14613
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mod\u00e8le",
+      "type": "OTHER",
+      "salience": 0.0004268804914318025,
+      "mentions": [
+        {
+          "text": {
+            "content": "mod\u00e8le",
+            "beginOffset": 14669
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "couches",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0004268804914318025,
+      "mentions": [
+        {
+          "text": {
+            "content": "couches",
+            "beginOffset": 14719
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ville",
+      "type": "LOCATION",
+      "salience": 0.0004259506822563708,
+      "mentions": [
+        {
+          "text": {
+            "content": "ville",
+            "beginOffset": 7045
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "salience": 0.00042442503035999835,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": 8858
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "espaces",
+      "type": "LOCATION",
+      "salience": 0.00042442503035999835,
+      "mentions": [
+        {
+          "text": {
+            "content": "espaces",
+            "beginOffset": 8795
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sol",
+      "type": "LOCATION",
+      "salience": 0.00042442503035999835,
+      "mentions": [
+        {
+          "text": {
+            "content": "sol",
+            "beginOffset": 9025
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mesure",
+      "type": "OTHER",
+      "salience": 0.00042442503035999835,
+      "mentions": [
+        {
+          "text": {
+            "content": "mesure",
+            "beginOffset": 8868
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ras",
+      "type": "OTHER",
+      "salience": 0.00042442503035999835,
+      "mentions": [
+        {
+          "text": {
+            "content": "ras",
+            "beginOffset": 9018
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mise",
+      "type": "OTHER",
+      "salience": 0.00042186942300759256,
+      "mentions": [
+        {
+          "text": {
+            "content": "mise",
+            "beginOffset": 16451
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "souhait",
+      "type": "OTHER",
+      "salience": 0.00042167192441411316,
+      "mentions": [
+        {
+          "text": {
+            "content": "souhait",
+            "beginOffset": 15031
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "recours",
+      "type": "OTHER",
+      "salience": 0.00041863435762934387,
+      "mentions": [
+        {
+          "text": {
+            "content": "recours",
+            "beginOffset": 11359
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tour",
+      "type": "OTHER",
+      "salience": 0.00041658736881799996,
+      "mentions": [
+        {
+          "text": {
+            "content": "tour",
+            "beginOffset": 15119
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ordre",
+      "type": "OTHER",
+      "salience": 0.00041658736881799996,
+      "mentions": [
+        {
+          "text": {
+            "content": "ordre",
+            "beginOffset": 15138
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puissance",
+      "type": "OTHER",
+      "salience": 0.00041651653009466827,
+      "mentions": [
+        {
+          "text": {
+            "content": "puissance",
+            "beginOffset": 9140
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sorte",
+      "type": "OTHER",
+      "salience": 0.00041579946991987526,
+      "mentions": [
+        {
+          "text": {
+            "content": "sorte",
+            "beginOffset": 7297
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jeu",
+      "type": "OTHER",
+      "salience": 0.00041579946991987526,
+      "mentions": [
+        {
+          "text": {
+            "content": "jeu",
+            "beginOffset": 7242
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "question",
+      "type": "OTHER",
+      "salience": 0.0004152809560764581,
+      "mentions": [
+        {
+          "text": {
+            "content": "question",
+            "beginOffset": 5521
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ph\u00e9nom\u00e8nes",
+      "type": "OTHER",
+      "salience": 0.0004152809560764581,
+      "mentions": [
+        {
+          "text": {
+            "content": "ph\u00e9nom\u00e8nes",
+            "beginOffset": 5588
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mystification",
+      "type": "OTHER",
+      "salience": 0.0004152809560764581,
+      "mentions": [
+        {
+          "text": {
+            "content": "mysti\ufb01cation",
+            "beginOffset": 5720
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rues",
+      "type": "LOCATION",
+      "salience": 0.0004099916841369122,
+      "mentions": [
+        {
+          "text": {
+            "content": "rues",
+            "beginOffset": 6578
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "avenir",
+      "type": "OTHER",
+      "salience": 0.00040889409137889743,
+      "mentions": [
+        {
+          "text": {
+            "content": "avenir",
+            "beginOffset": 9314
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lieux",
+      "type": "LOCATION",
+      "salience": 0.0004085369291715324,
+      "mentions": [
+        {
+          "text": {
+            "content": "lieux",
+            "beginOffset": 11010
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "relation",
+      "type": "OTHER",
+      "salience": 0.00040807342156767845,
+      "mentions": [
+        {
+          "text": {
+            "content": "relation",
+            "beginOffset": 17312
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mise",
+      "type": "OTHER",
+      "salience": 0.00040807342156767845,
+      "mentions": [
+        {
+          "text": {
+            "content": "mise",
+            "beginOffset": 17304
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "s\u00e9jours",
+      "type": "EVENT",
+      "salience": 0.0004015422018710524,
+      "mentions": [
+        {
+          "text": {
+            "content": "s\u00e9jours",
+            "beginOffset": 9393
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "long",
+      "type": "OTHER",
+      "salience": 0.0004015422018710524,
+      "mentions": [
+        {
+          "text": {
+            "content": "long",
+            "beginOffset": 9475
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "graines",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0004015422018710524,
+      "mentions": [
+        {
+          "text": {
+            "content": "graines",
+            "beginOffset": 9592
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "amis",
+      "type": "PERSON",
+      "salience": 0.0004015422018710524,
+      "mentions": [
+        {
+          "text": {
+            "content": "amis",
+            "beginOffset": 9540
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9alisation",
+      "type": "EVENT",
+      "salience": 0.00039962035953067243,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9alisation",
+            "beginOffset": 15485
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nom",
+      "type": "OTHER",
+      "salience": 0.00039962035953067243,
+      "mentions": [
+        {
+          "text": {
+            "content": "nom",
+            "beginOffset": 15698
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quasi-totalit\u00e9",
+      "type": "OTHER",
+      "salience": 0.00039962035953067243,
+      "mentions": [
+        {
+          "text": {
+            "content": "quasi-totalit\u00e9",
+            "beginOffset": 16069
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enseignement",
+      "type": "OTHER",
+      "salience": 0.00039962035953067243,
+      "mentions": [
+        {
+          "text": {
+            "content": "enseignement",
+            "beginOffset": 15921
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "monde",
+      "type": "LOCATION",
+      "salience": 0.00039962035953067243,
+      "mentions": [
+        {
+          "text": {
+            "content": "monde",
+            "beginOffset": 15898
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "utilisation",
+      "type": "EVENT",
+      "salience": 0.00039962035953067243,
+      "mentions": [
+        {
+          "text": {
+            "content": "utilisation",
+            "beginOffset": 15841
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "travers",
+      "type": "OTHER",
+      "salience": 0.00039962035953067243,
+      "mentions": [
+        {
+          "text": {
+            "content": "travers",
+            "beginOffset": 15887
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parcs",
+      "type": "LOCATION",
+      "salience": 0.00039948816993273795,
+      "mentions": [
+        {
+          "text": {
+            "content": "parcs",
+            "beginOffset": 6775
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SIG",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Geographic_information_system",
+        "mid": "/m/03821"
+      },
+      "salience": 0.0003967395459767431,
+      "mentions": [
+        {
+          "text": {
+            "content": "SIG",
+            "beginOffset": 16469
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "passages",
+      "type": "OTHER",
+      "salience": 0.00039444700814783573,
+      "mentions": [
+        {
+          "text": {
+            "content": "passages",
+            "beginOffset": 9678
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "planches",
+      "type": "OTHER",
+      "salience": 0.0003916480636689812,
+      "mentions": [
+        {
+          "text": {
+            "content": "planches",
+            "beginOffset": 6001
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fois",
+      "type": "OTHER",
+      "salience": 0.0003905991034116596,
+      "mentions": [
+        {
+          "text": {
+            "content": "fois",
+            "beginOffset": 11626
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "situation",
+      "type": "OTHER",
+      "salience": 0.0003895033441949636,
+      "mentions": [
+        {
+          "text": {
+            "content": "situation",
+            "beginOffset": 6904
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fran\u00e7ais",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/French_language",
+        "mid": "/m/064_8sq"
+      },
+      "salience": 0.00038195293745957315,
+      "mentions": [
+        {
+          "text": {
+            "content": "fran\u00e7ais",
+            "beginOffset": 15752
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sorte",
+      "type": "OTHER",
+      "salience": 0.0003818197292275727,
+      "mentions": [
+        {
+          "text": {
+            "content": "sorte",
+            "beginOffset": 16646
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contexte",
+      "type": "OTHER",
+      "salience": 0.0003818197292275727,
+      "mentions": [
+        {
+          "text": {
+            "content": "contexte",
+            "beginOffset": 16570
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9volution",
+      "type": "OTHER",
+      "salience": 0.0003809747286140919,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9volution",
+            "beginOffset": 9826
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "essence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0003808012988884002,
+      "mentions": [
+        {
+          "text": {
+            "content": "essence",
+            "beginOffset": 6170
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quartiers",
+      "type": "LOCATION",
+      "salience": 0.0003799996920861304,
+      "mentions": [
+        {
+          "text": {
+            "content": "quartiers",
+            "beginOffset": 7174
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ciel",
+      "type": "OTHER",
+      "salience": 0.0003795648517552763,
+      "mentions": [
+        {
+          "text": {
+            "content": "ciel",
+            "beginOffset": 7843
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accumulation",
+      "type": "EVENT",
+      "salience": 0.00037558816256932914,
+      "mentions": [
+        {
+          "text": {
+            "content": "accumulation",
+            "beginOffset": 14970
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roi",
+      "type": "PERSON",
+      "salience": 0.0003745740104932338,
+      "mentions": [
+        {
+          "text": {
+            "content": "roi",
+            "beginOffset": 10026
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Baie",
+      "type": "LOCATION",
+      "salience": 0.0003745740104932338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baie",
+            "beginOffset": 10068
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "point",
+      "type": "OTHER",
+      "salience": 0.00037415302358567715,
+      "mentions": [
+        {
+          "text": {
+            "content": "point",
+            "beginOffset": 12296
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "travail",
+      "type": "OTHER",
+      "salience": 0.0003734943747986108,
+      "mentions": [
+        {
+          "text": {
+            "content": "travail",
+            "beginOffset": 17232
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "repr\u00e9sentation",
+      "type": "OTHER",
+      "salience": 0.00037288255407474935,
+      "mentions": [
+        {
+          "text": {
+            "content": "repr\u00e9sentation",
+            "beginOffset": 11373
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "total",
+      "type": "OTHER",
+      "salience": 0.00036946486216038465,
+      "mentions": [
+        {
+          "text": {
+            "content": "total",
+            "beginOffset": 17370
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "allure",
+      "type": "OTHER",
+      "salience": 0.00036838219966739416,
+      "mentions": [
+        {
+          "text": {
+            "content": "allure",
+            "beginOffset": 10359
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "art",
+      "type": "OTHER",
+      "salience": 0.00036838219966739416,
+      "mentions": [
+        {
+          "text": {
+            "content": "art",
+            "beginOffset": 10393
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rocheuses",
+      "type": "PERSON",
+      "salience": 0.0003643680247478187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rocheuses",
+            "beginOffset": 9098
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "synth\u00e8se",
+      "type": "OTHER",
+      "salience": 0.0003623894590418786,
+      "mentions": [
+        {
+          "text": {
+            "content": "synth\u00e8se",
+            "beginOffset": 10490
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rep\u00e9rage",
+      "type": "EVENT",
+      "salience": 0.0003623894590418786,
+      "mentions": [
+        {
+          "text": {
+            "content": "rep\u00e9rage",
+            "beginOffset": 10429
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "donn\u00e9es",
+      "type": "OTHER",
+      "salience": 0.00036211920087225735,
+      "mentions": [
+        {
+          "text": {
+            "content": "donn\u00e9es",
+            "beginOffset": 12017
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tissu",
+      "type": "OTHER",
+      "salience": 0.0003607963735703379,
+      "mentions": [
+        {
+          "text": {
+            "content": "tissu",
+            "beginOffset": 6568
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abord",
+      "type": "OTHER",
+      "salience": 0.00035902109812013805,
+      "mentions": [
+        {
+          "text": {
+            "content": "abord",
+            "beginOffset": 12802
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9partitions",
+      "type": "OTHER",
+      "salience": 0.0003574762085918337,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9partitions",
+            "beginOffset": 11021
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lecteur",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0003574138681869954,
+      "mentions": [
+        {
+          "text": {
+            "content": "lecteur",
+            "beginOffset": 6707
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sein",
+      "type": "OTHER",
+      "salience": 0.0003565862134564668,
+      "mentions": [
+        {
+          "text": {
+            "content": "sein",
+            "beginOffset": 10672
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ordinateur",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0003565097285900265,
+      "mentions": [
+        {
+          "text": {
+            "content": "ordinateur",
+            "beginOffset": 15522
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9but",
+      "type": "OTHER",
+      "salience": 0.0003565097285900265,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9but",
+            "beginOffset": 15453
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "science",
+      "type": "OTHER",
+      "salience": 0.0003565097285900265,
+      "mentions": [
+        {
+          "text": {
+            "content": "science",
+            "beginOffset": 15991
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bases",
+      "type": "OTHER",
+      "salience": 0.00035597512032836676,
+      "mentions": [
+        {
+          "text": {
+            "content": "bases",
+            "beginOffset": 13582
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "am\u00e9ricain",
+      "type": "LOCATION",
+      "salience": 0.0003537068550940603,
+      "mentions": [
+        {
+          "text": {
+            "content": "am\u00e9ricain",
+            "beginOffset": 15396
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9partition",
+      "type": "OTHER",
+      "salience": 0.00035208844929002225,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9partition",
+            "beginOffset": 11262
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nord-am\u00e9ricain",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/North_America",
+        "mid": "/m/059g4"
+      },
+      "salience": 0.0003512684197630733,
+      "mentions": [
+        {
+          "text": {
+            "content": "nord-am\u00e9ricain",
+            "beginOffset": 9502
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "boulevards",
+      "type": "OTHER",
+      "salience": 0.00034906098153442144,
+      "mentions": [
+        {
+          "text": {
+            "content": "boulevards",
+            "beginOffset": 6629
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "autoroutes",
+      "type": "LOCATION",
+      "salience": 0.00034906098153442144,
+      "mentions": [
+        {
+          "text": {
+            "content": "autoroutes",
+            "beginOffset": 6615
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Saint-Exup\u00e9ry",
+      "type": "LOCATION",
+      "salience": 0.0003450615331530571,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint-Exup\u00e9ry",
+            "beginOffset": 9706
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "invention",
+      "type": "OTHER",
+      "salience": 0.0003444669710006565,
+      "mentions": [
+        {
+          "text": {
+            "content": "invention",
+            "beginOffset": 16367
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "derni\u00e8res",
+      "type": "OTHER",
+      "salience": 0.0003440170839894563,
+      "mentions": [
+        {
+          "text": {
+            "content": "derni\u00e8res",
+            "beginOffset": 17015
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "commanditaires",
+      "type": "PERSON",
+      "salience": 0.00034332479117438197,
+      "mentions": [
+        {
+          "text": {
+            "content": "commanditaires",
+            "beginOffset": 9984
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "syst\u00e8mes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00034233531914651394,
+      "mentions": [
+        {
+          "text": {
+            "content": "syst\u00e8mes",
+            "beginOffset": 12703
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9collage",
+      "type": "EVENT",
+      "salience": 0.00034219949156977236,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9collage",
+            "beginOffset": 8411
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "carrefours",
+      "type": "OTHER",
+      "salience": 0.0003401183639653027,
+      "mentions": [
+        {
+          "text": {
+            "content": "carrefours",
+            "beginOffset": 6734
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cons\u00e9quent",
+      "type": "OTHER",
+      "salience": 0.00033771872404031456,
+      "mentions": [
+        {
+          "text": {
+            "content": "cons\u00e9quent",
+            "beginOffset": 12767
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "recours",
+      "type": "OTHER",
+      "salience": 0.00033771872404031456,
+      "mentions": [
+        {
+          "text": {
+            "content": "recours",
+            "beginOffset": 12830
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "types",
+      "type": "OTHER",
+      "salience": 0.00033687532413750887,
+      "mentions": [
+        {
+          "text": {
+            "content": "types",
+            "beginOffset": 16925
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ordinateur",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00033687532413750887,
+      "mentions": [
+        {
+          "text": {
+            "content": "ordinateur",
+            "beginOffset": 16865
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9partition",
+      "type": "OTHER",
+      "salience": 0.00033684648224152625,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9partition",
+            "beginOffset": 11944
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Toronto",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Toronto",
+        "mid": "/m/0h7h6"
+      },
+      "salience": 0.00033312421874143183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toronto",
+            "beginOffset": 6314
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/New_York_City",
+        "mid": "/m/02_286"
+      },
+      "salience": 0.00033312421874143183,
+      "mentions": [
+        {
+          "text": {
+            "content": "New\nYork",
+            "beginOffset": 6301
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Saint-Laurent",
+      "type": "LOCATION",
+      "salience": 0.00033312421874143183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint-Laurent",
+            "beginOffset": 6246
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Certains",
+      "type": "PERSON",
+      "salience": 0.00033226716914214194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Certains",
+            "beginOffset": 10810
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9ventail",
+      "type": "OTHER",
+      "salience": 0.0003316173970233649,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9ventail",
+            "beginOffset": 6803
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "envols",
+      "type": "EVENT",
+      "salience": 0.0003313880879431963,
+      "mentions": [
+        {
+          "text": {
+            "content": "envols",
+            "beginOffset": 7970
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "envol",
+      "type": "EVENT",
+      "salience": 0.0003313880879431963,
+      "mentions": [
+        {
+          "text": {
+            "content": "envol",
+            "beginOffset": 7926
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "instrument",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0003296072536613792,
+      "mentions": [
+        {
+          "text": {
+            "content": "instrument",
+            "beginOffset": 17406
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hudson",
+      "type": "PERSON",
+      "salience": 0.0003276765928603709,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hudson",
+            "beginOffset": 10077
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "atlas",
+      "type": "WORK_OF_ART",
+      "salience": 0.000327389599988237,
+      "mentions": [
+        {
+          "text": {
+            "content": "atlas",
+            "beginOffset": 12239
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mise",
+      "type": "OTHER",
+      "salience": 0.000327389599988237,
+      "mentions": [
+        {
+          "text": {
+            "content": "mise",
+            "beginOffset": 12313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9v\u00e9lateur",
+      "type": "OTHER",
+      "salience": 0.00032718447619117796,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9v\u00e9lateur",
+            "beginOffset": 10971
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "science",
+      "type": "OTHER",
+      "salience": 0.00032608816400170326,
+      "mentions": [
+        {
+          "text": {
+            "content": "science",
+            "beginOffset": 17528
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colonie",
+      "type": "OTHER",
+      "salience": 0.0003244572435505688,
+      "mentions": [
+        {
+          "text": {
+            "content": "colonie",
+            "beginOffset": 8097
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ma\u00eetre-nageur",
+      "type": "OTHER",
+      "salience": 0.0003244572435505688,
+      "mentions": [
+        {
+          "text": {
+            "content": "ma\u00eetre-nageur",
+            "beginOffset": 8073
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "effet",
+      "type": "OTHER",
+      "salience": 0.0003244572435505688,
+      "mentions": [
+        {
+          "text": {
+            "content": "effet",
+            "beginOffset": 7981
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "qu\u00e9b\u00e9coise",
+      "type": "LOCATION",
+      "salience": 0.0003241408849135041,
+      "mentions": [
+        {
+          "text": {
+            "content": "qu\u00e9b\u00e9coise",
+            "beginOffset": 6468
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "renseignements",
+      "type": "OTHER",
+      "salience": 0.0003235260664951056,
+      "mentions": [
+        {
+          "text": {
+            "content": "renseignements",
+            "beginOffset": 7117
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trame",
+      "type": "OTHER",
+      "salience": 0.0003235260664951056,
+      "mentions": [
+        {
+          "text": {
+            "content": "trame",
+            "beginOffset": 7164
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "atlas",
+      "type": "WORK_OF_ART",
+      "salience": 0.0003228552232030779,
+      "mentions": [
+        {
+          "text": {
+            "content": "atlas",
+            "beginOffset": 12444
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "participation",
+      "type": "OTHER",
+      "salience": 0.0003228552232030779,
+      "mentions": [
+        {
+          "text": {
+            "content": "participation",
+            "beginOffset": 12527
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "population",
+      "type": "PERSON",
+      "salience": 0.00032225323957391083,
+      "mentions": [
+        {
+          "text": {
+            "content": "population",
+            "beginOffset": 11281
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "derniers",
+      "type": "OTHER",
+      "salience": 0.00031975648016668856,
+      "mentions": [
+        {
+          "text": {
+            "content": "derniers",
+            "beginOffset": 15094
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "collines",
+      "type": "LOCATION",
+      "salience": 0.00031780696008354425,
+      "mentions": [
+        {
+          "text": {
+            "content": "collines",
+            "beginOffset": 8226
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strat\u00e9gie",
+      "type": "OTHER",
+      "salience": 0.0003174666198901832,
+      "mentions": [
+        {
+          "text": {
+            "content": "strat\u00e9gie",
+            "beginOffset": 11417
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9alit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0003128185053355992,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9alit\u00e9",
+            "beginOffset": 11468
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e9rim\u00e8tre",
+      "type": "OTHER",
+      "salience": 0.0003128185053355992,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e9rim\u00e8tre",
+            "beginOffset": 11689
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Canada",
+        "mid": "/m/0d060g"
+      },
+      "salience": 0.00031187391141429543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 15437
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Canada Geographic Information System",
+      "type": "LOCATION",
+      "salience": 0.00031187391141429543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada Geographic Information System",
+            "beginOffset": 15705
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "correspondance",
+      "type": "OTHER",
+      "salience": 0.00031142073567025363,
+      "mentions": [
+        {
+          "text": {
+            "content": "correspondance",
+            "beginOffset": 8335
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Guerre civile",
+      "type": "EVENT",
+      "salience": 0.0003099673776887357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Guerre civile",
+            "beginOffset": 13000
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "populations",
+      "type": "PERSON",
+      "salience": 0.00030830278410576284,
+      "mentions": [
+        {
+          "text": {
+            "content": "populations",
+            "beginOffset": 11961
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "satellite",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0003071038518100977,
+      "mentions": [
+        {
+          "text": {
+            "content": "satellite",
+            "beginOffset": 15386
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "curriculums",
+      "type": "OTHER",
+      "salience": 0.00030352696194313467,
+      "mentions": [
+        {
+          "text": {
+            "content": "curriculums",
+            "beginOffset": 16089
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "for\u00eats",
+      "type": "OTHER",
+      "salience": 0.00030352696194313467,
+      "mentions": [
+        {
+          "text": {
+            "content": "for\u00eats",
+            "beginOffset": 15676
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gestion",
+      "type": "OTHER",
+      "salience": 0.00030352696194313467,
+      "mentions": [
+        {
+          "text": {
+            "content": "gestion",
+            "beginOffset": 15664
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "programme",
+      "type": "OTHER",
+      "salience": 0.00030352696194313467,
+      "mentions": [
+        {
+          "text": {
+            "content": "programme",
+            "beginOffset": 15641
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cadre",
+      "type": "OTHER",
+      "salience": 0.00030352696194313467,
+      "mentions": [
+        {
+          "text": {
+            "content": "cadre",
+            "beginOffset": 15628
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appellation",
+      "type": "OTHER",
+      "salience": 0.00030352696194313467,
+      "mentions": [
+        {
+          "text": {
+            "content": "appellation",
+            "beginOffset": 15952
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "GIS",
+      "type": "ORGANIZATION",
+      "salience": 0.00030352696194313467,
+      "mentions": [
+        {
+          "text": {
+            "content": "GIS",
+            "beginOffset": 15743
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vol",
+      "type": "EVENT",
+      "salience": 0.0003014355315826833,
+      "mentions": [
+        {
+          "text": {
+            "content": "vol",
+            "beginOffset": 7509
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "avion",
+      "type": "OTHER",
+      "salience": 0.0003014355315826833,
+      "mentions": [
+        {
+          "text": {
+            "content": "avion",
+            "beginOffset": 7412
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hublot",
+      "type": "OTHER",
+      "salience": 0.0003014355315826833,
+      "mentions": [
+        {
+          "text": {
+            "content": "hublot",
+            "beginOffset": 7443
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "total",
+      "type": "OTHER",
+      "salience": 0.0002996472467202693,
+      "mentions": [
+        {
+          "text": {
+            "content": "total",
+            "beginOffset": 12207
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "inscription",
+      "type": "EVENT",
+      "salience": 0.0002967867476399988,
+      "mentions": [
+        {
+          "text": {
+            "content": "inscription",
+            "beginOffset": 17138
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "connaissance",
+      "type": "OTHER",
+      "salience": 0.0002954970987048,
+      "mentions": [
+        {
+          "text": {
+            "content": "connaissance",
+            "beginOffset": 12557
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enseignement",
+      "type": "OTHER",
+      "salience": 0.0002954970987048,
+      "mentions": [
+        {
+          "text": {
+            "content": "enseignement",
+            "beginOffset": 12505
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9thodes",
+      "type": "OTHER",
+      "salience": 0.0002954970987048,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9thodes",
+            "beginOffset": 12589
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rapidit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0002947200555354357,
+      "mentions": [
+        {
+          "text": {
+            "content": "rapidit\u00e9",
+            "beginOffset": 7570
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "origines",
+      "type": "OTHER",
+      "salience": 0.0002947200555354357,
+      "mentions": [
+        {
+          "text": {
+            "content": "origines",
+            "beginOffset": 7654
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "horizons",
+      "type": "OTHER",
+      "salience": 0.0002932738570962101,
+      "mentions": [
+        {
+          "text": {
+            "content": "horizons",
+            "beginOffset": 16494
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "astronomes",
+      "type": "OTHER",
+      "salience": 0.0002932738570962101,
+      "mentions": [
+        {
+          "text": {
+            "content": "astronomes",
+            "beginOffset": 16436
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "biologistes",
+      "type": "PERSON",
+      "salience": 0.0002932738570962101,
+      "mentions": [
+        {
+          "text": {
+            "content": "biologistes",
+            "beginOffset": 16417
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "microscope",
+      "type": "OTHER",
+      "salience": 0.0002932738570962101,
+      "mentions": [
+        {
+          "text": {
+            "content": "microscope",
+            "beginOffset": 16380
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "productivit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0002932738570962101,
+      "mentions": [
+        {
+          "text": {
+            "content": "productivit\u00e9",
+            "beginOffset": 16537
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "t\u00e9lescope",
+      "type": "OTHER",
+      "salience": 0.0002932738570962101,
+      "mentions": [
+        {
+          "text": {
+            "content": "t\u00e9lescope",
+            "beginOffset": 16397
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corr\u00e9lations",
+      "type": "OTHER",
+      "salience": 0.00029188790358603,
+      "mentions": [
+        {
+          "text": {
+            "content": "corr\u00e9lations",
+            "beginOffset": 11053
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "discipline",
+      "type": "OTHER",
+      "salience": 0.00029188790358603,
+      "mentions": [
+        {
+          "text": {
+            "content": "discipline",
+            "beginOffset": 11101
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "av\u00e8nement",
+      "type": "OTHER",
+      "salience": 0.0002914590004365891,
+      "mentions": [
+        {
+          "text": {
+            "content": "av\u00e8nement",
+            "beginOffset": 12688
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "processus",
+      "type": "OTHER",
+      "salience": 0.0002900065737776458,
+      "mentions": [
+        {
+          "text": {
+            "content": "processus",
+            "beginOffset": 16765
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cours",
+      "type": "OTHER",
+      "salience": 0.0002875284990295768,
+      "mentions": [
+        {
+          "text": {
+            "content": "cours",
+            "beginOffset": 12910
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "utilisation",
+      "type": "EVENT",
+      "salience": 0.0002875284990295768,
+      "mentions": [
+        {
+          "text": {
+            "content": "utilisation",
+            "beginOffset": 12895
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photo",
+      "type": "WORK_OF_ART",
+      "salience": 0.0002875284990295768,
+      "mentions": [
+        {
+          "text": {
+            "content": "photo",
+            "beginOffset": 12844
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coordonn\u00e9es g\u00e9ographiques",
+      "type": "OTHER",
+      "salience": 0.00028681044932454824,
+      "mentions": [
+        {
+          "text": {
+            "content": "coordonn\u00e9es\ng\u00e9ographiques",
+            "beginOffset": 17104
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gr\u00e2ce",
+      "type": "OTHER",
+      "salience": 0.00028681044932454824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gr\u00e2ce",
+            "beginOffset": 16851
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condition",
+      "type": "OTHER",
+      "salience": 0.00028681044932454824,
+      "mentions": [
+        {
+          "text": {
+            "content": "condition",
+            "beginOffset": 16997
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cours",
+      "type": "OTHER",
+      "salience": 0.00028370131622068584,
+      "mentions": [
+        {
+          "text": {
+            "content": "cours",
+            "beginOffset": 12988
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "support",
+      "type": "OTHER",
+      "salience": 0.00028368306811898947,
+      "mentions": [
+        {
+          "text": {
+            "content": "support",
+            "beginOffset": 17154
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "num\u00e9risation",
+      "type": "OTHER",
+      "salience": 0.00028368306811898947,
+      "mentions": [
+        {
+          "text": {
+            "content": "num\u00e9risation",
+            "beginOffset": 17203
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "s\u00e9rie",
+      "type": "WORK_OF_ART",
+      "salience": 0.00028213864425197244,
+      "mentions": [
+        {
+          "text": {
+            "content": "s\u00e9rie",
+            "beginOffset": 7959
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fin",
+      "type": "OTHER",
+      "salience": 0.00028213864425197244,
+      "mentions": [
+        {
+          "text": {
+            "content": "\ufb01n",
+            "beginOffset": 7879
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "deus ex machina",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Deus_ex_machina",
+        "mid": "/m/01pdz5"
+      },
+      "salience": 0.00028041168116033077,
+      "mentions": [
+        {
+          "text": {
+            "content": "deus ex machina",
+            "beginOffset": 16273
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "inventaire",
+      "type": "OTHER",
+      "salience": 0.00027907168259844184,
+      "mentions": [
+        {
+          "text": {
+            "content": "inventaire",
+            "beginOffset": 11634
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bien",
+      "type": "OTHER",
+      "salience": 0.00027907168259844184,
+      "mentions": [
+        {
+          "text": {
+            "content": "bien",
+            "beginOffset": 11756
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parc",
+      "type": "LOCATION",
+      "salience": 0.00027907168259844184,
+      "mentions": [
+        {
+          "text": {
+            "content": "parc",
+            "beginOffset": 11587
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "preuve",
+      "type": "OTHER",
+      "salience": 0.00027844263240695,
+      "mentions": [
+        {
+          "text": {
+            "content": "preuve",
+            "beginOffset": 10775
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SaintMary's College",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00027801666874438524,
+      "mentions": [
+        {
+          "text": {
+            "content": "SaintMary\u2019s\nCollege",
+            "beginOffset": 8176
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/San_Francisco",
+        "mid": "/m/0d6lp"
+      },
+      "salience": 0.00027801666874438524,
+      "mentions": [
+        {
+          "text": {
+            "content": "San Francisco",
+            "beginOffset": 8259
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "San Francisco",
+            "beginOffset": 8386
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "soci\u00e9t\u00e9",
+      "type": "ORGANIZATION",
+      "salience": 0.00027762635727413,
+      "mentions": [
+        {
+          "text": {
+            "content": "soci\u00e9t\u00e9",
+            "beginOffset": 17547
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poste",
+      "type": "OTHER",
+      "salience": 0.0002762378135230392,
+      "mentions": [
+        {
+          "text": {
+            "content": "poste",
+            "beginOffset": 8064
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vacances",
+      "type": "EVENT",
+      "salience": 0.0002762378135230392,
+      "mentions": [
+        {
+          "text": {
+            "content": "vacances",
+            "beginOffset": 8108
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9seau",
+      "type": "OTHER",
+      "salience": 0.00027504313038662076,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9seau",
+            "beginOffset": 11820
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "transport",
+      "type": "OTHER",
+      "salience": 0.00027504313038662076,
+      "mentions": [
+        {
+          "text": {
+            "content": "transport",
+            "beginOffset": 11831
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "topographie",
+      "type": "OTHER",
+      "salience": 0.00027504313038662076,
+      "mentions": [
+        {
+          "text": {
+            "content": "topographie",
+            "beginOffset": 11880
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "liste",
+      "type": "OTHER",
+      "salience": 0.00027504313038662076,
+      "mentions": [
+        {
+          "text": {
+            "content": "liste",
+            "beginOffset": 12066
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Premi\u00e8re Guerre mondiale",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/World_War_I",
+        "mid": "/m/0cm2xh"
+      },
+      "salience": 0.0002748165570665151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Premi\u00e8re Guerre mondiale",
+            "beginOffset": 12922
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "transports",
+      "type": "OTHER",
+      "salience": 0.0002711279666982591,
+      "mentions": [
+        {
+          "text": {
+            "content": "transports",
+            "beginOffset": 12112
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arri\u00e8re-pays",
+      "type": "LOCATION",
+      "salience": 0.0002705758379306644,
+      "mentions": [
+        {
+          "text": {
+            "content": "arri\u00e8re-pays",
+            "beginOffset": 8242
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "campus",
+      "type": "LOCATION",
+      "salience": 0.0002705758379306644,
+      "mentions": [
+        {
+          "text": {
+            "content": "campus",
+            "beginOffset": 8166
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "perspective",
+      "type": "OTHER",
+      "salience": 0.0002599132130853832,
+      "mentions": [
+        {
+          "text": {
+            "content": "perspective",
+            "beginOffset": 8426
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9vation",
+      "type": "EVENT",
+      "salience": 0.0002599132130853832,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9vation",
+            "beginOffset": 8504
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "altitude",
+      "type": "OTHER",
+      "salience": 0.0002599132130853832,
+      "mentions": [
+        {
+          "text": {
+            "content": "altitude",
+            "beginOffset": 8519
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "perception",
+      "type": "OTHER",
+      "salience": 0.0002599132130853832,
+      "mentions": [
+        {
+          "text": {
+            "content": "perception",
+            "beginOffset": 8627
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "suite",
+      "type": "OTHER",
+      "salience": 0.00025650986935943365,
+      "mentions": [
+        {
+          "text": {
+            "content": "suite",
+            "beginOffset": 12882
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "particulier",
+      "type": "OTHER",
+      "salience": 0.00025650986935943365,
+      "mentions": [
+        {
+          "text": {
+            "content": "particulier",
+            "beginOffset": 12864
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rigueur",
+      "type": "OTHER",
+      "salience": 0.0002563499438110739,
+      "mentions": [
+        {
+          "text": {
+            "content": "rigueur",
+            "beginOffset": 10785
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00f4le",
+      "type": "OTHER",
+      "salience": 0.0002485086733940989,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00f4le",
+            "beginOffset": 10962
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "caract\u00e9ristiques",
+      "type": "OTHER",
+      "salience": 0.0002485086733940989,
+      "mentions": [
+        {
+          "text": {
+            "content": "caract\u00e9ristiques",
+            "beginOffset": 10988
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flux",
+      "type": "OTHER",
+      "salience": 0.0002485086733940989,
+      "mentions": [
+        {
+          "text": {
+            "content": "\ufb02ux",
+            "beginOffset": 11040
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "am\u00e9ricaine",
+      "type": "LOCATION",
+      "salience": 0.00024818102247081697,
+      "mentions": [
+        {
+          "text": {
+            "content": "am\u00e9ricaine",
+            "beginOffset": 13014
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Californie",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/California",
+        "mid": "/m/01n7q"
+      },
+      "salience": 0.00024165194190572947,
+      "mentions": [
+        {
+          "text": {
+            "content": "Californie",
+            "beginOffset": 8017
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "intervention",
+      "type": "EVENT",
+      "salience": 0.0002411275199847296,
+      "mentions": [
+        {
+          "text": {
+            "content": "intervention",
+            "beginOffset": 11432
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "prospective",
+      "type": "OTHER",
+      "salience": 0.0002375970798311755,
+      "mentions": [
+        {
+          "text": {
+            "content": "prospective",
+            "beginOffset": 11652
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aire urbaine",
+      "type": "OTHER",
+      "salience": 0.0002375970798311755,
+      "mentions": [
+        {
+          "text": {
+            "content": "aire urbaine",
+            "beginOffset": 11564
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bay Area",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/San_Francisco_Bay_Area",
+        "mid": "/m/06pvr"
+      },
+      "salience": 0.0002366988337598741,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bay Area",
+            "beginOffset": 8277
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "foule",
+      "type": "PERSON",
+      "salience": 0.00023416720796376467,
+      "mentions": [
+        {
+          "text": {
+            "content": "foule",
+            "beginOffset": 12008
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "climats",
+      "type": "OTHER",
+      "salience": 0.00023416720796376467,
+      "mentions": [
+        {
+          "text": {
+            "content": "climats",
+            "beginOffset": 11929
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9veloppement",
+      "type": "OTHER",
+      "salience": 0.00023416720796376467,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9veloppement",
+            "beginOffset": 11798
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Denver",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Denver",
+        "mid": "/m/02cl1"
+      },
+      "salience": 0.00023194240930024534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Denver",
+            "beginOffset": 8369
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chicago",
+        "mid": "/m/01_d4"
+      },
+      "salience": 0.00023194240930024534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 8355
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "irr\u00e9ductibilit\u00e9",
+      "type": "OTHER",
+      "salience": 0.00023083388805389404,
+      "mentions": [
+        {
+          "text": {
+            "content": "irr\u00e9ductibilit\u00e9",
+            "beginOffset": 12166
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parall\u00e8le",
+      "type": "OTHER",
+      "salience": 0.0002275929437018931,
+      "mentions": [
+        {
+          "text": {
+            "content": "parall\u00e8le",
+            "beginOffset": 12321
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "superposition",
+      "type": "OTHER",
+      "salience": 0.0002275929437018931,
+      "mentions": [
+        {
+          "text": {
+            "content": "superposition",
+            "beginOffset": 12355
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attrait",
+      "type": "OTHER",
+      "salience": 0.00022444073692895472,
+      "mentions": [
+        {
+          "text": {
+            "content": "attrait",
+            "beginOffset": 12432
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vogue",
+      "type": "OTHER",
+      "salience": 0.00022444073692895472,
+      "mentions": [
+        {
+          "text": {
+            "content": "vogue",
+            "beginOffset": 12462
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9merveillement",
+      "type": "OTHER",
+      "salience": 0.00020372509607113898,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9merveillement",
+            "beginOffset": 7792
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "capacit\u00e9s",
+      "type": "OTHER",
+      "salience": 0.00019394625269342214,
+      "mentions": [
+        {
+          "text": {
+            "content": "capacit\u00e9s",
+            "beginOffset": 17290
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "objets",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00018276004993822426,
+      "mentions": [
+        {
+          "text": {
+            "content": "objets",
+            "beginOffset": 12250
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "t\u00e2che",
+      "type": "OTHER",
+      "salience": 0.00017182619194500148,
+      "mentions": [
+        {
+          "text": {
+            "content": "t\u00e2che",
+            "beginOffset": 12394
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "fr"
+}

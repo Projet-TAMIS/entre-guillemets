@@ -1,0 +1,1663 @@
+{
+  "entities": [
+    {
+      "name": "BONHOMME",
+      "type": "PERSON",
+      "salience": 0.11324437707662582,
+      "mentions": [
+        {
+          "text": {
+            "content": "BONHOMME",
+            "beginOffset": 61
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "album",
+      "type": "WORK_OF_ART",
+      "salience": 0.10771112143993378,
+      "mentions": [
+        {
+          "text": {
+            "content": "album",
+            "beginOffset": 98
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petit Bonhomme",
+      "type": "PERSON",
+      "salience": 0.09976458549499512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petit Bonhomme",
+            "beginOffset": 82
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "S\u00c9RIE",
+      "type": "WORK_OF_ART",
+      "salience": 0.08718600869178772,
+      "mentions": [
+        {
+          "text": {
+            "content": "S\u00c9RIE",
+            "beginOffset": 48
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mots",
+      "type": "OTHER",
+      "salience": 0.06691379845142365,
+      "mentions": [
+        {
+          "text": {
+            "content": "mots",
+            "beginOffset": 74
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "AUTEUR",
+      "type": "PERSON",
+      "salience": 0.06691379845142365,
+      "mentions": [
+        {
+          "text": {
+            "content": "AUTEUR",
+            "beginOffset": 9
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "QU\u00c9BEC AM\u00c9RIQUE",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/122s8wbz",
+        "wikipedia_url": "https://fr.wikipedia.org/wiki/Qu\u00e9bec_Am\u00e9rique"
+      },
+      "salience": 0.058779146522283554,
+      "mentions": [
+        {
+          "text": {
+            "content": "QU\u00c9BEC AM\u00c9RIQUE",
+            "beginOffset": 21
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "album",
+      "type": "OTHER",
+      "salience": 0.03812328353524208,
+      "mentions": [
+        {
+          "text": {
+            "content": "album",
+            "beginOffset": 143
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petit Bonhomme",
+      "type": "PERSON",
+      "salience": 0.035216301679611206,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petit Bonhomme",
+            "beginOffset": 127
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "album",
+      "type": "OTHER",
+      "salience": 0.025320224463939667,
+      "mentions": [
+        {
+          "text": {
+            "content": "album",
+            "beginOffset": 188
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petit Bonhomme",
+      "type": "PERSON",
+      "salience": 0.023378003388643265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petit Bonhomme",
+            "beginOffset": 172
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "musiques",
+      "type": "WORK_OF_ART",
+      "salience": 0.023362010717391968,
+      "mentions": [
+        {
+          "text": {
+            "content": "musiques",
+            "beginOffset": 115
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "album",
+      "type": "OTHER",
+      "salience": 0.018913879990577698,
+      "mentions": [
+        {
+          "text": {
+            "content": "album",
+            "beginOffset": 231
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petit Bonhomme",
+      "type": "PERSON",
+      "salience": 0.017458772286772728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petit Bonhomme",
+            "beginOffset": 215
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "G\u00c9ANT",
+      "type": "ORGANIZATION",
+      "salience": 0.015980282798409462,
+      "mentions": [
+        {
+          "text": {
+            "content": "G\u00c9ANT",
+            "beginOffset": 298
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chiffres",
+      "type": "OTHER",
+      "salience": 0.015477623790502548,
+      "mentions": [
+        {
+          "text": {
+            "content": "chiffres",
+            "beginOffset": 160
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "album",
+      "type": "OTHER",
+      "salience": 0.015075339935719967,
+      "mentions": [
+        {
+          "text": {
+            "content": "album",
+            "beginOffset": 272
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petit Bonhomme",
+      "type": "WORK_OF_ART",
+      "salience": 0.013913494534790516,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petit Bonhomme",
+            "beginOffset": 256
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.011547191999852657,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 205
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "S\u00c9RIE",
+      "type": "WORK_OF_ART",
+      "salience": 0.01004018634557724,
+      "mentions": [
+        {
+          "text": {
+            "content": "S\u00c9RIE",
+            "beginOffset": 285
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corps",
+      "type": "OTHER",
+      "salience": 0.00919684860855341,
+      "mentions": [
+        {
+          "text": {
+            "content": "corps",
+            "beginOffset": 247
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Les Cauchemars du petit g\u00e9ant",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/12bm7g4vt"
+      },
+      "salience": 0.007844088599085808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Les Cauchemars\ndu petit g\u00e9ant",
+            "beginOffset": 305
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005990011617541313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 343
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ant",
+      "type": "ORGANIZATION",
+      "salience": 0.005971417296677828,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ant",
+            "beginOffset": 380
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ant",
+      "type": "ORGANIZATION",
+      "salience": 0.004753298591822386,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ant",
+            "beginOffset": 431
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004632692784070969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 394
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ant",
+      "type": "ORGANIZATION",
+      "salience": 0.003944561816751957,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ant",
+            "beginOffset": 484
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003772931871935725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 445
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ant",
+      "type": "ORGANIZATION",
+      "salience": 0.003368945559486747,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ant",
+            "beginOffset": 537
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003180045634508133,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 498
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0027467384934425354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 551
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Fus\u00e9e",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0022643799893558025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fus\u00e9e",
+            "beginOffset": 415
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Voyages",
+      "type": "EVENT",
+      "salience": 0.001878719194792211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Voyages",
+            "beginOffset": 467
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ant",
+      "type": "ORGANIZATION",
+      "salience": 0.0017236280255019665,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ant",
+            "beginOffset": 645
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Plan\u00e8te",
+      "type": "OTHER",
+      "salience": 0.001604324672371149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plan\u00e8te",
+            "beginOffset": 519
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001598906354047358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 608
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ant",
+      "type": "ORGANIZATION",
+      "salience": 0.0015472999075427651,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ant",
+            "beginOffset": 697
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie 3",
+      "type": "PERSON",
+      "salience": 0.0014999395934864879,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie 3",
+            "beginOffset": 1133
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie",
+      "type": "PERSON",
+      "salience": 0.001458813901990652,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie",
+            "beginOffset": 1668
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bilbo",
+      "type": "OTHER",
+      "salience": 0.001455474877730012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1655
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0014267303049564362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 659
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie 4",
+      "type": "PERSON",
+      "salience": 0.0014146366156637669,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie 4",
+            "beginOffset": 1188
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie",
+      "type": "PERSON",
+      "salience": 0.0014054662315174937,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie",
+            "beginOffset": 1713
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ant",
+      "type": "ORGANIZATION",
+      "salience": 0.0014033722691237926,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ant",
+            "beginOffset": 750
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie",
+      "type": "PERSON",
+      "salience": 0.0013558394275605679,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie",
+            "beginOffset": 1771
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie",
+      "type": "PERSON",
+      "salience": 0.0013095588656142354,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie",
+            "beginOffset": 1819
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0012876982800662518,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 711
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie 7",
+      "type": "PERSON",
+      "salience": 0.0012079827720299363,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie 7",
+            "beginOffset": 1352
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0011731073027476668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 764
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Le Jardin zoologique, coll",
+      "type": "OTHER",
+      "salience": 0.0010984812397509813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Le\nJardin zoologique, coll",
+            "beginOffset": 1364
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001077051623724401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 816
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Nuit blanche du petit g\u00e9ant",
+      "type": "EVENT",
+      "salience": 0.0010661095147952437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nuit blanche du petit g\u00e9ant",
+            "beginOffset": 572
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9ant",
+      "type": "ORGANIZATION",
+      "salience": 0.0010605197167024016,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9ant",
+            "beginOffset": 922
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "NO\u00c9MIE No\u00e9mie",
+      "type": "PERSON",
+      "salience": 0.0010048943804576993,
+      "mentions": [
+        {
+          "text": {
+            "content": "NO\u00c9MIE No\u00e9mie",
+            "beginOffset": 961
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0009630219428800046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 874
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie 17 - Bonheur",
+      "type": "PERSON",
+      "salience": 0.0009561601909808815,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie\n17 - Bonheur",
+            "beginOffset": 1930
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bilbo",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bilbo_Baggins",
+        "mid": "/m/0g6z1"
+      },
+      "salience": 0.0009510779054835439,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1016
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1120
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1175
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1226
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1286
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1339
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1700
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1758
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1806
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1860
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bilbo",
+      "type": "OTHER",
+      "salience": 0.0009206554386764765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1968
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Les Souliers magiques, coll",
+      "type": "OTHER",
+      "salience": 0.0009187733521685004,
+      "mentions": [
+        {
+          "text": {
+            "content": "Les Souliers magiques, coll",
+            "beginOffset": 1578
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mini-Bilbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008950288174673915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini-Bilbo",
+            "beginOffset": 936
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Le Voleur de grand-m\u00e8re",
+      "type": "OTHER",
+      "salience": 0.0008897781372070312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Le Voleur de grand-m\u00e8re",
+            "beginOffset": 1726
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bilbo",
+      "type": "OTHER",
+      "salience": 0.0008431636961176991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1392
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie 8",
+      "type": "PERSON",
+      "salience": 0.0008413855102844536,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie 8",
+            "beginOffset": 1405
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Orage",
+      "type": "OTHER",
+      "salience": 0.0008204584009945393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orage",
+            "beginOffset": 630
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bilbo",
+      "type": "OTHER",
+      "salience": 0.000804785406216979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1445
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie 9 - Adieu",
+      "type": "PERSON",
+      "salience": 0.0008039202657528222,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie 9 - Adieu",
+            "beginOffset": 1458
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bilbo",
+      "type": "OTHER",
+      "salience": 0.0007697114488109946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1496
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie",
+      "type": "PERSON",
+      "salience": 0.0007696134271100163,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie",
+            "beginOffset": 1509
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie",
+      "type": "PERSON",
+      "salience": 0.0007380830938927829,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie",
+            "beginOffset": 1565
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bilbo",
+      "type": "OTHER",
+      "salience": 0.0007375339046120644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1552
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Camping",
+      "type": "LOCATION",
+      "salience": 0.0007364913471974432,
+      "mentions": [
+        {
+          "text": {
+            "content": "Camping",
+            "beginOffset": 680
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Grand-maman",
+      "type": "PERSON",
+      "salience": 0.0007198495441116393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grand-maman",
+            "beginOffset": 1832
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie",
+      "type": "PERSON",
+      "salience": 0.0007090066792443395,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie",
+            "beginOffset": 1620
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bilbo",
+      "type": "OTHER",
+      "salience": 0.0007079095230437815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bilbo",
+            "beginOffset": 1607
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Prix",
+      "type": "OTHER",
+      "salience": 0.0006960632745176554,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prix",
+            "beginOffset": 1877
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "album",
+      "type": "OTHER",
+      "salience": 0.0006898654391989112,
+      "mentions": [
+        {
+          "text": {
+            "content": "album",
+            "beginOffset": 2034
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Animaux",
+      "type": "OTHER",
+      "salience": 0.0006679591024294496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Animaux",
+            "beginOffset": 733
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "oreilles",
+      "type": "OTHER",
+      "salience": 0.0006264070980250835,
+      "mentions": [
+        {
+          "text": {
+            "content": "oreilles",
+            "beginOffset": 1270
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "La Cage",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006208703853189945,
+      "mentions": [
+        {
+          "text": {
+            "content": "La Cage",
+            "beginOffset": 1633
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "S\u00c9RIE",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006191154243424535,
+      "mentions": [
+        {
+          "text": {
+            "content": "S\u00c9RIE",
+            "beginOffset": 954
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "La Cl\u00e9 de l'\u00e9nigme, coll",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006141618941910565,
+      "mentions": [
+        {
+          "text": {
+            "content": "La Cl\u00e9 de l\u2019\u00e9nigme, coll",
+            "beginOffset": 1145
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Petit G\u00e9ant somnambule",
+      "type": "OTHER",
+      "salience": 0.0006109761889092624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petit\nG\u00e9ant somnambule",
+            "beginOffset": 785
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Vendredi 13",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/g/12bmyflbs"
+      },
+      "salience": 0.0005973154911771417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vendredi\n13",
+            "beginOffset": 1681
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "glace",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0005943298456259072,
+      "mentions": [
+        {
+          "text": {
+            "content": "glace",
+            "beginOffset": 1326
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ch\u00e2teau",
+      "type": "LOCATION",
+      "salience": 0.0005943298456259072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ch\u00e2teau",
+            "beginOffset": 1314
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cauchemar",
+      "type": "OTHER",
+      "salience": 0.0005928091122768819,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cauchemar",
+            "beginOffset": 903
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Les Sept V\u00e9rit\u00e9s",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/11c2l8sf9g"
+      },
+      "salience": 0.0005792195443063974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Les\nSept V\u00e9rit\u00e9s",
+            "beginOffset": 1200
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Le Grand Amour",
+      "type": "OTHER",
+      "salience": 0.0005551356007345021,
+      "mentions": [
+        {
+          "text": {
+            "content": "Le Grand Amour",
+            "beginOffset": 1784
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie 5",
+      "type": "PERSON",
+      "salience": 0.00054799800273031,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie 5",
+            "beginOffset": 1239
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Albert",
+      "type": "PERSON",
+      "salience": 0.00054799800273031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Albert",
+            "beginOffset": 1251
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "jeunes",
+      "type": "PERSON",
+      "salience": 0.0005255489959381521,
+      "mentions": [
+        {
+          "text": {
+            "content": "jeunes",
+            "beginOffset": 1918
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie 6",
+      "type": "PERSON",
+      "salience": 0.0005199349252507091,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie 6",
+            "beginOffset": 1299
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Prix",
+      "type": "OTHER",
+      "salience": 0.0005169903743080795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prix",
+            "beginOffset": 1033
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Litt\u00e9rature",
+      "type": "OTHER",
+      "salience": 0.00047807759256102145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Litt\u00e9rature",
+            "beginOffset": 2083
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Le Grand M\u00e9nage du petit g\u00e9ant",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/12bn0902z"
+      },
+      "salience": 0.0004763892211485654,
+      "mentions": [
+        {
+          "text": {
+            "content": "Le Grand M\u00e9nage du petit g\u00e9ant",
+            "beginOffset": 834
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Am\u00e9rique",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/07c5l",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Americas"
+      },
+      "salience": 0.0004687962937168777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Am\u00e9rique",
+            "beginOffset": 2100
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Am\u00e9rique",
+            "beginOffset": 2168
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Litt\u00e9rature",
+      "type": "OTHER",
+      "salience": 0.0004640834522433579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Litt\u00e9rature",
+            "beginOffset": 2151
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "La Nuit des horreurs",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/g/11_y8ljl5"
+      },
+      "salience": 0.00045347376726567745,
+      "mentions": [
+        {
+          "text": {
+            "content": "La Nuit des horreurs",
+            "beginOffset": 1417
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "choix",
+      "type": "OTHER",
+      "salience": 0.0004474590241443366,
+      "mentions": [
+        {
+          "text": {
+            "content": "choix",
+            "beginOffset": 1908
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grand-maman",
+      "type": "PERSON",
+      "salience": 0.0004418560420162976,
+      "mentions": [
+        {
+          "text": {
+            "content": "grand-maman",
+            "beginOffset": 1477
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Titan",
+      "type": "PERSON",
+      "salience": 0.0004263051087036729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Titan",
+            "beginOffset": 2002
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "amie",
+      "type": "PERSON",
+      "salience": 0.0004196863737888634,
+      "mentions": [
+        {
+          "text": {
+            "content": "amie",
+            "beginOffset": 2028
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adulte",
+      "type": "PERSON",
+      "salience": 0.00041326749487780035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adulte",
+            "beginOffset": 2047
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pierres",
+      "type": "OTHER",
+      "salience": 0.00041326749487780035,
+      "mentions": [
+        {
+          "text": {
+            "content": "pierres",
+            "beginOffset": 2068
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Le Secret de Madame Lumbago",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/124j7zhfd"
+      },
+      "salience": 0.00041140231769531965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Le Secret de Madame Lumbago",
+            "beginOffset": 981
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Parfums d'\u00c9lisabeth",
+      "type": "OTHER",
+      "salience": 0.0004009948461316526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parfums d\u2019\u00c9lisabeth",
+            "beginOffset": 2121
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hackmatack",
+      "type": "PERSON",
+      "salience": 0.000391445035347715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hackmatack",
+            "beginOffset": 1894
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No\u00e9mie 2 - L'Incroyable Journ\u00e9e",
+      "type": "WORK_OF_ART",
+      "salience": 0.0003850698994938284,
+      "mentions": [
+        {
+          "text": {
+            "content": "No\u00e9mie 2 - L\u2019Incroyable Journ\u00e9e",
+            "beginOffset": 1077
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gouverneur g\u00e9n\u00e9ral du Canada",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/09hwt",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Governor_General_of_Canada"
+      },
+      "salience": 0.0003850698994938284,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gouverneur g\u00e9n\u00e9ral du Canada",
+            "beginOffset": 1041
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Le Mangeur",
+      "type": "PERSON",
+      "salience": 0.00036153290420770645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Le Mangeur",
+            "beginOffset": 2054
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bo\u00eete",
+      "type": "OTHER",
+      "salience": 0.0003601421194616705,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bo\u00eete",
+            "beginOffset": 1525
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "fr"
+}

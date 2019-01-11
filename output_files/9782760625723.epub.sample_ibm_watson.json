@@ -1,0 +1,629 @@
+{
+    "categories": [
+        {
+            "label": "/science/geography",
+            "score": 0.979497
+        },
+        {
+            "label": "/society/unrest and war",
+            "score": 0.931968
+        }
+    ],
+    "concepts": [
+        {
+            "dbpedia_resource": "http://fr.dbpedia.org/resource/G\u00e9ographie",
+            "relevance": 0.996003,
+            "text": "G\u00e9ographie"
+        },
+        {
+            "dbpedia_resource": "http://fr.dbpedia.org/resource/Cartographie",
+            "relevance": 0.993959,
+            "text": "Cartographie"
+        },
+        {
+            "dbpedia_resource": "http://fr.dbpedia.org/resource/Perception",
+            "relevance": 0.989812,
+            "text": "Perception"
+        },
+        {
+            "dbpedia_resource": "http://fr.dbpedia.org/resource/Premi\u00e8re_Guerre_mondiale",
+            "relevance": 0.986657,
+            "text": "Premi\u00e8re Guerre mondiale"
+        },
+        {
+            "dbpedia_resource": "http://fr.dbpedia.org/resource/Connaissance",
+            "relevance": 0.981493,
+            "text": "Connaissance"
+        },
+        {
+            "dbpedia_resource": "http://fr.dbpedia.org/resource/Qu\u00e9bec",
+            "relevance": 0.974677,
+            "text": "Qu\u00e9bec"
+        },
+        {
+            "dbpedia_resource": "http://fr.dbpedia.org/resource/Informatique",
+            "relevance": 0.946439,
+            "text": "Informatique"
+        },
+        {
+            "dbpedia_resource": "http://fr.dbpedia.org/resource/Paysage",
+            "relevance": 0.94608,
+            "text": "Paysage"
+        }
+    ],
+    "entities": [
+        {
+            "count": 2,
+            "disambiguation": {
+                "dbpedia_resource": "http://fr.dbpedia.org/resource/Yves_Lacoste",
+                "name": "Yves Lacoste",
+                "subtype": [
+                    "Person"
+                ]
+            },
+            "relevance": 0.948885,
+            "text": "Yves Lacoste",
+            "type": "Person"
+        },
+        {
+            "count": 3,
+            "relevance": 0.90226,
+            "text": "g\u00e9ographes",
+            "type": "JobTitle"
+        },
+        {
+            "count": 2,
+            "relevance": 0.839249,
+            "text": "Austerlitz",
+            "type": "Location"
+        },
+        {
+            "count": 3,
+            "relevance": 0.683699,
+            "text": "Lacoste",
+            "type": "Person"
+        },
+        {
+            "count": 2,
+            "relevance": 0.657931,
+            "text": "Singapour",
+            "type": "Location"
+        },
+        {
+            "count": 3,
+            "relevance": 0.622359,
+            "text": "g\u00e9ographe",
+            "type": "JobTitle"
+        },
+        {
+            "count": 5,
+            "relevance": 0.613531,
+            "text": "deux",
+            "type": "Number"
+        },
+        {
+            "count": 2,
+            "relevance": 0.602729,
+            "text": "San Francisco",
+            "type": "Location"
+        },
+        {
+            "count": 1,
+            "relevance": 0.568076,
+            "text": "1976",
+            "type": "Date"
+        },
+        {
+            "count": 1,
+            "relevance": 0.567429,
+            "text": "1967",
+            "type": "Number"
+        },
+        {
+            "count": 1,
+            "relevance": 0.549786,
+            "text": "plus de six semaines",
+            "type": "Duration"
+        },
+        {
+            "count": 1,
+            "relevance": 0.549245,
+            "text": "20 avril",
+            "type": "Date"
+        },
+        {
+            "count": 1,
+            "relevance": 0.54846,
+            "text": "Ath\u00e8nes",
+            "type": "Location"
+        },
+        {
+            "count": 1,
+            "relevance": 0.544532,
+            "text": "1974",
+            "type": "Date"
+        },
+        {
+            "count": 1,
+            "relevance": 0.542083,
+            "text": "21 avril 1967",
+            "type": "Date"
+        },
+        {
+            "count": 1,
+            "relevance": 0.538955,
+            "text": "auberge de jeunesse",
+            "type": "Facility"
+        },
+        {
+            "count": 1,
+            "relevance": 0.529427,
+            "text": "Rommel",
+            "type": "Person"
+        },
+        {
+            "count": 2,
+            "relevance": 0.528914,
+            "text": "Napol\u00e9on",
+            "type": "Person"
+        },
+        {
+            "count": 1,
+            "relevance": 0.526241,
+            "text": "1976",
+            "type": "Number"
+        },
+        {
+            "count": 3,
+            "relevance": 0.525508,
+            "text": "Montr\u00e9al",
+            "type": "Location"
+        },
+        {
+            "count": 1,
+            "relevance": 0.522117,
+            "text": "H\u00e9rodote",
+            "type": "Person"
+        },
+        {
+            "count": 1,
+            "relevance": 0.517558,
+            "text": "g\u00e9ographes universitaires",
+            "type": "JobTitle"
+        },
+        {
+            "count": 1,
+            "relevance": 0.502018,
+            "text": "Napol\u00e9on\nBonaparte",
+            "type": "Person"
+        },
+        {
+            "count": 1,
+            "relevance": 0.495436,
+            "text": "2 d\u00e9cembre 1805",
+            "type": "Date"
+        },
+        {
+            "count": 1,
+            "relevance": 0.490756,
+            "text": "depuis des si\u00e8cles",
+            "type": "Duration"
+        },
+        {
+            "count": 1,
+            "relevance": 0.479281,
+            "text": "XVIe si\u00e8cle \u00e0 une \u00e9poque",
+            "type": "Date"
+        },
+        {
+            "count": 1,
+            "relevance": 0.475389,
+            "text": "XIXe si\u00e8cle",
+            "type": "Date"
+        },
+        {
+            "count": 1,
+            "relevance": 0.472452,
+            "text": "de nos jours",
+            "type": "Duration"
+        },
+        {
+            "count": 1,
+            "relevance": 0.467164,
+            "text": "Napol\u00e9on Bonaparte",
+            "type": "Person"
+        },
+        {
+            "count": 1,
+            "relevance": 0.46577,
+            "text": "Fondation Napol\u00e9on",
+            "type": "Person"
+        },
+        {
+            "count": 1,
+            "relevance": 0.460958,
+            "text": "http://www.searchlores.org/evaluate/austerlitz.htm#maps>.",
+            "type": "URL"
+        },
+        {
+            "count": 1,
+            "relevance": 0.451405,
+            "text": "Pratzen",
+            "type": "Location"
+        },
+        {
+            "count": 1,
+            "relevance": 0.39266,
+            "text": "New\nYork",
+            "type": "Location"
+        },
+        {
+            "count": 16,
+            "relevance": 0.392249,
+            "text": "un",
+            "type": "Number"
+        },
+        {
+            "count": 1,
+            "relevance": 0.370908,
+            "text": "place de la montagne",
+            "type": "Facility"
+        },
+        {
+            "count": 3,
+            "relevance": 0.360925,
+            "text": "premier",
+            "type": "Ordinal"
+        },
+        {
+            "count": 1,
+            "relevance": 0.355779,
+            "text": "Asie",
+            "type": "Location"
+        },
+        {
+            "count": 1,
+            "relevance": 0.349222,
+            "text": "grecque",
+            "type": "Location"
+        },
+        {
+            "count": 1,
+            "relevance": 0.343363,
+            "text": "un jour de la \ufb01n du mois de juin 1958",
+            "type": "Date"
+        },
+        {
+            "count": 1,
+            "relevance": 0.339962,
+            "text": "ce jour-l\u00e0",
+            "type": "Date"
+        },
+        {
+            "count": 1,
+            "relevance": 0.337917,
+            "text": "deux mois",
+            "type": "Duration"
+        },
+        {
+            "count": 1,
+            "relevance": 0.330761,
+            "text": "Bay Area",
+            "type": "GeographicFeature"
+        },
+        {
+            "count": 1,
+            "relevance": 0.308912,
+            "text": "militaires",
+            "type": "JobTitle"
+        },
+        {
+            "count": 1,
+            "relevance": 0.305381,
+            "text": "africain",
+            "type": "Location"
+        },
+        {
+            "count": 1,
+            "disambiguation": {
+                "dbpedia_resource": "http://fr.dbpedia.org/resource/Montagnes_Rocheuses",
+                "name": "Montagnes Rocheuses",
+                "subtype": [
+                    "Location",
+                    "MountainRange"
+                ]
+            },
+            "relevance": 0.304742,
+            "text": "Rocheuses",
+            "type": "GeographicFeature"
+        },
+        {
+            "count": 1,
+            "relevance": 0.29783,
+            "text": "Qu\u00e9bec",
+            "type": "Location"
+        },
+        {
+            "count": 1,
+            "relevance": 0.295042,
+            "text": "californiens",
+            "type": "Location"
+        },
+        {
+            "count": 3,
+            "relevance": 0.293689,
+            "text": "1",
+            "type": "Number"
+        },
+        {
+            "count": 1,
+            "relevance": 0.293651,
+            "text": "\u00e9t\u00e9s 1959 et 1960",
+            "type": "Date"
+        },
+        {
+            "count": 1,
+            "relevance": 0.291777,
+            "text": "nord-am\u00e9ricain",
+            "type": "Location"
+        }
+    ],
+    "keywords": [
+        {
+            "count": 1,
+            "relevance": 0.656996,
+            "text": "pouvoir des cartes"
+        },
+        {
+            "count": 2,
+            "relevance": 0.562436,
+            "text": "images-chap003"
+        },
+        {
+            "count": 1,
+            "relevance": 0.557635,
+            "text": "service du pouvoir"
+        },
+        {
+            "count": 1,
+            "relevance": 0.556057,
+            "text": "cartes g\u00e9ographiques"
+        },
+        {
+            "count": 1,
+            "relevance": 0.541686,
+            "text": "consid\u00e9rations strat\u00e9giques"
+        },
+        {
+            "count": 1,
+            "relevance": 0.539656,
+            "text": "telles \u00e9tudes"
+        },
+        {
+            "count": 1,
+            "relevance": 0.538157,
+            "text": "m\u00e9moire de ma\u00eetrise"
+        },
+        {
+            "count": 1,
+            "relevance": 0.537418,
+            "text": "img005-jpg"
+        },
+        {
+            "count": 1,
+            "relevance": 0.533261,
+            "text": "grand large"
+        },
+        {
+            "count": 1,
+            "relevance": 0.531995,
+            "text": "av\u00e8nement des syst\u00e8mes d\u2019information"
+        },
+        {
+            "count": 1,
+            "relevance": 0.527906,
+            "text": "savoir des g\u00e9ographes"
+        },
+        {
+            "count": 1,
+            "relevance": 0.525963,
+            "text": "faire savant"
+        },
+        {
+            "count": 1,
+            "relevance": 0.524962,
+            "text": "pouvoir d\u2019analyse"
+        },
+        {
+            "count": 1,
+            "relevance": 0.524928,
+            "text": "pertinence de l\u2019analyse g\u00e9ographique"
+        },
+        {
+            "count": 2,
+            "relevance": 0.522154,
+            "text": "connaissance des lieux"
+        },
+        {
+            "count": 1,
+            "relevance": 0.522046,
+            "text": "objets cartographiables"
+        },
+        {
+            "count": 1,
+            "relevance": 0.521487,
+            "text": "monde des g\u00e9ographes universitaires"
+        },
+        {
+            "count": 1,
+            "relevance": 0.521343,
+            "text": "Photo12"
+        },
+        {
+            "count": 1,
+            "relevance": 0.519914,
+            "text": "alli\u00e9s austro-russes"
+        },
+        {
+            "count": 1,
+            "relevance": 0.519601,
+            "text": "exemple Montr\u00e9al"
+        },
+        {
+            "count": 1,
+            "relevance": 0.519415,
+            "text": "Compagnie des Indes"
+        },
+        {
+            "count": 1,
+            "relevance": 0.519304,
+            "text": "premier lieu"
+        },
+        {
+            "count": 1,
+            "relevance": 0.518834,
+            "text": "\u00e9chelles de repr\u00e9sentation"
+        },
+        {
+            "count": 1,
+            "relevance": 0.518535,
+            "text": "d\u00e9but d\u2019avril"
+        },
+        {
+            "count": 3,
+            "relevance": 0.517844,
+            "text": "images satellitaires"
+        },
+        {
+            "count": 1,
+            "relevance": 0.517167,
+            "text": "Saint-Laurent"
+        },
+        {
+            "count": 2,
+            "relevance": 0.51715,
+            "text": "point tel"
+        },
+        {
+            "count": 1,
+            "relevance": 0.516137,
+            "text": "foule de donn\u00e9es"
+        },
+        {
+            "count": 1,
+            "relevance": 0.516103,
+            "text": "savoir g\u00e9ographique"
+        },
+        {
+            "count": 1,
+            "relevance": 0.515572,
+            "text": "2Napol\u00e9on Bonaparte"
+        },
+        {
+            "count": 1,
+            "relevance": 0.514989,
+            "text": "cas d\u2019une ville"
+        },
+        {
+            "count": 1,
+            "relevance": 0.514937,
+            "text": "analyse de sa g\u00e9ographie sociale"
+        },
+        {
+            "count": 1,
+            "relevance": 0.514806,
+            "text": "jour de la \ufb01n du mois"
+        },
+        {
+            "count": 2,
+            "relevance": 0.514101,
+            "text": "chap003"
+        },
+        {
+            "count": 5,
+            "relevance": 0.513793,
+            "text": "images"
+        },
+        {
+            "count": 1,
+            "relevance": 0.51362,
+            "text": "junte militaire"
+        },
+        {
+            "count": 1,
+            "relevance": 0.513382,
+            "text": "grand-chose"
+        },
+        {
+            "count": 1,
+            "relevance": 0.512153,
+            "text": "direction de Singapour a\ufb01n"
+        },
+        {
+            "count": 1,
+            "relevance": 0.51169,
+            "text": "\u00e9tudes de doctorat"
+        },
+        {
+            "count": 1,
+            "relevance": 0.511664,
+            "text": "information g\u00e9ographique"
+        },
+        {
+            "count": 1,
+            "relevance": 0.511607,
+            "text": "photo a\u00e9rienne"
+        },
+        {
+            "count": 2,
+            "relevance": 0.511346,
+            "text": "Yves Lacoste"
+        },
+        {
+            "count": 1,
+            "relevance": 0.511219,
+            "text": "Guerre civile am\u00e9ricaine"
+        },
+        {
+            "count": 1,
+            "relevance": 0.510711,
+            "text": "arm\u00e9e grecque"
+        },
+        {
+            "count": 1,
+            "relevance": 0.510659,
+            "text": "partie attribuable"
+        },
+        {
+            "count": 1,
+            "relevance": 0.510167,
+            "text": "situation de Montr\u00e9al"
+        },
+        {
+            "count": 1,
+            "relevance": 0.510147,
+            "text": "somme des informations"
+        },
+        {
+            "count": 1,
+            "relevance": 0.510087,
+            "text": "tel \u00e9ventail de cartes"
+        },
+        {
+            "count": 1,
+            "relevance": 0.509844,
+            "text": "belle lurette"
+        },
+        {
+            "count": 1,
+            "relevance": 0.509202,
+            "text": "soit inexact"
+        }
+    ],
+    "language": "fr",
+    "usage": {
+        "features": 4,
+        "text_characters": 16632,
+        "text_units": 2
+    }
+}

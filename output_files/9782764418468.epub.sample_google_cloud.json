@@ -1,0 +1,5199 @@
+{
+  "entities": [
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.09448550641536713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 13
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bois",
+      "type": "OTHER",
+      "salience": 0.05908714607357979,
+      "mentions": [
+        {
+          "text": {
+            "content": "bois",
+            "beginOffset": 37
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.03173470124602318,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 251
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.03173470124602318,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 304
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.03173470124602318,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 276
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.03173470124602318,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 257
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.03173470124602318,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 226
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.03173470124602318,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 198
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.03173470124602318,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 173
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.03173470124602318,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 179
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.024320088326931,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 192
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.024320088326931,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 270
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.02182774245738983,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 450
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.018879452720284462,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 505
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.018879452720284462,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 511
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.018879452720284462,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 530
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.018879452720284462,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 558
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feuilles",
+      "type": "OTHER",
+      "salience": 0.017905134707689285,
+      "mentions": [
+        {
+          "text": {
+            "content": "feuilles",
+            "beginOffset": 79
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "loups",
+      "type": "OTHER",
+      "salience": 0.017225142568349838,
+      "mentions": [
+        {
+          "text": {
+            "content": "loups",
+            "beginOffset": 125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "salience": 0.017110085114836693,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 439
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vent",
+      "type": "OTHER",
+      "salience": 0.014635891653597355,
+      "mentions": [
+        {
+          "text": {
+            "content": "vent",
+            "beginOffset": 61
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "oiseaux",
+      "type": "OTHER",
+      "salience": 0.014635891653597355,
+      "mentions": [
+        {
+          "text": {
+            "content": "oiseaux",
+            "beginOffset": 101
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.014453763142228127,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 524
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.012968121096491814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 577
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "feuilles",
+      "type": "OTHER",
+      "salience": 0.011839821934700012,
+      "mentions": [
+        {
+          "text": {
+            "content": "feuilles",
+            "beginOffset": 346
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0007",
+      "type": "OTHER",
+      "salience": 0.011839821934700012,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0007",
+            "beginOffset": 264
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0006",
+      "type": "OTHER",
+      "salience": 0.011839821934700012,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0006",
+            "beginOffset": 186
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "loups",
+      "type": "OTHER",
+      "salience": 0.011389295570552349,
+      "mentions": [
+        {
+          "text": {
+            "content": "loups",
+            "beginOffset": 400
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "oiseaux",
+      "type": "OTHER",
+      "salience": 0.00967443361878395,
+      "mentions": [
+        {
+          "text": {
+            "content": "oiseaux",
+            "beginOffset": 372
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vent",
+      "type": "OTHER",
+      "salience": 0.00967443361878395,
+      "mentions": [
+        {
+          "text": {
+            "content": "vent",
+            "beginOffset": 324
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.00802320335060358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 687
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.007597922347486019,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 742
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "i0008",
+      "type": "OTHER",
+      "salience": 0.007024617400020361,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0008",
+            "beginOffset": 518
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.006821824237704277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 799
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e8re",
+      "type": "PERSON",
+      "salience": 0.005231596529483795,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e8re",
+            "beginOffset": 720
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.005231596529483795,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 735
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tout",
+      "type": "OTHER",
+      "salience": 0.004886769223958254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tout",
+            "beginOffset": 563
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coup",
+      "type": "OTHER",
+      "salience": 0.004886769223958254,
+      "mentions": [
+        {
+          "text": {
+            "content": "coup",
+            "beginOffset": 571
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sentiers",
+      "type": "OTHER",
+      "salience": 0.0047827064990997314,
+      "mentions": [
+        {
+          "text": {
+            "content": "sentiers",
+            "beginOffset": 612
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e8re",
+      "type": "PERSON",
+      "salience": 0.004637488629668951,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e8re",
+            "beginOffset": 771
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.00416336627677083,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 827
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "question",
+      "type": "OTHER",
+      "salience": 0.004065800923854113,
+      "mentions": [
+        {
+          "text": {
+            "content": "question",
+            "beginOffset": 704
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.003073187544941902,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 972
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.003073187544941902,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 978
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.003073187544941902,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 997
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.003073187544941902,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 1025
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "savoir",
+      "type": "OTHER",
+      "salience": 0.0030202632769942284,
+      "mentions": [
+        {
+          "text": {
+            "content": "savoir",
+            "beginOffset": 665
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0029325212817639112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 1188
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.002876634942367673,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 1183
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.002876634942367673,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1155
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.002876634942367673,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1136
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.002876634942367673,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 1130
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.002349855611100793,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 991
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.002199531299993396,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 1149
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.002107445616275072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 1030
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.001983567839488387,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 1650
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.001983567839488387,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1656
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.001983567839488387,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1675
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.001983567839488387,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 1703
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.001525021274574101,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 1354
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.001516568474471569,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 1669
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0014929543249309063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 1445
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "autre",
+      "type": "OTHER",
+      "salience": 0.0014905035495758057,
+      "mentions": [
+        {
+          "text": {
+            "content": "autre",
+            "beginOffset": 872
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0010",
+      "type": "OTHER",
+      "salience": 0.0014584126183763146,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0010",
+            "beginOffset": 1143
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0013732328079640865,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e8re",
+            "beginOffset": 1082
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0012487026397138834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 1836
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "i0009",
+      "type": "OTHER",
+      "salience": 0.0011396694462746382,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0009",
+            "beginOffset": 985
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0010778186842799187,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e8re",
+            "beginOffset": 1342
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "salience": 0.0010776693234220147,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 1299
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0010762268211692572,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e8re",
+            "beginOffset": 1566
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "salience": 0.0010758688440546393,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 1488
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.001072716317139566,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 2015
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.001072716317139566,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 2093
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.001072716317139566,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 2065
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.001072716317139566,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 2046
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.001072716317139566,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 2040
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.001072716317139566,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1987
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.001072716317139566,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1968
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.001072716317139566,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 1962
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0011",
+      "type": "OTHER",
+      "salience": 0.0010054927552118897,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0011",
+            "beginOffset": 1663
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "part",
+      "type": "OTHER",
+      "salience": 0.0009942339966073632,
+      "mentions": [
+        {
+          "text": {
+            "content": "part",
+            "beginOffset": 1102
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0009664652170613408,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 2330
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0009664652170613408,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 2336
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0009664652170613408,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 2383
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0009664652170613408,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 2355
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gar\u00e7on",
+      "type": "PERSON",
+      "salience": 0.0009441894944757223,
+      "mentions": [
+        {
+          "text": {
+            "content": "gar\u00e7on",
+            "beginOffset": 1269
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0009389676852151752,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 1069
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0009274680051021278,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 1578
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gauche",
+      "type": "OTHER",
+      "salience": 0.0009175068698823452,
+      "mentions": [
+        {
+          "text": {
+            "content": "gauche",
+            "beginOffset": 925
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0008926985901780427,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 6227
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0008926985901780427,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 6233
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0008926985901780427,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 6252
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0008926985901780427,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 6280
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0008714291034266353,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 6475
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0008714291034266353,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 6503
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0008714291034266353,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 6456
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0008714291034266353,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 6450
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0008714291034266353,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 6528
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0008714291034266353,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 6534
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0008714291034266353,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 6553
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0008714291034266353,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 6581
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0008656539139337838,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3794
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0008656539139337838,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 3822
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "droite",
+      "type": "OTHER",
+      "salience": 0.0008504049619659781,
+      "mentions": [
+        {
+          "text": {
+            "content": "droite",
+            "beginOffset": 942
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0008205733029171824,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 4126
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0008205733029171824,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 4098
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0008205733029171824,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 4079
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0008205733029171824,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 4073
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0008201036835089326,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 2059
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0008201036835089326,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 1981
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bois",
+      "type": "OTHER",
+      "salience": 0.0008045749273151159,
+      "mentions": [
+        {
+          "text": {
+            "content": "bois",
+            "beginOffset": 1788
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.000793012382928282,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 4332
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.000793012382928282,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 4304
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.000793012382928282,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 4285
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.000793012382928282,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 4279
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9vidence",
+      "type": "OTHER",
+      "salience": 0.0007923522498458624,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9vidence",
+            "beginOffset": 1054
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "riens",
+      "type": "OTHER",
+      "salience": 0.0007767804199829698,
+      "mentions": [
+        {
+          "text": {
+            "content": "riens",
+            "beginOffset": 1437
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.000763392832595855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 1923
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0007584276027046144,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3775
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gar\u00e7on",
+      "type": "PERSON",
+      "salience": 0.0007568459841422737,
+      "mentions": [
+        {
+          "text": {
+            "content": "gar\u00e7on",
+            "beginOffset": 1743
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0007549384026788175,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 4582
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0007549384026788175,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 4635
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0007549384026788175,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 4588
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0007549384026788175,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 4607
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.000738867383915931,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 2349
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.000709483225364238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 2200
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006911136442795396,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 2809
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006911136442795396,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 2790
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0006911136442795396,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 2784
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0006824685260653496,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 6246
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0006686383858323097,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 2837
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0006662068772129714,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 6547
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0006662068772129714,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 6469
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0006617914186790586,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 3788
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.0006576398736797273,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 4376
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "preuve",
+      "type": "OTHER",
+      "salience": 0.0006573058781214058,
+      "mentions": [
+        {
+          "text": {
+            "content": "preuve",
+            "beginOffset": 1330
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0006517617148347199,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 5960
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0006413956289179623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max\nMalo",
+            "beginOffset": 2468
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.000635226140730083,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 6860
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.000635226140730083,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 6813
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.000635226140730083,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 6807
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.000635226140730083,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 6832
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0006273251492530107,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 4092
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0006234233733266592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 6728
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006209214334376156,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 7045
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006209214334376156,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 7026
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0006209214334376156,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 7020
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0006209214334376156,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 7073
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0006103796185925603,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 3030
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006103796185925603,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3036
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006103796185925603,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3055
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0006103796185925603,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 3083
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0006072393734939396,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 7355
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0006072393734939396,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 7302
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006072393734939396,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 7327
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0006072393734939396,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 7433
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006072393734939396,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 7405
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006072393734939396,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 7386
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006072393734939396,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 7308
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0006072393734939396,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 7380
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0006062536267563701,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 4298
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0005974466330371797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 6654
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0005934868822805583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 3827
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fois",
+      "type": "OTHER",
+      "salience": 0.000590024865232408,
+      "mentions": [
+        {
+          "text": {
+            "content": "fois",
+            "beginOffset": 1392
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0005877979565411806,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 7670
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005877979565411806,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 7676
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005877979565411806,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 7695
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0005877979565411806,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 7723
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0005848585278727114,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 3263
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005848585278727114,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3216
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0005848585278727114,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 3288
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005848585278727114,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3294
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0005848585278727114,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 3210
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005848585278727114,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005848585278727114,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 3235
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0005848585278727114,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 3341
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0005771444994024932,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 4601
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal",
+      "type": "OTHER",
+      "salience": 0.0005648282240144908,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal",
+            "beginOffset": 1884
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.0005574359674938023,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 2297
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0005529692280106246,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 4220
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.0005516494275070727,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 5798
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0012",
+      "type": "OTHER",
+      "salience": 0.0005436904611997306,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0012",
+            "beginOffset": 1975
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0013",
+      "type": "OTHER",
+      "salience": 0.0005436904611997306,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0013",
+            "beginOffset": 2053
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.0005390133592300117,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 2400
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0005283483187668025,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 2803
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal",
+      "type": "OTHER",
+      "salience": 0.0005235149874351919,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal",
+            "beginOffset": 2113
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0005182292079553008,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 4872
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0005182292079553008,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 4819
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005182292079553008,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 4844
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005182292079553008,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 4825
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0005100502166897058,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 3769
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal",
+      "type": "OTHER",
+      "salience": 0.000505020609125495,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal",
+            "beginOffset": 2245
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0005030588363297284,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 5104
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0005030588363297284,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 5051
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005030588363297284,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 5076
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005030588363297284,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 5057
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0004959572106599808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 2579
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "i0014",
+      "type": "OTHER",
+      "salience": 0.0004898300976492465,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0014",
+            "beginOffset": 2343
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0004887412069365382,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 5329
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0004887412069365382,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 5245
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0004887412069365382,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 5251
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0004887412069365382,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 5270
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0004887412069365382,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 5298
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0004887412069365382,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 5323
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0004887412069365382,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 5348
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0004887412069365382,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 5376
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.0004860033805016428,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 6692
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.00048562086885794997,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 6826
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.000480278511531651,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 6716
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0004776190617121756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 6285
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "animal",
+      "type": "OTHER",
+      "salience": 0.000476285902550444,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal",
+            "beginOffset": 5862
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0004746846097987145,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 7039
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sanglots",
+      "type": "OTHER",
+      "salience": 0.00046940025640651584,
+      "mentions": [
+        {
+          "text": {
+            "content": "sanglots",
+            "beginOffset": 1826
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.00046871378435753286,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 5641
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.00046871378435753286,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 5647
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.00046871378435753286,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 5666
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.00046871378435753286,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 5694
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.00046662514796480536,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 3049
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.00046422440209425986,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 7399
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.00046422440209425986,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 7321
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.00045840477105230093,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 2842
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "i0028",
+      "type": "OTHER",
+      "salience": 0.0004524377582129091,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0028",
+            "beginOffset": 6240
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0004493610467761755,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 7689
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.00044711382361128926,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 3307
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.00044711382361128926,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 3229
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0029",
+      "type": "OTHER",
+      "salience": 0.00044165641884319484,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0029",
+            "beginOffset": 6463
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0019",
+      "type": "OTHER",
+      "salience": 0.0004387290100567043,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0019",
+            "beginOffset": 3782
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.00043753429781645536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 2883
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0004305375332478434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 6955
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.0004278795968275517,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 4476
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.00042723026126623154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 3658
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0004256889224052429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 7109
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.00041796232108026743,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 3363
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.00041630820487625897,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 7466
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "i0020",
+      "type": "OTHER",
+      "salience": 0.0004158782830927521,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0020",
+            "beginOffset": 4086
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animaux",
+      "type": "OTHER",
+      "salience": 0.00041485310066491365,
+      "mentions": [
+        {
+          "text": {
+            "content": "animaux",
+            "beginOffset": 3947
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.0004123134131077677,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 5887
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0004095277690794319,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 3178
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "i0021",
+      "type": "OTHER",
+      "salience": 0.0004019081825390458,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0021",
+            "beginOffset": 4292
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bois",
+      "type": "OTHER",
+      "salience": 0.0003975524741690606,
+      "mentions": [
+        {
+          "text": {
+            "content": "bois",
+            "beginOffset": 6028
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bois",
+      "type": "OTHER",
+      "salience": 0.0003963058697991073,
+      "mentions": [
+        {
+          "text": {
+            "content": "bois",
+            "beginOffset": 2462
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0003961748443543911,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 4838
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.000393928203266114,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 6421
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e8re",
+      "type": "PERSON",
+      "salience": 0.000393928203266114,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e8re",
+            "beginOffset": 6406
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.00039274588925763965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 3410
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bois",
+      "type": "OTHER",
+      "salience": 0.00039252254646271467,
+      "mentions": [
+        {
+          "text": {
+            "content": "bois",
+            "beginOffset": 6098
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0003845769679173827,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 5070
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Maaaxxx Maaalooo",
+      "type": "PERSON",
+      "salience": 0.00038424893864430487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maaaxxx Maaalooo",
+            "beginOffset": 5974
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bois",
+      "type": "OTHER",
+      "salience": 0.000382830883609131,
+      "mentions": [
+        {
+          "text": {
+            "content": "bois",
+            "beginOffset": 6199
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0022",
+      "type": "OTHER",
+      "salience": 0.0003826094325631857,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0022",
+            "beginOffset": 4595
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal",
+      "type": "OTHER",
+      "salience": 0.0003805968153756112,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal",
+            "beginOffset": 4420
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Maaaxxx Maaalooo",
+      "type": "PERSON",
+      "salience": 0.00037938731838949025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maaaxxx Maaalooo",
+            "beginOffset": 6034
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Maaaxxx Maaalooo",
+      "type": "PERSON",
+      "salience": 0.0003746457805391401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maaaxxx Maaalooo",
+            "beginOffset": 6104
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Maaaxxx Maaalooo",
+      "type": "PERSON",
+      "salience": 0.0003746457805391401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maaaxxx\nMaaalooo",
+            "beginOffset": 6125
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.00037363104638643563,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 5342
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.00037363104638643563,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 5264
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0030",
+      "type": "OTHER",
+      "salience": 0.0003691485617309809,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0030",
+            "beginOffset": 6541
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.00035838555777445436,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 6768
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.00035831998684443533,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 5660
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.00035528175067156553,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 4889
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "oreille",
+      "type": "OTHER",
+      "salience": 0.00035109161399304867,
+      "mentions": [
+        {
+          "text": {
+            "content": "oreille",
+            "beginOffset": 2274
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0015",
+      "type": "OTHER",
+      "salience": 0.00035025880788452923,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0015",
+            "beginOffset": 2797
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.00035022461088374257,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 6945
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "voix",
+      "type": "OTHER",
+      "salience": 0.0003478684229776263,
+      "mentions": [
+        {
+          "text": {
+            "content": "voix",
+            "beginOffset": 6004
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "salience": 0.00034724699798971415,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 6631
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "voix",
+      "type": "OTHER",
+      "salience": 0.0003434670506976545,
+      "mentions": [
+        {
+          "text": {
+            "content": "voix",
+            "beginOffset": 6074
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.0003399027045816183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 5179
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Galope",
+      "type": "OTHER",
+      "salience": 0.0003391009522601962,
+      "mentions": [
+        {
+          "text": {
+            "content": "Galope",
+            "beginOffset": 2289
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feuillage",
+      "type": "OTHER",
+      "salience": 0.0003360105329193175,
+      "mentions": [
+        {
+          "text": {
+            "content": "feuillage",
+            "beginOffset": 2544
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.00033506465842947364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 5425
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "voix",
+      "type": "OTHER",
+      "salience": 0.0003349864564370364,
+      "mentions": [
+        {
+          "text": {
+            "content": "voix",
+            "beginOffset": 6174
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "galop",
+      "type": "OTHER",
+      "salience": 0.0003278932999819517,
+      "mentions": [
+        {
+          "text": {
+            "content": "galop",
+            "beginOffset": 2417
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "loups",
+      "type": "OTHER",
+      "salience": 0.00032676360569894314,
+      "mentions": [
+        {
+          "text": {
+            "content": "loups",
+            "beginOffset": 5935
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ggaourrgg",
+      "type": "PERSON",
+      "salience": 0.0003258035867474973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ggaourrgg",
+            "beginOffset": 2565
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "surprise",
+      "type": "EVENT",
+      "salience": 0.0003198480699211359,
+      "mentions": [
+        {
+          "text": {
+            "content": "surprise",
+            "beginOffset": 5771
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vall\u00e9e",
+      "type": "OTHER",
+      "salience": 0.00031739447149448097,
+      "mentions": [
+        {
+          "text": {
+            "content": "vall\u00e9e",
+            "beginOffset": 2491
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0016",
+      "type": "OTHER",
+      "salience": 0.00030933841480873525,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0016",
+            "beginOffset": 3043
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vall\u00e9e",
+      "type": "OTHER",
+      "salience": 0.00030753962346352637,
+      "mentions": [
+        {
+          "text": {
+            "content": "vall\u00e9e",
+            "beginOffset": 2510
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ggaourrgg",
+      "type": "PERSON",
+      "salience": 0.00030726377735845745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ggaourrgg",
+            "beginOffset": 2608
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "animaux",
+      "type": "OTHER",
+      "salience": 0.00030449742916971445,
+      "mentions": [
+        {
+          "text": {
+            "content": "animaux",
+            "beginOffset": 2959
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "oreilles",
+      "type": "OTHER",
+      "salience": 0.0003028615319635719,
+      "mentions": [
+        {
+          "text": {
+            "content": "oreilles",
+            "beginOffset": 6315
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ggaourgg",
+      "type": "PERSON",
+      "salience": 0.00029875454492866993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ggaourgg",
+            "beginOffset": 2622
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "i0017",
+      "type": "OTHER",
+      "salience": 0.00029640315915457904,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0017",
+            "beginOffset": 3223
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0018",
+      "type": "OTHER",
+      "salience": 0.00029640315915457904,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0018",
+            "beginOffset": 3301
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "oreille",
+      "type": "OTHER",
+      "salience": 0.00029564413125626743,
+      "mentions": [
+        {
+          "text": {
+            "content": "oreille",
+            "beginOffset": 6677
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "for\u00eat",
+      "type": "LOCATION",
+      "salience": 0.00029539605020545423,
+      "mentions": [
+        {
+          "text": {
+            "content": "for\u00eat",
+            "beginOffset": 5850
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "part",
+      "type": "OTHER",
+      "salience": 0.00029252254171296954,
+      "mentions": [
+        {
+          "text": {
+            "content": "part",
+            "beginOffset": 2409
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gar\u00e7on",
+      "type": "PERSON",
+      "salience": 0.0002922617713920772,
+      "mentions": [
+        {
+          "text": {
+            "content": "gar\u00e7on",
+            "beginOffset": 2152
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "milieu",
+      "type": "OTHER",
+      "salience": 0.0002915147051680833,
+      "mentions": [
+        {
+          "text": {
+            "content": "milieu",
+            "beginOffset": 5924
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.00028900575125589967,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 4905
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ggaourrgg",
+      "type": "PERSON",
+      "salience": 0.0002830606827046722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ggaourrgg",
+            "beginOffset": 2673
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "animal",
+      "type": "OTHER",
+      "salience": 0.0002774217864498496,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal",
+            "beginOffset": 5509
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "agneau",
+      "type": "OTHER",
+      "salience": 0.0002764388045761734,
+      "mentions": [
+        {
+          "text": {
+            "content": "agneau",
+            "beginOffset": 2141
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ggaourgg",
+      "type": "PERSON",
+      "salience": 0.0002758093469310552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ggaourgg",
+            "beginOffset": 2687
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "arbres",
+      "type": "OTHER",
+      "salience": 0.00027436428354121745,
+      "mentions": [
+        {
+          "text": {
+            "content": "arbres",
+            "beginOffset": 2534
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.00027423951542004943,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 7206
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "secret",
+      "type": "OTHER",
+      "salience": 0.00027328822761774063,
+      "mentions": [
+        {
+          "text": {
+            "content": "secret",
+            "beginOffset": 7455
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antilope",
+      "type": "OTHER",
+      "salience": 0.00027255972963757813,
+      "mentions": [
+        {
+          "text": {
+            "content": "antilope",
+            "beginOffset": 5439
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0031",
+      "type": "OTHER",
+      "salience": 0.0002690777473617345,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0031",
+            "beginOffset": 6820
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ggaourgg",
+      "type": "PERSON",
+      "salience": 0.0002689160464797169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ggaourgg",
+            "beginOffset": 2700
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bras",
+      "type": "OTHER",
+      "salience": 0.0002637518919073045,
+      "mentions": [
+        {
+          "text": {
+            "content": "bras",
+            "beginOffset": 6648
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0032",
+      "type": "OTHER",
+      "salience": 0.00026301766047254205,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0032",
+            "beginOffset": 7033
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0023",
+      "type": "OTHER",
+      "salience": 0.00026263290783390403,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0023",
+            "beginOffset": 4832
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "surprises",
+      "type": "OTHER",
+      "salience": 0.0002620035957079381,
+      "mentions": [
+        {
+          "text": {
+            "content": "surprises",
+            "beginOffset": 3863
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0033",
+      "type": "OTHER",
+      "salience": 0.00025722134159877896,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0033",
+            "beginOffset": 7315
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0034",
+      "type": "OTHER",
+      "salience": 0.00025722134159877896,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0034",
+            "beginOffset": 7393
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0024",
+      "type": "OTHER",
+      "salience": 0.0002549440832808614,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0024",
+            "beginOffset": 5064
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gar\u00e7on",
+      "type": "PERSON",
+      "salience": 0.0002531128702685237,
+      "mentions": [
+        {
+          "text": {
+            "content": "gar\u00e7on",
+            "beginOffset": 6879
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animaux",
+      "type": "OTHER",
+      "salience": 0.0002528861805330962,
+      "mentions": [
+        {
+          "text": {
+            "content": "animaux",
+            "beginOffset": 4938
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "b\u00eates",
+      "type": "OTHER",
+      "salience": 0.0002527468604966998,
+      "mentions": [
+        {
+          "text": {
+            "content": "b\u00eates",
+            "beginOffset": 4006
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "approche",
+      "type": "OTHER",
+      "salience": 0.00025149789871647954,
+      "mentions": [
+        {
+          "text": {
+            "content": "approche",
+            "beginOffset": 5833
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0035",
+      "type": "OTHER",
+      "salience": 0.000248985190410167,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0035",
+            "beginOffset": 7683
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0026",
+      "type": "OTHER",
+      "salience": 0.00024768750881776214,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0026",
+            "beginOffset": 5336
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0025",
+      "type": "OTHER",
+      "salience": 0.00024768750881776214,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0025",
+            "beginOffset": 5258
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "salience": 0.00024741230299696326,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 7100
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gar\u00e7on",
+      "type": "PERSON",
+      "salience": 0.0002446560829412192,
+      "mentions": [
+        {
+          "text": {
+            "content": "gar\u00e7on",
+            "beginOffset": 7169
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vall\u00e9e",
+      "type": "LOCATION",
+      "salience": 0.00024018422118388116,
+      "mentions": [
+        {
+          "text": {
+            "content": "vall\u00e9e",
+            "beginOffset": 2753
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0027",
+      "type": "OTHER",
+      "salience": 0.00023753709683660418,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0027",
+            "beginOffset": 5654
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terre",
+      "type": "LOCATION",
+      "salience": 0.00023604612215422094,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre",
+            "beginOffset": 4459
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e8re",
+      "type": "PERSON",
+      "salience": 0.00023244965996127576,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e8re",
+            "beginOffset": 7194
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plateau",
+      "type": "LOCATION",
+      "salience": 0.000232206322834827,
+      "mentions": [
+        {
+          "text": {
+            "content": "plateau",
+            "beginOffset": 4537
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mammouths",
+      "type": "OTHER",
+      "salience": 0.000232206322834827,
+      "mentions": [
+        {
+          "text": {
+            "content": "mammouths",
+            "beginOffset": 4549
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feuilles",
+      "type": "OTHER",
+      "salience": 0.0002312806318514049,
+      "mentions": [
+        {
+          "text": {
+            "content": "feuilles",
+            "beginOffset": 2987
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cris",
+      "type": "OTHER",
+      "salience": 0.0002289236435899511,
+      "mentions": [
+        {
+          "text": {
+            "content": "cris",
+            "beginOffset": 2717
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doute",
+      "type": "OTHER",
+      "salience": 0.00022726430324837565,
+      "mentions": [
+        {
+          "text": {
+            "content": "doute",
+            "beginOffset": 6333
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "id\u00e9e",
+      "type": "OTHER",
+      "salience": 0.00022455595899373293,
+      "mentions": [
+        {
+          "text": {
+            "content": "id\u00e9e",
+            "beginOffset": 6602
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dragons",
+      "type": "PERSON",
+      "salience": 0.00022364378673955798,
+      "mentions": [
+        {
+          "text": {
+            "content": "dragons",
+            "beginOffset": 5120
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "voix",
+      "type": "OTHER",
+      "salience": 0.00022350451035890728,
+      "mentions": [
+        {
+          "text": {
+            "content": "voix",
+            "beginOffset": 6353
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bout",
+      "type": "OTHER",
+      "salience": 0.00022306744358502328,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 3851
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cri",
+      "type": "OTHER",
+      "salience": 0.00021991899120621383,
+      "mentions": [
+        {
+          "text": {
+            "content": "cri",
+            "beginOffset": 2598
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "troupeau",
+      "type": "OTHER",
+      "salience": 0.00021905681933276355,
+      "mentions": [
+        {
+          "text": {
+            "content": "troupeau",
+            "beginOffset": 3930
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "froid",
+      "type": "OTHER",
+      "salience": 0.00021518624271266162,
+      "mentions": [
+        {
+          "text": {
+            "content": "froid",
+            "beginOffset": 4044
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toison",
+      "type": "OTHER",
+      "salience": 0.00021518624271266162,
+      "mentions": [
+        {
+          "text": {
+            "content": "toison",
+            "beginOffset": 3985
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "l\u00e8vres",
+      "type": "OTHER",
+      "salience": 0.0002078367688227445,
+      "mentions": [
+        {
+          "text": {
+            "content": "l\u00e8vres",
+            "beginOffset": 4236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "glace",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00020096723164897412,
+      "mentions": [
+        {
+          "text": {
+            "content": "glace",
+            "beginOffset": 4409
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max Malo",
+      "type": "PERSON",
+      "salience": 0.00019894522847607732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max Malo",
+            "beginOffset": 5733
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "galop",
+      "type": "OTHER",
+      "salience": 0.00019840867025777698,
+      "mentions": [
+        {
+          "text": {
+            "content": "galop",
+            "beginOffset": 3382
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rien",
+      "type": "OTHER",
+      "salience": 0.0001928598794620484,
+      "mentions": [
+        {
+          "text": {
+            "content": "rien",
+            "beginOffset": 5522
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terre",
+      "type": "OTHER",
+      "salience": 0.0001922507508425042,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre",
+            "beginOffset": 6898
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rien",
+      "type": "OTHER",
+      "salience": 0.00019043694192077965,
+      "mentions": [
+        {
+          "text": {
+            "content": "rien",
+            "beginOffset": 3448
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "for\u00eat",
+      "type": "LOCATION",
+      "salience": 0.00019006142974831164,
+      "mentions": [
+        {
+          "text": {
+            "content": "for\u00eat",
+            "beginOffset": 6990
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "secret",
+      "type": "OTHER",
+      "salience": 0.00019006142974831164,
+      "mentions": [
+        {
+          "text": {
+            "content": "secret",
+            "beginOffset": 6931
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arbres",
+      "type": "OTHER",
+      "salience": 0.00018884747987613082,
+      "mentions": [
+        {
+          "text": {
+            "content": "arbres",
+            "beginOffset": 3000
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bras",
+      "type": "OTHER",
+      "salience": 0.00018792082846630365,
+      "mentions": [
+        {
+          "text": {
+            "content": "bras",
+            "beginOffset": 7135
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dragons",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00018114788690581918,
+      "mentions": [
+        {
+          "text": {
+            "content": "dragons",
+            "beginOffset": 5476
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cris",
+      "type": "OTHER",
+      "salience": 0.0001792505499906838,
+      "mentions": [
+        {
+          "text": {
+            "content": "cris",
+            "beginOffset": 2639
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dragons",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00017372415459249169,
+      "mentions": [
+        {
+          "text": {
+            "content": "dragons",
+            "beginOffset": 5724
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dinosaures",
+      "type": "OTHER",
+      "salience": 0.00016989315918181092,
+      "mentions": [
+        {
+          "text": {
+            "content": "dinosaures",
+            "beginOffset": 3467
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mammouths",
+      "type": "OTHER",
+      "salience": 0.00016979729116428643,
+      "mentions": [
+        {
+          "text": {
+            "content": "mammouths",
+            "beginOffset": 4180
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "direction",
+      "type": "OTHER",
+      "salience": 0.0001618159731151536,
+      "mentions": [
+        {
+          "text": {
+            "content": "direction",
+            "beginOffset": 6974
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "joie",
+      "type": "OTHER",
+      "salience": 0.00015999347670003772,
+      "mentions": [
+        {
+          "text": {
+            "content": "joie",
+            "beginOffset": 7154
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "milieu",
+      "type": "OTHER",
+      "salience": 0.00015723939577583224,
+      "mentions": [
+        {
+          "text": {
+            "content": "milieu",
+            "beginOffset": 3697
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plateau",
+      "type": "LOCATION",
+      "salience": 0.00015723939577583224,
+      "mentions": [
+        {
+          "text": {
+            "content": "plateau",
+            "beginOffset": 3719
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "amie",
+      "type": "PERSON",
+      "salience": 0.00015646746032871306,
+      "mentions": [
+        {
+          "text": {
+            "content": "amie",
+            "beginOffset": 7503
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feu",
+      "type": "OTHER",
+      "salience": 0.00015450788487214595,
+      "mentions": [
+        {
+          "text": {
+            "content": "feu",
+            "beginOffset": 5024
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.00015309173613786697,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 7641
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "page",
+      "type": "OTHER",
+      "salience": 0.00015309173613786697,
+      "mentions": [
+        {
+          "text": {
+            "content": "page",
+            "beginOffset": 7630
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feu",
+      "type": "OTHER",
+      "salience": 0.0001522457314422354,
+      "mentions": [
+        {
+          "text": {
+            "content": "feu",
+            "beginOffset": 5141
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fourmis",
+      "type": "OTHER",
+      "salience": 0.0001446448004571721,
+      "mentions": [
+        {
+          "text": {
+            "content": "fourmis",
+            "beginOffset": 3512
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "compte",
+      "type": "OTHER",
+      "salience": 0.0001406789815519005,
+      "mentions": [
+        {
+          "text": {
+            "content": "compte",
+            "beginOffset": 3675
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "b\u00eates",
+      "type": "OTHER",
+      "salience": 0.00013314574607647955,
+      "mentions": [
+        {
+          "text": {
+            "content": "b\u00eates",
+            "beginOffset": 4980
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "endroit",
+      "type": "LOCATION",
+      "salience": 0.00012774878996424377,
+      "mentions": [
+        {
+          "text": {
+            "content": "endroit",
+            "beginOffset": 5214
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dinosaures",
+      "type": "OTHER",
+      "salience": 0.00012629589764401317,
+      "mentions": [
+        {
+          "text": {
+            "content": "dinosaures",
+            "beginOffset": 3137
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pens\u00e9es",
+      "type": "OTHER",
+      "salience": 0.00012593033898156136,
+      "mentions": [
+        {
+          "text": {
+            "content": "pens\u00e9es",
+            "beginOffset": 5413
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pattes",
+      "type": "OTHER",
+      "salience": 0.00012593033898156136,
+      "mentions": [
+        {
+          "text": {
+            "content": "pattes",
+            "beginOffset": 5465
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vigueur",
+      "type": "OTHER",
+      "salience": 0.0001241622812813148,
+      "mentions": [
+        {
+          "text": {
+            "content": "vigueur",
+            "beginOffset": 5539
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chaleur",
+      "type": "OTHER",
+      "salience": 0.0001241622812813148,
+      "mentions": [
+        {
+          "text": {
+            "content": "chaleur",
+            "beginOffset": 5496
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9clair",
+      "type": "OTHER",
+      "salience": 0.000122442637803033,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9clair",
+            "beginOffset": 5569
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vitesse",
+      "type": "OTHER",
+      "salience": 0.000122442637803033,
+      "mentions": [
+        {
+          "text": {
+            "content": "vitesse",
+            "beginOffset": 5554
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "griffes",
+      "type": "OTHER",
+      "salience": 0.00012076941493432969,
+      "mentions": [
+        {
+          "text": {
+            "content": "griffes",
+            "beginOffset": 5712
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dragons",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00012041690933983773,
+      "mentions": [
+        {
+          "text": {
+            "content": "dragons",
+            "beginOffset": 5582
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "fr"
+}

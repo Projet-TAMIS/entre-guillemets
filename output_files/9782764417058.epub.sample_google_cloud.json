@@ -1,0 +1,3783 @@
+{
+  "entities": [
+    {
+      "name": "FORCE CENTRIFUGE",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Centrifugal_force",
+        "mid": "/m/05_5p40"
+      },
+      "salience": 0.17495743930339813,
+      "mentions": [
+        {
+          "text": {
+            "content": "FORCE CENTRIFUGE",
+            "beginOffset": 24
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "IRIONS",
+      "type": "OTHER",
+      "salience": 0.08986306935548782,
+      "mentions": [
+        {
+          "text": {
+            "content": "IRIONS",
+            "beginOffset": 4
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.05268305912613869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 64
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "t\u00e9l\u00e9phone",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.03531268611550331,
+      "mentions": [
+        {
+          "text": {
+            "content": "t\u00e9l\u00e9phone",
+            "beginOffset": 45
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Klonk",
+      "type": "OTHER",
+      "salience": 0.026866547763347626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Klonk",
+            "beginOffset": 91
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "monsieur",
+      "type": "PERSON",
+      "salience": 0.0233467984944582,
+      "mentions": [
+        {
+          "text": {
+            "content": "monsieur",
+            "beginOffset": 196
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nez",
+      "type": "OTHER",
+      "salience": 0.023336367681622505,
+      "mentions": [
+        {
+          "text": {
+            "content": "nez",
+            "beginOffset": 80
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "OTHER",
+      "salience": 0.02289014309644699,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 218
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "PERSON",
+      "salience": 0.02171614207327366,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 205
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cong\u00e9",
+      "type": "EVENT",
+      "salience": 0.01984182558953762,
+      "mentions": [
+        {
+          "text": {
+            "content": "cong\u00e9",
+            "beginOffset": 126
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "probl\u00e8mes",
+      "type": "OTHER",
+      "salience": 0.017867645248770714,
+      "mentions": [
+        {
+          "text": {
+            "content": "probl\u00e8mes",
+            "beginOffset": 564
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "OTHER",
+      "salience": 0.017702285200357437,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 375
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "V\u00e9lotour",
+      "type": "ORGANIZATION",
+      "salience": 0.017473667860031128,
+      "mentions": [
+        {
+          "text": {
+            "content": "V\u00e9lotour",
+            "beginOffset": 286
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.017155228182673454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 297
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Lucie",
+      "type": "PERSON",
+      "salience": 0.016253577545285225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lucie",
+            "beginOffset": 118
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.015402094461023808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 436
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "promesse",
+      "type": "OTHER",
+      "salience": 0.01419919915497303,
+      "mentions": [
+        {
+          "text": {
+            "content": "promesse",
+            "beginOffset": 352
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peintre",
+      "type": "PERSON",
+      "salience": 0.01390489935874939,
+      "mentions": [
+        {
+          "text": {
+            "content": "peintre",
+            "beginOffset": 327
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "instants",
+      "type": "OTHER",
+      "salience": 0.013838863000273705,
+      "mentions": [
+        {
+          "text": {
+            "content": "instants",
+            "beginOffset": 167
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "question",
+      "type": "OTHER",
+      "salience": 0.010257107205688953,
+      "mentions": [
+        {
+          "text": {
+            "content": "question",
+            "beginOffset": 274
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0098238131031394,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 896
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "monsieur",
+      "type": "PERSON",
+      "salience": 0.009810775518417358,
+      "mentions": [
+        {
+          "text": {
+            "content": "monsieur",
+            "beginOffset": 773
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "probl\u00e8me",
+      "type": "OTHER",
+      "salience": 0.009177404455840588,
+      "mentions": [
+        {
+          "text": {
+            "content": "probl\u00e8me",
+            "beginOffset": 645
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "PERSON",
+      "salience": 0.009124519303441048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 782
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.008958067744970322,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 429
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "probl\u00e8mes",
+      "type": "OTHER",
+      "salience": 0.008728357963263988,
+      "mentions": [
+        {
+          "text": {
+            "content": "probl\u00e8mes",
+            "beginOffset": 597
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livres",
+      "type": "WORK_OF_ART",
+      "salience": 0.00812502484768629,
+      "mentions": [
+        {
+          "text": {
+            "content": "livres",
+            "beginOffset": 511
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fille",
+      "type": "PERSON",
+      "salience": 0.007581185083836317,
+      "mentions": [
+        {
+          "text": {
+            "content": "fille",
+            "beginOffset": 387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livres",
+      "type": "WORK_OF_ART",
+      "salience": 0.006847267039120197,
+      "mentions": [
+        {
+          "text": {
+            "content": "livres",
+            "beginOffset": 664
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Klonk",
+      "type": "OTHER",
+      "salience": 0.0065024313516914845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Klonk",
+            "beginOffset": 611
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.006224559620022774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 728
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bien",
+      "type": "OTHER",
+      "salience": 0.006172627210617065,
+      "mentions": [
+        {
+          "text": {
+            "content": "bien",
+            "beginOffset": 496
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "monsieur",
+      "type": "PERSON",
+      "salience": 0.005973223131150007,
+      "mentions": [
+        {
+          "text": {
+            "content": "monsieur",
+            "beginOffset": 1029
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005803767591714859,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 1433
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Klonk",
+      "type": "OTHER",
+      "salience": 0.005552595481276512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Klonk",
+            "beginOffset": 745
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Monsieur",
+      "type": "PERSON",
+      "salience": 0.005361062474548817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monsieur",
+            "beginOffset": 1103
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "excuses",
+      "type": "OTHER",
+      "salience": 0.005127282347530127,
+      "mentions": [
+        {
+          "text": {
+            "content": "excuses",
+            "beginOffset": 832
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "probl\u00e8mes",
+      "type": "OTHER",
+      "salience": 0.004818325396627188,
+      "mentions": [
+        {
+          "text": {
+            "content": "probl\u00e8mes",
+            "beginOffset": 705
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004612832795828581,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 1018
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0045450362376868725,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 1301
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9serve",
+      "type": "OTHER",
+      "salience": 0.004492355510592461,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9serve",
+            "beginOffset": 806
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "premi\u00e8re",
+      "type": "OTHER",
+      "salience": 0.004204904194921255,
+      "mentions": [
+        {
+          "text": {
+            "content": "premi\u00e8re",
+            "beginOffset": 881
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004115997813642025,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 1273
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "PERSON",
+      "salience": 0.0037364393938332796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 1038
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "PERSON",
+      "salience": 0.0035238845739513636,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 1112
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "PERSON",
+      "salience": 0.0028689031023532152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 1487
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bicyclettes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002741827629506588,
+      "mentions": [
+        {
+          "text": {
+            "content": "bicyclettes",
+            "beginOffset": 1501
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.002628655405715108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 2311
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Monsieur",
+      "type": "PERSON",
+      "salience": 0.002599472412839532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monsieur",
+            "beginOffset": 1657
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "PERSON",
+      "salience": 0.002417496871203184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 1666
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "choc",
+      "type": "OTHER",
+      "salience": 0.002252795733511448,
+      "mentions": [
+        {
+          "text": {
+            "content": "choc",
+            "beginOffset": 1097
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "artiste",
+      "type": "PERSON",
+      "salience": 0.0021997822914272547,
+      "mentions": [
+        {
+          "text": {
+            "content": "artiste",
+            "beginOffset": 1325
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.0021167634986341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 6403
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9canique",
+      "type": "OTHER",
+      "salience": 0.0021002660505473614,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9canique",
+            "beginOffset": 960
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9railleurs",
+      "type": "PERSON",
+      "salience": 0.001973742386326194,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9railleurs",
+            "beginOffset": 1075
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "train",
+      "type": "OTHER",
+      "salience": 0.001973742386326194,
+      "mentions": [
+        {
+          "text": {
+            "content": "train",
+            "beginOffset": 1053
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pi\u00e8ces",
+      "type": "OTHER",
+      "salience": 0.0018614400178194046,
+      "mentions": [
+        {
+          "text": {
+            "content": "pi\u00e8ces",
+            "beginOffset": 1142
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.001773298135958612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 1964
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "artifice",
+      "type": "OTHER",
+      "salience": 0.0016811277018859982,
+      "mentions": [
+        {
+          "text": {
+            "content": "artifice",
+            "beginOffset": 1829
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parties",
+      "type": "OTHER",
+      "salience": 0.0016709055053070188,
+      "mentions": [
+        {
+          "text": {
+            "content": "parties",
+            "beginOffset": 1368
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "couleur",
+      "type": "OTHER",
+      "salience": 0.0016280226409435272,
+      "mentions": [
+        {
+          "text": {
+            "content": "couleur",
+            "beginOffset": 1567
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dessin",
+      "type": "OTHER",
+      "salience": 0.0015431885840371251,
+      "mentions": [
+        {
+          "text": {
+            "content": "dessin",
+            "beginOffset": 3441
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bicyclette",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0015388592146337032,
+      "mentions": [
+        {
+          "text": {
+            "content": "bicyclette",
+            "beginOffset": 1952
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tableau",
+      "type": "OTHER",
+      "salience": 0.0015154002467170358,
+      "mentions": [
+        {
+          "text": {
+            "content": "tableau",
+            "beginOffset": 1476
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tourbillons",
+      "type": "OTHER",
+      "salience": 0.0014997944235801697,
+      "mentions": [
+        {
+          "text": {
+            "content": "tourbillons",
+            "beginOffset": 1843
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "couleurs",
+      "type": "OTHER",
+      "salience": 0.0014997944235801697,
+      "mentions": [
+        {
+          "text": {
+            "content": "couleurs",
+            "beginOffset": 1692
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.0014756758464500308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 6174
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.001474777702242136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 3922
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "monsieur",
+      "type": "PERSON",
+      "salience": 0.0014499897370114923,
+      "mentions": [
+        {
+          "text": {
+            "content": "monsieur",
+            "beginOffset": 5782
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.0014405121328309178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 6367
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.001358499052003026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 7232
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "V\u00e9lotour",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0013527621049433947,
+      "mentions": [
+        {
+          "text": {
+            "content": "V\u00e9lotour",
+            "beginOffset": 2417
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "PERSON",
+      "salience": 0.0013484706869348884,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 5791
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "monsieur",
+      "type": "PERSON",
+      "salience": 0.001346759614534676,
+      "mentions": [
+        {
+          "text": {
+            "content": "monsieur",
+            "beginOffset": 2456
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.0013294877717271447,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 6601
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "monsieur",
+      "type": "PERSON",
+      "salience": 0.0013162513496354222,
+      "mentions": [
+        {
+          "text": {
+            "content": "monsieur",
+            "beginOffset": 6283
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.001289204927161336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 4423
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "OTHER",
+      "salience": 0.001287799677811563,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 4573
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arc-en-ciel",
+      "type": "OTHER",
+      "salience": 0.0012769282329827547,
+      "mentions": [
+        {
+          "text": {
+            "content": "arc-en-ciel",
+            "beginOffset": 1708
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "formes",
+      "type": "OTHER",
+      "salience": 0.0012769282329827547,
+      "mentions": [
+        {
+          "text": {
+            "content": "formes",
+            "beginOffset": 1785
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fleurs",
+      "type": "OTHER",
+      "salience": 0.0012769282329827547,
+      "mentions": [
+        {
+          "text": {
+            "content": "fleurs",
+            "beginOffset": 1797
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vert",
+      "type": "OTHER",
+      "salience": 0.0012769282329827547,
+      "mentions": [
+        {
+          "text": {
+            "content": "vert",
+            "beginOffset": 1887
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taches",
+      "type": "OTHER",
+      "salience": 0.0012769282329827547,
+      "mentions": [
+        {
+          "text": {
+            "content": "taches",
+            "beginOffset": 1764
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cadre",
+      "type": "OTHER",
+      "salience": 0.0012769282329827547,
+      "mentions": [
+        {
+          "text": {
+            "content": "cadre",
+            "beginOffset": 1748
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bleu",
+      "type": "OTHER",
+      "salience": 0.0012769282329827547,
+      "mentions": [
+        {
+          "text": {
+            "content": "bleu",
+            "beginOffset": 1878
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jaune",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0012769282329827547,
+      "mentions": [
+        {
+          "text": {
+            "content": "jaune",
+            "beginOffset": 1868
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feux",
+      "type": "OTHER",
+      "salience": 0.0012769282329827547,
+      "mentions": [
+        {
+          "text": {
+            "content": "feux",
+            "beginOffset": 1820
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rouge",
+      "type": "OTHER",
+      "salience": 0.0012769282329827547,
+      "mentions": [
+        {
+          "text": {
+            "content": "rouge",
+            "beginOffset": 1858
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "OTHER",
+      "salience": 0.001269624917767942,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 2875
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coup",
+      "type": "OTHER",
+      "salience": 0.0012694349279627204,
+      "mentions": [
+        {
+          "text": {
+            "content": "coup",
+            "beginOffset": 6049
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "c\u00f4t\u00e9",
+      "type": "OTHER",
+      "salience": 0.0012642999645322561,
+      "mentions": [
+        {
+          "text": {
+            "content": "c\u00f4t\u00e9",
+            "beginOffset": 2131
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "PERSON",
+      "salience": 0.0012524670455604792,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 2465
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "force centrifuge",
+      "type": "OTHER",
+      "salience": 0.0012424474116414785,
+      "mentions": [
+        {
+          "text": {
+            "content": "force centrifuge",
+            "beginOffset": 3874
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "seconde",
+      "type": "OTHER",
+      "salience": 0.0012284762924537063,
+      "mentions": [
+        {
+          "text": {
+            "content": "seconde",
+            "beginOffset": 1911
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guidon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0012281492818146944,
+      "mentions": [
+        {
+          "text": {
+            "content": "guidon",
+            "beginOffset": 6057
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "PERSON",
+      "salience": 0.001204024301841855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 6292
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "force centrifuge",
+      "type": "ORGANIZATION",
+      "salience": 0.001177735859528184,
+      "mentions": [
+        {
+          "text": {
+            "content": "force\ncentrifuge",
+            "beginOffset": 4057
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "force centrifuge",
+      "type": "ORGANIZATION",
+      "salience": 0.0011671999236568809,
+      "mentions": [
+        {
+          "text": {
+            "content": "force centrifuge",
+            "beginOffset": 6582
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.0011605542385950685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 2966
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "c\u00f4t\u00e9",
+      "type": "OTHER",
+      "salience": 0.001157427323050797,
+      "mentions": [
+        {
+          "text": {
+            "content": "c\u00f4t\u00e9",
+            "beginOffset": 6147
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "force centrifuge",
+      "type": "ORGANIZATION",
+      "salience": 0.0011381737422198057,
+      "mentions": [
+        {
+          "text": {
+            "content": "force centrifuge",
+            "beginOffset": 4400
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "monsieur",
+      "type": "PERSON",
+      "salience": 0.00113482226151973,
+      "mentions": [
+        {
+          "text": {
+            "content": "monsieur",
+            "beginOffset": 2771
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coup",
+      "type": "OTHER",
+      "salience": 0.0011281175538897514,
+      "mentions": [
+        {
+          "text": {
+            "content": "coup",
+            "beginOffset": 6420
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "force centrifuge",
+      "type": "ORGANIZATION",
+      "salience": 0.0011059854878112674,
+      "mentions": [
+        {
+          "text": {
+            "content": "force centrifuge",
+            "beginOffset": 4906
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guidon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0010900135384872556,
+      "mentions": [
+        {
+          "text": {
+            "content": "guidon",
+            "beginOffset": 6526
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bicyclette",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0010841117473319173,
+      "mentions": [
+        {
+          "text": {
+            "content": "bicyclette",
+            "beginOffset": 2740
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bicyclette",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0010778215946629643,
+      "mentions": [
+        {
+          "text": {
+            "content": "bicyclette",
+            "beginOffset": 4467
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "artiste",
+      "type": "PERSON",
+      "salience": 0.0010698233963921666,
+      "mentions": [
+        {
+          "text": {
+            "content": "artiste",
+            "beginOffset": 1938
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "PERSON",
+      "salience": 0.0010600259993225336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 4523
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "OTHER",
+      "salience": 0.0010553664760664105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 2780
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "gauche",
+      "type": "OTHER",
+      "salience": 0.0010456439340487123,
+      "mentions": [
+        {
+          "text": {
+            "content": "gauche",
+            "beginOffset": 6067
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gauche",
+      "type": "OTHER",
+      "salience": 0.0010456439340487123,
+      "mentions": [
+        {
+          "text": {
+            "content": "gauche",
+            "beginOffset": 6018
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.0010314369574189186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 3257
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.0010181826073676348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 3649
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bicyclette",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0009702625102363527,
+      "mentions": [
+        {
+          "text": {
+            "content": "bicyclette",
+            "beginOffset": 3062
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "c\u00f4t\u00e9",
+      "type": "OTHER",
+      "salience": 0.0009549102396704257,
+      "mentions": [
+        {
+          "text": {
+            "content": "c\u00f4t\u00e9",
+            "beginOffset": 4608
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "OTHER",
+      "salience": 0.0009518180158920586,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 7010
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "probl\u00e8me",
+      "type": "OTHER",
+      "salience": 0.0009356606751680374,
+      "mentions": [
+        {
+          "text": {
+            "content": "probl\u00e8me",
+            "beginOffset": 2652
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.0009318024385720491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 6947
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.0009279187070205808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 3624
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "raison",
+      "type": "OTHER",
+      "salience": 0.0009152667480520904,
+      "mentions": [
+        {
+          "text": {
+            "content": "raison",
+            "beginOffset": 2303
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "P\u00e9dale",
+      "type": "OTHER",
+      "salience": 0.0009147512027993798,
+      "mentions": [
+        {
+          "text": {
+            "content": "P\u00e9dale",
+            "beginOffset": 6358
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e9dale",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0009147512027993798,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e9dale",
+            "beginOffset": 6373
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "automobile",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008948310278356075,
+      "mentions": [
+        {
+          "text": {
+            "content": "automobile",
+            "beginOffset": 3007
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e9dale",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008934473153203726,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e9dale",
+            "beginOffset": 6428
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "monsieur",
+      "type": "PERSON",
+      "salience": 0.0008894943748600781,
+      "mentions": [
+        {
+          "text": {
+            "content": "monsieur",
+            "beginOffset": 4514
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008862509857863188,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 3712
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00e9dales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008632688550278544,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00e9dales",
+            "beginOffset": 6505
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.0008588101482018828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 3694
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "monsieur",
+      "type": "PERSON",
+      "salience": 0.0008506983867846429,
+      "mentions": [
+        {
+          "text": {
+            "content": "monsieur",
+            "beginOffset": 3804
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "auto",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008360243518836796,
+      "mentions": [
+        {
+          "text": {
+            "content": "auto",
+            "beginOffset": 7137
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "personnalit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0008284019422717392,
+      "mentions": [
+        {
+          "text": {
+            "content": "personnalit\u00e9",
+            "beginOffset": 2186
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000821978144813329,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 5318
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "OTHER",
+      "salience": 0.000821978144813329,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 5291
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bicyclette",
+      "type": "OTHER",
+      "salience": 0.0008210688829421997,
+      "mentions": [
+        {
+          "text": {
+            "content": "bicyclette",
+            "beginOffset": 6784
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guidon",
+      "type": "OTHER",
+      "salience": 0.000804814335424453,
+      "mentions": [
+        {
+          "text": {
+            "content": "guidon",
+            "beginOffset": 6648
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bicyclette",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0007916754111647606,
+      "mentions": [
+        {
+          "text": {
+            "content": "bicyclette",
+            "beginOffset": 3513
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9lo",
+      "type": "OTHER",
+      "salience": 0.0007887365645729005,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9lo",
+            "beginOffset": 5713
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "objet",
+      "type": "OTHER",
+      "salience": 0.0007883725920692086,
+      "mentions": [
+        {
+          "text": {
+            "content": "objet",
+            "beginOffset": 4089
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "objet",
+      "type": "OTHER",
+      "salience": 0.0007883725920692086,
+      "mentions": [
+        {
+          "text": {
+            "content": "objet",
+            "beginOffset": 4006
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chose",
+      "type": "OTHER",
+      "salience": 0.000784295320045203,
+      "mentions": [
+        {
+          "text": {
+            "content": "chose",
+            "beginOffset": 6081
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chef",
+      "type": "PERSON",
+      "salience": 0.0007828540401533246,
+      "mentions": [
+        {
+          "text": {
+            "content": "chef",
+            "beginOffset": 2045
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u0153uvre",
+      "type": "OTHER",
+      "salience": 0.0007828540401533246,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u0153uvre",
+            "beginOffset": 2054
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terre",
+      "type": "OTHER",
+      "salience": 0.0007749070646241307,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre",
+            "beginOffset": 4371
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "salience": 0.0007747623021714389,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": 5387
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "gaffe",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0007676435052417219,
+      "mentions": [
+        {
+          "text": {
+            "content": "gaffe",
+            "beginOffset": 2374
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Personne",
+      "type": "PERSON",
+      "salience": 0.000753745436668396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Personne",
+            "beginOffset": 3132
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "avant",
+      "type": "OTHER",
+      "salience": 0.0007469256524927914,
+      "mentions": [
+        {
+          "text": {
+            "content": "avant",
+            "beginOffset": 6338
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rien",
+      "type": "OTHER",
+      "salience": 0.0007385605131275952,
+      "mentions": [
+        {
+          "text": {
+            "content": "rien",
+            "beginOffset": 4727
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coup",
+      "type": "OTHER",
+      "salience": 0.0007321067387238145,
+      "mentions": [
+        {
+          "text": {
+            "content": "coup",
+            "beginOffset": 7090
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terre",
+      "type": "OTHER",
+      "salience": 0.0007253028452396393,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre",
+            "beginOffset": 4706
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coup",
+      "type": "OTHER",
+      "salience": 0.0007207856979221106,
+      "mentions": [
+        {
+          "text": {
+            "content": "coup",
+            "beginOffset": 4834
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pouss\u00e9e",
+      "type": "EVENT",
+      "salience": 0.0007170694880187511,
+      "mentions": [
+        {
+          "text": {
+            "content": "pouss\u00e9e",
+            "beginOffset": 5897
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "id\u00e9e",
+      "type": "OTHER",
+      "salience": 0.0007157601648941636,
+      "mentions": [
+        {
+          "text": {
+            "content": "id\u00e9e",
+            "beginOffset": 3942
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pratique",
+      "type": "OTHER",
+      "salience": 0.0007122232927940786,
+      "mentions": [
+        {
+          "text": {
+            "content": "pratique",
+            "beginOffset": 5831
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "erreurs",
+      "type": "OTHER",
+      "salience": 0.0007052948931232095,
+      "mentions": [
+        {
+          "text": {
+            "content": "erreurs",
+            "beginOffset": 2279
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bicyclette",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0007048510015010834,
+      "mentions": [
+        {
+          "text": {
+            "content": "bicyclette",
+            "beginOffset": 3783
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pacossi",
+      "type": "PERSON",
+      "salience": 0.0007046759710647166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pacossi",
+            "beginOffset": 3813
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bout",
+      "type": "OTHER",
+      "salience": 0.0007033274741843343,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 4024
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0007033274741843343,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 3953
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "force centrifuge",
+      "type": "ORGANIZATION",
+      "salience": 0.0007014325819909573,
+      "mentions": [
+        {
+          "text": {
+            "content": "force centrifuge",
+            "beginOffset": 5224
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coup",
+      "type": "OTHER",
+      "salience": 0.0007003596983850002,
+      "mentions": [
+        {
+          "text": {
+            "content": "coup",
+            "beginOffset": 7403
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guidon",
+      "type": "OTHER",
+      "salience": 0.0006973422132432461,
+      "mentions": [
+        {
+          "text": {
+            "content": "guidon",
+            "beginOffset": 4842
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bout",
+      "type": "OTHER",
+      "salience": 0.0006913144025020301,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 4320
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gauche",
+      "type": "OTHER",
+      "salience": 0.0006852123187854886,
+      "mentions": [
+        {
+          "text": {
+            "content": "gauche",
+            "beginOffset": 6684
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gauche",
+      "type": "OTHER",
+      "salience": 0.0006852123187854886,
+      "mentions": [
+        {
+          "text": {
+            "content": "gauche",
+            "beginOffset": 6668
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mosieur Pacossi",
+      "type": "PERSON",
+      "salience": 0.00068484345683828,
+      "mentions": [
+        {
+          "text": {
+            "content": "mosieur Pacossi",
+            "beginOffset": 1989
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "force centrifuge",
+      "type": "OTHER",
+      "salience": 0.0006820068811066449,
+      "mentions": [
+        {
+          "text": {
+            "content": "force centrifuge",
+            "beginOffset": 5369
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coup",
+      "type": "OTHER",
+      "salience": 0.0006791913765482605,
+      "mentions": [
+        {
+          "text": {
+            "content": "coup",
+            "beginOffset": 5079
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fois",
+      "type": "OTHER",
+      "salience": 0.0006761936820112169,
+      "mentions": [
+        {
+          "text": {
+            "content": "fois",
+            "beginOffset": 5967
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "force",
+      "type": "OTHER",
+      "salience": 0.0006726873689331114,
+      "mentions": [
+        {
+          "text": {
+            "content": "force",
+            "beginOffset": 5474
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "point",
+      "type": "OTHER",
+      "salience": 0.0006677423371002078,
+      "mentions": [
+        {
+          "text": {
+            "content": "point",
+            "beginOffset": 6118
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "c\u00f4t\u00e9",
+      "type": "OTHER",
+      "salience": 0.0006655017496086657,
+      "mentions": [
+        {
+          "text": {
+            "content": "c\u00f4t\u00e9",
+            "beginOffset": 4857
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "force centrifuge",
+      "type": "ORGANIZATION",
+      "salience": 0.0006636161706410348,
+      "mentions": [
+        {
+          "text": {
+            "content": "force centrifuge",
+            "beginOffset": 5639
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "b\u00e9cane",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0006615133606828749,
+      "mentions": [
+        {
+          "text": {
+            "content": "b\u00e9cane",
+            "beginOffset": 2500
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "c\u00f4t\u00e9",
+      "type": "OTHER",
+      "salience": 0.000657151744235307,
+      "mentions": [
+        {
+          "text": {
+            "content": "c\u00f4t\u00e9",
+            "beginOffset": 3752
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guidon",
+      "type": "OTHER",
+      "salience": 0.000657100579701364,
+      "mentions": [
+        {
+          "text": {
+            "content": "guidon",
+            "beginOffset": 5087
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "c\u00f4t\u00e9",
+      "type": "OTHER",
+      "salience": 0.0006554718711413443,
+      "mentions": [
+        {
+          "text": {
+            "content": "c\u00f4t\u00e9",
+            "beginOffset": 4951
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tour",
+      "type": "OTHER",
+      "salience": 0.0006547002703882754,
+      "mentions": [
+        {
+          "text": {
+            "content": "tour",
+            "beginOffset": 2763
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cercles",
+      "type": "OTHER",
+      "salience": 0.0006504099583253264,
+      "mentions": [
+        {
+          "text": {
+            "content": "cercles",
+            "beginOffset": 4114
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coup",
+      "type": "OTHER",
+      "salience": 0.0006477473652921617,
+      "mentions": [
+        {
+          "text": {
+            "content": "coup",
+            "beginOffset": 5132
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guidon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0006477473652921617,
+      "mentions": [
+        {
+          "text": {
+            "content": "guidon",
+            "beginOffset": 5140
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coup",
+      "type": "OTHER",
+      "salience": 0.0006477473652921617,
+      "mentions": [
+        {
+          "text": {
+            "content": "coup",
+            "beginOffset": 5156
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guidon",
+      "type": "OTHER",
+      "salience": 0.0006477473652921617,
+      "mentions": [
+        {
+          "text": {
+            "content": "guidon",
+            "beginOffset": 5164
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bicyclette",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0006477226270362735,
+      "mentions": [
+        {
+          "text": {
+            "content": "bicyclette",
+            "beginOffset": 5505
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "salience": 0.0006470608059316874,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 4634
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vitesse",
+      "type": "OTHER",
+      "salience": 0.0006470608059316874,
+      "mentions": [
+        {
+          "text": {
+            "content": "vitesse",
+            "beginOffset": 4562
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "c\u00f4t\u00e9",
+      "type": "OTHER",
+      "salience": 0.0006362821441143751,
+      "mentions": [
+        {
+          "text": {
+            "content": "c\u00f4t\u00e9",
+            "beginOffset": 5045
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00f4le",
+      "type": "OTHER",
+      "salience": 0.0006317103980109096,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00f4le",
+            "beginOffset": 3862
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ing\u00e9niosit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0006227942067198455,
+      "mentions": [
+        {
+          "text": {
+            "content": "ing\u00e9niosit\u00e9",
+            "beginOffset": 2613
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guidon",
+      "type": "OTHER",
+      "salience": 0.0006202894728630781,
+      "mentions": [
+        {
+          "text": {
+            "content": "guidon",
+            "beginOffset": 3604
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stup\u00e9faction",
+      "type": "EVENT",
+      "salience": 0.0006050672964192927,
+      "mentions": [
+        {
+          "text": {
+            "content": "stup\u00e9faction",
+            "beginOffset": 2690
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enfant",
+      "type": "PERSON",
+      "salience": 0.0006017539417371154,
+      "mentions": [
+        {
+          "text": {
+            "content": "enfant",
+            "beginOffset": 2944
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lieu",
+      "type": "OTHER",
+      "salience": 0.0005988061893731356,
+      "mentions": [
+        {
+          "text": {
+            "content": "lieu",
+            "beginOffset": 4125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "t\u00eate",
+      "type": "OTHER",
+      "salience": 0.0005988061893731356,
+      "mentions": [
+        {
+          "text": {
+            "content": "t\u00eate",
+            "beginOffset": 3997
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ficelle",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0005988061893731356,
+      "mentions": [
+        {
+          "text": {
+            "content": "ficelle",
+            "beginOffset": 4037
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sol",
+      "type": "LOCATION",
+      "salience": 0.0005988061893731356,
+      "mentions": [
+        {
+          "text": {
+            "content": "sol",
+            "beginOffset": 4150
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bras",
+      "type": "OTHER",
+      "salience": 0.0005885782302357256,
+      "mentions": [
+        {
+          "text": {
+            "content": "bras",
+            "beginOffset": 4332
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cultivateur",
+      "type": "PERSON",
+      "salience": 0.0005885782302357256,
+      "mentions": [
+        {
+          "text": {
+            "content": "cultivateur",
+            "beginOffset": 4190
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "salience": 0.0005885782302357256,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 4216
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "goutte",
+      "type": "OTHER",
+      "salience": 0.0005885782302357256,
+      "mentions": [
+        {
+          "text": {
+            "content": "goutte",
+            "beginOffset": 4360
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lait",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0005885782302357256,
+      "mentions": [
+        {
+          "text": {
+            "content": "lait",
+            "beginOffset": 4259
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "seau",
+      "type": "OTHER",
+      "salience": 0.0005885782302357256,
+      "mentions": [
+        {
+          "text": {
+            "content": "seau",
+            "beginOffset": 4245
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouvement",
+      "type": "OTHER",
+      "salience": 0.0005885782302357256,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouvement",
+            "beginOffset": 4296
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "as",
+      "type": "OTHER",
+      "salience": 0.0005870719323866069,
+      "mentions": [
+        {
+          "text": {
+            "content": "as",
+            "beginOffset": 3088
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "droite",
+      "type": "OTHER",
+      "salience": 0.0005833829054608941,
+      "mentions": [
+        {
+          "text": {
+            "content": "droite",
+            "beginOffset": 6658
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "droite",
+      "type": "OTHER",
+      "salience": 0.0005833829054608941,
+      "mentions": [
+        {
+          "text": {
+            "content": "droite",
+            "beginOffset": 6694
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gauche",
+      "type": "OTHER",
+      "salience": 0.0005768851842731237,
+      "mentions": [
+        {
+          "text": {
+            "content": "gauche",
+            "beginOffset": 7458
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "as",
+      "type": "OTHER",
+      "salience": 0.0005730811972171068,
+      "mentions": [
+        {
+          "text": {
+            "content": "as",
+            "beginOffset": 3112
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tout",
+      "type": "OTHER",
+      "salience": 0.0005691242404282093,
+      "mentions": [
+        {
+          "text": {
+            "content": "tout",
+            "beginOffset": 4443
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rapport",
+      "type": "OTHER",
+      "salience": 0.0005691242404282093,
+      "mentions": [
+        {
+          "text": {
+            "content": "rapport",
+            "beginOffset": 4451
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gravitation",
+      "type": "OTHER",
+      "salience": 0.0005509007023647428,
+      "mentions": [
+        {
+          "text": {
+            "content": "gravitation",
+            "beginOffset": 4646
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "autre",
+      "type": "OTHER",
+      "salience": 0.0005509007023647428,
+      "mentions": [
+        {
+          "text": {
+            "content": "autre",
+            "beginOffset": 4625
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chose",
+      "type": "OTHER",
+      "salience": 0.0005469875759445131,
+      "mentions": [
+        {
+          "text": {
+            "content": "chose",
+            "beginOffset": 3212
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "voiture",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0005458638770505786,
+      "mentions": [
+        {
+          "text": {
+            "content": "voiture",
+            "beginOffset": 6965
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "berceau",
+      "type": "OTHER",
+      "salience": 0.000543125148396939,
+      "mentions": [
+        {
+          "text": {
+            "content": "berceau",
+            "beginOffset": 2894
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pays",
+      "type": "LOCATION",
+      "salience": 0.000543125148396939,
+      "mentions": [
+        {
+          "text": {
+            "content": "pays",
+            "beginOffset": 2825
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Monette",
+      "type": "PERSON",
+      "salience": 0.0005148888449184597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monette",
+            "beginOffset": 4225
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9al Cormier",
+      "type": "PERSON",
+      "salience": 0.0005148888449184597,
+      "mentions": [
+        {
+          "text": {
+            "content": "R\u00e9al Cormier",
+            "beginOffset": 4172
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e2ge",
+      "type": "OTHER",
+      "salience": 0.0005123265436850488,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e2ge",
+            "beginOffset": 2958
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reine",
+      "type": "PERSON",
+      "salience": 0.0005123265436850488,
+      "mentions": [
+        {
+          "text": {
+            "content": "reine",
+            "beginOffset": 3022
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peintre",
+      "type": "PERSON",
+      "salience": 0.0005119722918607295,
+      "mentions": [
+        {
+          "text": {
+            "content": "peintre",
+            "beginOffset": 3373
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honte",
+      "type": "OTHER",
+      "salience": 0.0005111902137286961,
+      "mentions": [
+        {
+          "text": {
+            "content": "honte",
+            "beginOffset": 3314
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pied",
+      "type": "OTHER",
+      "salience": 0.0005105238524265587,
+      "mentions": [
+        {
+          "text": {
+            "content": "pied",
+            "beginOffset": 3727
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "avance",
+      "type": "OTHER",
+      "salience": 0.0005092211067676544,
+      "mentions": [
+        {
+          "text": {
+            "content": "avance",
+            "beginOffset": 6774
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "th\u00e9orie",
+      "type": "OTHER",
+      "salience": 0.0005033057532273233,
+      "mentions": [
+        {
+          "text": {
+            "content": "th\u00e9orie",
+            "beginOffset": 5742
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rien",
+      "type": "OTHER",
+      "salience": 0.0005022161640226841,
+      "mentions": [
+        {
+          "text": {
+            "content": "rien",
+            "beginOffset": 2639
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terre",
+      "type": "OTHER",
+      "salience": 0.0004991358728148043,
+      "mentions": [
+        {
+          "text": {
+            "content": "terre",
+            "beginOffset": 3736
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "droite",
+      "type": "OTHER",
+      "salience": 0.0004911533324047923,
+      "mentions": [
+        {
+          "text": {
+            "content": "droite",
+            "beginOffset": 7421
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "raison",
+      "type": "OTHER",
+      "salience": 0.0004909908748231828,
+      "mentions": [
+        {
+          "text": {
+            "content": "raison",
+            "beginOffset": 3471
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "objets",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0004797490837518126,
+      "mentions": [
+        {
+          "text": {
+            "content": "objets",
+            "beginOffset": 4687
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "route",
+      "type": "LOCATION",
+      "salience": 0.00047343026380985975,
+      "mentions": [
+        {
+          "text": {
+            "content": "route",
+            "beginOffset": 7074
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "route",
+      "type": "LOCATION",
+      "salience": 0.00046252302126958966,
+      "mentions": [
+        {
+          "text": {
+            "content": "route",
+            "beginOffset": 3676
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soulagement",
+      "type": "OTHER",
+      "salience": 0.00045532386866398156,
+      "mentions": [
+        {
+          "text": {
+            "content": "soulagement",
+            "beginOffset": 3267
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "semblant",
+      "type": "OTHER",
+      "salience": 0.00045532386866398156,
+      "mentions": [
+        {
+          "text": {
+            "content": "semblant",
+            "beginOffset": 3295
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "id\u00e9e",
+      "type": "OTHER",
+      "salience": 0.000452333566499874,
+      "mentions": [
+        {
+          "text": {
+            "content": "id\u00e9e",
+            "beginOffset": 5615
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Am\u00e9rique",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Americas",
+        "mid": "/m/07c5l"
+      },
+      "salience": 0.0004481832729652524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Am\u00e9rique",
+            "beginOffset": 2989
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "voiture",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00044648844050243497,
+      "mentions": [
+        {
+          "text": {
+            "content": "voiture",
+            "beginOffset": 7305
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vitesse",
+      "type": "OTHER",
+      "salience": 0.00044415201409719884,
+      "mentions": [
+        {
+          "text": {
+            "content": "vitesse",
+            "beginOffset": 4894
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "miracle",
+      "type": "EVENT",
+      "salience": 0.0004382727784104645,
+      "mentions": [
+        {
+          "text": {
+            "content": "miracle",
+            "beginOffset": 6713
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "triomphe",
+      "type": "EVENT",
+      "salience": 0.0004382727784104645,
+      "mentions": [
+        {
+          "text": {
+            "content": "triomphe",
+            "beginOffset": 6725
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9ussite",
+      "type": "OTHER",
+      "salience": 0.0004382727784104645,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9ussite",
+            "beginOffset": 6739
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enfants",
+      "type": "PERSON",
+      "salience": 0.00043613978778012097,
+      "mentions": [
+        {
+          "text": {
+            "content": "enfants",
+            "beginOffset": 2843
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roues",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00041994513594545424,
+      "mentions": [
+        {
+          "text": {
+            "content": "roues",
+            "beginOffset": 6897
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patins",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00041994513594545424,
+      "mentions": [
+        {
+          "text": {
+            "content": "patins",
+            "beginOffset": 6887
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Attention",
+      "type": "OTHER",
+      "salience": 0.00041133788181468844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Attention",
+            "beginOffset": 6936
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mains",
+      "type": "OTHER",
+      "salience": 0.0004096233460586518,
+      "mentions": [
+        {
+          "text": {
+            "content": "mains",
+            "beginOffset": 3615
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "salience": 0.00040727536543272436,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 5357
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "professeur",
+      "type": "PERSON",
+      "salience": 0.0004071637231390923,
+      "mentions": [
+        {
+          "text": {
+            "content": "professeur",
+            "beginOffset": 6996
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9paule",
+      "type": "OTHER",
+      "salience": 0.0004030723066534847,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9paule",
+            "beginOffset": 7119
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u0153il",
+      "type": "OTHER",
+      "salience": 0.0004030723066534847,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u0153il",
+            "beginOffset": 7099
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e8ve",
+      "type": "PERSON",
+      "salience": 0.0004030723066534847,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e8ve",
+            "beginOffset": 7021
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0003962926275562495,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 5521
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moteur",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00038013418088667095,
+      "mentions": [
+        {
+          "text": {
+            "content": "moteur",
+            "beginOffset": 7292
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "volant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00037305097794160247,
+      "mentions": [
+        {
+          "text": {
+            "content": "volant",
+            "beginOffset": 7411
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "foss\u00e9",
+      "type": "OTHER",
+      "salience": 0.00037305097794160247,
+      "mentions": [
+        {
+          "text": {
+            "content": "foss\u00e9",
+            "beginOffset": 7485
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aller",
+      "type": "OTHER",
+      "salience": 0.00037217611679807305,
+      "mentions": [
+        {
+          "text": {
+            "content": "aller",
+            "beginOffset": 3774
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chute",
+      "type": "EVENT",
+      "salience": 0.0003670739533845335,
+      "mentions": [
+        {
+          "text": {
+            "content": "chute",
+            "beginOffset": 5026
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "direction",
+      "type": "OTHER",
+      "salience": 0.00036177507718093693,
+      "mentions": [
+        {
+          "text": {
+            "content": "direction",
+            "beginOffset": 5105
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trajectoire",
+      "type": "OTHER",
+      "salience": 0.00035662538721226156,
+      "mentions": [
+        {
+          "text": {
+            "content": "trajectoire",
+            "beginOffset": 5199
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gr\u00e2ce",
+      "type": "OTHER",
+      "salience": 0.00035662538721226156,
+      "mentions": [
+        {
+          "text": {
+            "content": "gr\u00e2ce",
+            "beginOffset": 5211
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "traces",
+      "type": "OTHER",
+      "salience": 0.00035161839332431555,
+      "mentions": [
+        {
+          "text": {
+            "content": "traces",
+            "beginOffset": 5281
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Viens",
+      "type": "LOCATION",
+      "salience": 0.0003512757830321789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Viens",
+            "beginOffset": 3634
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Freine",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Brake",
+        "mid": "/m/0hcjm"
+      },
+      "salience": 0.00033897391404025257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freine",
+            "beginOffset": 7218
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Monte",
+      "type": "LOCATION",
+      "salience": 0.0003379455010872334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monte",
+            "beginOffset": 3687
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9cole",
+      "type": "ORGANIZATION",
+      "salience": 0.00033739785430952907,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9cole",
+            "beginOffset": 5703
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "classe",
+      "type": "OTHER",
+      "salience": 0.00033739785430952907,
+      "mentions": [
+        {
+          "text": {
+            "content": "classe",
+            "beginOffset": 5561
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gar\u00e7on",
+      "type": "PERSON",
+      "salience": 0.00033739785430952907,
+      "mentions": [
+        {
+          "text": {
+            "content": "gar\u00e7on",
+            "beginOffset": 5547
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Simon Dubois",
+      "type": "PERSON",
+      "salience": 0.00031533470610156655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simon Dubois",
+            "beginOffset": 5530
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "fr"
+}

@@ -1,0 +1,3579 @@
+{
+  "entities": [
+    {
+      "name": "livres",
+      "type": "WORK_OF_ART",
+      "salience": 0.21316523849964142,
+      "mentions": [
+        {
+          "text": {
+            "content": "livres",
+            "beginOffset": 4
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Caroline Allard",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://fr.wikipedia.org/wiki/Caroline_Allard",
+        "mid": "/g/122kc90t"
+      },
+      "salience": 0.13278013467788696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caroline Allard",
+            "beginOffset": 14
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Caroline Allard",
+            "beginOffset": 244
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Caroline Allard",
+            "beginOffset": 695
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Caroline Allard",
+            "beginOffset": 2669
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Caroline Allard",
+            "beginOffset": 3004
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Caroline Allard",
+            "beginOffset": 3609
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Caroline Allard",
+            "beginOffset": 4083
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Caroline Allard",
+            "beginOffset": 4886
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Caroline Allard",
+            "beginOffset": 6059
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sexe",
+      "type": "OTHER",
+      "salience": 0.045742686837911606,
+      "mentions": [
+        {
+          "text": {
+            "content": "sexe",
+            "beginOffset": 77
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.032775383442640305,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 230
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.02427198737859726,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 118
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vie",
+      "type": "OTHER",
+      "salience": 0.024176130071282387,
+      "mentions": [
+        {
+          "text": {
+            "content": "vie",
+            "beginOffset": 313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sexe",
+      "type": "OTHER",
+      "salience": 0.02257397584617138,
+      "mentions": [
+        {
+          "text": {
+            "content": "sexe",
+            "beginOffset": 218
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "salience": 0.02152652107179165,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 767
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lecture",
+      "type": "OTHER",
+      "salience": 0.019762812182307243,
+      "mentions": [
+        {
+          "text": {
+            "content": "lecture",
+            "beginOffset": 185
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coup",
+      "type": "OTHER",
+      "salience": 0.018093716353178024,
+      "mentions": [
+        {
+          "text": {
+            "content": "coup",
+            "beginOffset": 143
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SEXE_COUV",
+      "type": "OTHER",
+      "salience": 0.016151487827301025,
+      "mentions": [
+        {
+          "text": {
+            "content": "SEXE_COUV",
+            "beginOffset": 105
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Iris",
+      "type": "PERSON",
+      "salience": 0.014131073839962482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iris",
+            "beginOffset": 280
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pour",
+      "type": "LOCATION",
+      "salience": 0.014131073839962482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pour",
+            "beginOffset": 196
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "b\u00e9d\u00e9iste",
+      "type": "PERSON",
+      "salience": 0.013753823935985565,
+      "mentions": [
+        {
+          "text": {
+            "content": "b\u00e9d\u00e9iste",
+            "beginOffset": 269
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "facettes",
+      "type": "OTHER",
+      "salience": 0.013057973235845566,
+      "mentions": [
+        {
+          "text": {
+            "content": "facettes",
+            "beginOffset": 547
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.01285945437848568,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 680
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coups",
+      "type": "OTHER",
+      "salience": 0.011953883804380894,
+      "mentions": [
+        {
+          "text": {
+            "content": "coups",
+            "beginOffset": 359
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "id\u00e9es",
+      "type": "OTHER",
+      "salience": 0.011953883804380894,
+      "mentions": [
+        {
+          "text": {
+            "content": "id\u00e9es",
+            "beginOffset": 444
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sexualit\u00e9",
+      "type": "OTHER",
+      "salience": 0.011953883804380894,
+      "mentions": [
+        {
+          "text": {
+            "content": "sexualit\u00e9",
+            "beginOffset": 565
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lecture",
+      "type": "OTHER",
+      "salience": 0.01115324068814516,
+      "mentions": [
+        {
+          "text": {
+            "content": "lecture",
+            "beginOffset": 581
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tabous",
+      "type": "OTHER",
+      "salience": 0.010947264730930328,
+      "mentions": [
+        {
+          "text": {
+            "content": "tabous",
+            "beginOffset": 326
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chroniques",
+      "type": "OTHER",
+      "salience": 0.010581189766526222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chroniques",
+            "beginOffset": 661
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.010284173302352428,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 803
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "salience": 0.009770150296390057,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 841
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00eane",
+      "type": "OTHER",
+      "salience": 0.009084179066121578,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00eane",
+            "beginOffset": 530
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "inhibitions",
+      "type": "OTHER",
+      "salience": 0.009084179066121578,
+      "mentions": [
+        {
+          "text": {
+            "content": "inhibitions",
+            "beginOffset": 482
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bo\u00eete",
+      "type": "OTHER",
+      "salience": 0.009084179066121578,
+      "mentions": [
+        {
+          "text": {
+            "content": "bo\u00eete",
+            "beginOffset": 471
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exercices",
+      "type": "OTHER",
+      "salience": 0.009084179066121578,
+      "mentions": [
+        {
+          "text": {
+            "content": "exercices",
+            "beginOffset": 399
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "explications",
+      "type": "OTHER",
+      "salience": 0.009084179066121578,
+      "mentions": [
+        {
+          "text": {
+            "content": "explications",
+            "beginOffset": 369
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maternit\u00e9",
+      "type": "ORGANIZATION",
+      "salience": 0.007087287493050098,
+      "mentions": [
+        {
+          "text": {
+            "content": "maternit\u00e9",
+            "beginOffset": 778
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Elle Qu\u00e9bec",
+      "type": "LOCATION",
+      "salience": 0.006162951234728098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elle Qu\u00e9bec",
+            "beginOffset": 638
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "V\u00e9ronique Alarie",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11gbjdb_81"
+      },
+      "salience": 0.005247903522104025,
+      "mentions": [
+        {
+          "text": {
+            "content": "V\u00e9ronique Alarie",
+            "beginOffset": 619
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.004555161576718092,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 984
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sexe",
+      "type": "OTHER",
+      "salience": 0.004010036122053862,
+      "mentions": [
+        {
+          "text": {
+            "content": "sexe",
+            "beginOffset": 816
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sexualit\u00e9",
+      "type": "OTHER",
+      "salience": 0.003211959730833769,
+      "mentions": [
+        {
+          "text": {
+            "content": "sexualit\u00e9",
+            "beginOffset": 852
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sexe",
+      "type": "OTHER",
+      "salience": 0.0029184618033468723,
+      "mentions": [
+        {
+          "text": {
+            "content": "sexe",
+            "beginOffset": 1129
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ex-m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0025430095847696066,
+      "mentions": [
+        {
+          "text": {
+            "content": "ex-m\u00e8re",
+            "beginOffset": 995
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "s\u00e9rieux",
+      "type": "OTHER",
+      "salience": 0.0024711370933800936,
+      "mentions": [
+        {
+          "text": {
+            "content": "s\u00e9rieux",
+            "beginOffset": 1166
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.0022841105237603188,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 1492
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "confidences",
+      "type": "OTHER",
+      "salience": 0.0022382258903235197,
+      "mentions": [
+        {
+          "text": {
+            "content": "confidences",
+            "beginOffset": 960
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.0022094082087278366,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 2075
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Journal de Montr\u00e9al",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Le_Journal_de_Montr\u00e9al",
+        "mid": "/m/02lvb9"
+      },
+      "salience": 0.002112578134983778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Journal de Montr\u00e9al",
+            "beginOffset": 894
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ouvrage",
+      "type": "WORK_OF_ART",
+      "salience": 0.0020854524336755276,
+      "mentions": [
+        {
+          "text": {
+            "content": "ouvrage",
+            "beginOffset": 1037
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rire",
+      "type": "OTHER",
+      "salience": 0.0018344142008572817,
+      "mentions": [
+        {
+          "text": {
+            "content": "rire",
+            "beginOffset": 1316
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sophie Durocher",
+      "type": "PERSON",
+      "salience": 0.0017987109022215009,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sophie Durocher",
+            "beginOffset": 877
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "force",
+      "type": "OTHER",
+      "salience": 0.001775614102371037,
+      "mentions": [
+        {
+          "text": {
+            "content": "force",
+            "beginOffset": 1023
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sexualit\u00e9",
+      "type": "OTHER",
+      "salience": 0.001740720821544528,
+      "mentions": [
+        {
+          "text": {
+            "content": "sexualit\u00e9",
+            "beginOffset": 1389
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rendez-vous",
+      "type": "EVENT",
+      "salience": 0.0016619766829535365,
+      "mentions": [
+        {
+          "text": {
+            "content": "rendez-vous",
+            "beginOffset": 1197
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sujet",
+      "type": "OTHER",
+      "salience": 0.0016619766829535365,
+      "mentions": [
+        {
+          "text": {
+            "content": "sujet",
+            "beginOffset": 1153
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "La Presse",
+      "type": "ORGANIZATION",
+      "salience": 0.0016050240956246853,
+      "mentions": [
+        {
+          "text": {
+            "content": "La Presse",
+            "beginOffset": 1344
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "go",
+      "type": "OTHER",
+      "salience": 0.0015618620673194528,
+      "mentions": [
+        {
+          "text": {
+            "content": "go",
+            "beginOffset": 1243
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "affaires",
+      "type": "OTHER",
+      "salience": 0.0015618620673194528,
+      "mentions": [
+        {
+          "text": {
+            "content": "affaires",
+            "beginOffset": 1268
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ouvrage",
+      "type": "WORK_OF_ART",
+      "salience": 0.0015529802767559886,
+      "mentions": [
+        {
+          "text": {
+            "content": "ouvrage",
+            "beginOffset": 1361
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humour",
+      "type": "OTHER",
+      "salience": 0.0015529802767559886,
+      "mentions": [
+        {
+          "text": {
+            "content": "humour",
+            "beginOffset": 1425
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "magazine",
+      "type": "WORK_OF_ART",
+      "salience": 0.0014772379072383046,
+      "mentions": [
+        {
+          "text": {
+            "content": "magazine",
+            "beginOffset": 1521
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "M\u00e8res",
+      "type": "OTHER",
+      "salience": 0.0014304636279121041,
+      "mentions": [
+        {
+          "text": {
+            "content": "M\u00e8res",
+            "beginOffset": 3276
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.001384515198878944,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 5050
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "M\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0013498867629095912,
+      "mentions": [
+        {
+          "text": {
+            "content": "M\u00e8re",
+            "beginOffset": 5412
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0013299669371917844,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 5168
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vie",
+      "type": "OTHER",
+      "salience": 0.0013298136182129383,
+      "mentions": [
+        {
+          "text": {
+            "content": "vie",
+            "beginOffset": 5271
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Iris",
+      "type": "PERSON",
+      "salience": 0.0012923222966492176,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iris",
+            "beginOffset": 1483
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "M\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0012795074144378304,
+      "mentions": [
+        {
+          "text": {
+            "content": "M\u00e8re",
+            "beginOffset": 5278
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BD",
+      "type": "WORK_OF_ART",
+      "salience": 0.001257741590961814,
+      "mentions": [
+        {
+          "text": {
+            "content": "BD",
+            "beginOffset": 1536
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e8glement",
+      "type": "EVENT",
+      "salience": 0.001257741590961814,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e8glement",
+            "beginOffset": 1547
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "compte",
+      "type": "OTHER",
+      "salience": 0.001257741590961814,
+      "mentions": [
+        {
+          "text": {
+            "content": "compte",
+            "beginOffset": 1561
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chose",
+      "type": "OTHER",
+      "salience": 0.001257741590961814,
+      "mentions": [
+        {
+          "text": {
+            "content": "chose",
+            "beginOffset": 1579
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mi-chemin",
+      "type": "OTHER",
+      "salience": 0.001257741590961814,
+      "mentions": [
+        {
+          "text": {
+            "content": "mi-chemin",
+            "beginOffset": 1502
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "illustratrice",
+      "type": "PERSON",
+      "salience": 0.001257741590961814,
+      "mentions": [
+        {
+          "text": {
+            "content": "illustratrice",
+            "beginOffset": 1469
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "collaboration",
+      "type": "OTHER",
+      "salience": 0.001257741590961814,
+      "mentions": [
+        {
+          "text": {
+            "content": "collaboration",
+            "beginOffset": 1446
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0012479186989367008,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 5512
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Silvia Galipeau",
+      "type": "PERSON",
+      "salience": 0.0012191514251753688,
+      "mentions": [
+        {
+          "text": {
+            "content": "Silvia Galipeau",
+            "beginOffset": 1327
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "M\u00e8re",
+      "type": "OTHER",
+      "salience": 0.001164742512628436,
+      "mentions": [
+        {
+          "text": {
+            "content": "M\u00e8re",
+            "beginOffset": 2762
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chroniques",
+      "type": "OTHER",
+      "salience": 0.0011387949343770742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chroniques",
+            "beginOffset": 5031
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tome",
+      "type": "WORK_OF_ART",
+      "salience": 0.0011335656745359302,
+      "mentions": [
+        {
+          "text": {
+            "content": "tome",
+            "beginOffset": 5022
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soci\u00e9t\u00e9",
+      "type": "ORGANIZATION",
+      "salience": 0.0010953217279165983,
+      "mentions": [
+        {
+          "text": {
+            "content": "soci\u00e9t\u00e9",
+            "beginOffset": 1623
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pression",
+      "type": "OTHER",
+      "salience": 0.0010953217279165983,
+      "mentions": [
+        {
+          "text": {
+            "content": "pression",
+            "beginOffset": 1606
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chroniques",
+      "type": "OTHER",
+      "salience": 0.0010939257917925715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chroniques",
+            "beginOffset": 5149
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.001019782735966146,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 3364
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorge",
+      "type": "OTHER",
+      "salience": 0.0009552218834869564,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorge",
+            "beginOffset": 1731
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sexe",
+      "type": "OTHER",
+      "salience": 0.0009488615905866027,
+      "mentions": [
+        {
+          "text": {
+            "content": "sexe",
+            "beginOffset": 2280
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CHRONIQUES-D-UNE-MERE-INDIGNE_COUV-HR.jpg",
+      "type": "WORK_OF_ART",
+      "salience": 0.0009445698233321309,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHRONIQUES-D-UNE-MERE-INDIGNE_COUV-HR.jpg",
+            "beginOffset": 5187
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lecture",
+      "type": "OTHER",
+      "salience": 0.0009426780161447823,
+      "mentions": [
+        {
+          "text": {
+            "content": "lecture",
+            "beginOffset": 3167
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.0009198607294820249,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 2398
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "salience": 0.0008939244435168803,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 4839
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "salience": 0.0008939244435168803,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 4823
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "M\u00e8res indignes de ce monde",
+      "type": "OTHER",
+      "salience": 0.000892712501809001,
+      "mentions": [
+        {
+          "text": {
+            "content": "M\u00e8res indignes de ce monde",
+            "beginOffset": 2622
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.0008921414264477789,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 2457
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.0008886698633432388,
+      "mentions": [
+        {
+          "text": {
+            "content": "performance",
+            "beginOffset": 2038
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vie",
+      "type": "OTHER",
+      "salience": 0.000879648607224226,
+      "mentions": [
+        {
+          "text": {
+            "content": "vie",
+            "beginOffset": 5331
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rire",
+      "type": "OTHER",
+      "salience": 0.0008521857089363039,
+      "mentions": [
+        {
+          "text": {
+            "content": "rire",
+            "beginOffset": 1693
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0008478390518575907,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 6297
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "envie",
+      "type": "OTHER",
+      "salience": 0.0007942071533761919,
+      "mentions": [
+        {
+          "text": {
+            "content": "envie",
+            "beginOffset": 1788
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "id\u00e9es",
+      "type": "OTHER",
+      "salience": 0.0007940659997984767,
+      "mentions": [
+        {
+          "text": {
+            "content": "id\u00e9es",
+            "beginOffset": 5435
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soci\u00e9t\u00e9",
+      "type": "ORGANIZATION",
+      "salience": 0.0007868039538152516,
+      "mentions": [
+        {
+          "text": {
+            "content": "soci\u00e9t\u00e9",
+            "beginOffset": 2021
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Journal M\u00e9tro",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/M\u00e9tro_(Montreal_newspaper)",
+        "mid": "/g/122vl30q"
+      },
+      "salience": 0.0007787416107021272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Journal M\u00e9tro",
+            "beginOffset": 1655
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Chroniques d'une m\u00e8re indigne 2",
+      "type": "WORK_OF_ART",
+      "salience": 0.0007749726646579802,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chroniques d\u2019une m\u00e8re indigne 2",
+            "beginOffset": 2534
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Chroniques",
+      "type": "OTHER",
+      "salience": 0.0007700732094235718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chroniques",
+            "beginOffset": 6278
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bonheur",
+      "type": "OTHER",
+      "salience": 0.0007697382825426757,
+      "mentions": [
+        {
+          "text": {
+            "content": "bonheur",
+            "beginOffset": 3156
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8res",
+      "type": "PERSON",
+      "salience": 0.0007614594069309533,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8res",
+            "beginOffset": 4250
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorge",
+      "type": "OTHER",
+      "salience": 0.0007599333766847849,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorge",
+            "beginOffset": 2288
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maternit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0007392253610305488,
+      "mentions": [
+        {
+          "text": {
+            "content": "maternit\u00e9",
+            "beginOffset": 3427
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Les Chroniques d'une m\u00e8re indigne 2",
+      "type": "WORK_OF_ART",
+      "salience": 0.000734264322090894,
+      "mentions": [
+        {
+          "text": {
+            "content": "Les\nChroniques d\u2019une m\u00e8re indigne 2",
+            "beginOffset": 2700
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fois",
+      "type": "OTHER",
+      "salience": 0.0007255506934598088,
+      "mentions": [
+        {
+          "text": {
+            "content": "fois",
+            "beginOffset": 1708
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e8re",
+      "type": "PERSON",
+      "salience": 0.0007155832136049867,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e8re",
+            "beginOffset": 4610
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bonheur",
+      "type": "OTHER",
+      "salience": 0.0007091524312272668,
+      "mentions": [
+        {
+          "text": {
+            "content": "bonheur",
+            "beginOffset": 4956
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "couple",
+      "type": "PERSON",
+      "salience": 0.0007044996018521488,
+      "mentions": [
+        {
+          "text": {
+            "content": "couple",
+            "beginOffset": 5338
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chroniques",
+      "type": "OTHER",
+      "salience": 0.0007017814787104726,
+      "mentions": [
+        {
+          "text": {
+            "content": "chroniques",
+            "beginOffset": 5493
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Blais",
+      "type": "PERSON",
+      "salience": 0.0007016270537860692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pierre Blais",
+            "beginOffset": 3458
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "genre",
+      "type": "OTHER",
+      "salience": 0.0006958185695111752,
+      "mentions": [
+        {
+          "text": {
+            "content": "genre",
+            "beginOffset": 1752
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9clats",
+      "type": "OTHER",
+      "salience": 0.0006958185695111752,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9clats",
+            "beginOffset": 1762
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plaisir",
+      "type": "OTHER",
+      "salience": 0.000695694878231734,
+      "mentions": [
+        {
+          "text": {
+            "content": "plaisir",
+            "beginOffset": 5468
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "t\u00eate",
+      "type": "OTHER",
+      "salience": 0.0006713518523611128,
+      "mentions": [
+        {
+          "text": {
+            "content": "t\u00eate",
+            "beginOffset": 3145
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cas",
+      "type": "OTHER",
+      "salience": 0.0006684009567834437,
+      "mentions": [
+        {
+          "text": {
+            "content": "cas",
+            "beginOffset": 1836
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "actualit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0006684009567834437,
+      "mentions": [
+        {
+          "text": {
+            "content": "actualit\u00e9",
+            "beginOffset": 1956
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bouquin",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006684009567834437,
+      "mentions": [
+        {
+          "text": {
+            "content": "bouquin",
+            "beginOffset": 1884
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rachelle McDuff",
+      "type": "PERSON",
+      "salience": 0.0006630190764553845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rachelle McDuff",
+            "beginOffset": 1638
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.0006439836579374969,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 6340
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cano\u00eb",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Canoe.com",
+        "mid": "/m/06f04l"
+      },
+      "salience": 0.0006365441950038075,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cano\u00eb",
+            "beginOffset": 2001
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "quotidien",
+      "type": "OTHER",
+      "salience": 0.0006285047857090831,
+      "mentions": [
+        {
+          "text": {
+            "content": "quotidien",
+            "beginOffset": 5364
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lignes",
+      "type": "OTHER",
+      "salience": 0.0006255153566598892,
+      "mentions": [
+        {
+          "text": {
+            "content": "lignes",
+            "beginOffset": 3211
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "zeste",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0006115810829214752,
+      "mentions": [
+        {
+          "text": {
+            "content": "zeste",
+            "beginOffset": 3258
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "piquant",
+      "type": "OTHER",
+      "salience": 0.0006115810829214752,
+      "mentions": [
+        {
+          "text": {
+            "content": "piquant",
+            "beginOffset": 3267
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humour",
+      "type": "OTHER",
+      "salience": 0.0006094606360420585,
+      "mentions": [
+        {
+          "text": {
+            "content": "humour",
+            "beginOffset": 3588
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Longueuil",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Longueuil",
+        "mid": "/m/019y8h"
+      },
+      "salience": 0.0006031918455846608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Longueuil",
+            "beginOffset": 4994
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "yeux",
+      "type": "OTHER",
+      "salience": 0.0005976223037578166,
+      "mentions": [
+        {
+          "text": {
+            "content": "yeux",
+            "beginOffset": 2190
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "propos",
+      "type": "OTHER",
+      "salience": 0.0005976223037578166,
+      "mentions": [
+        {
+          "text": {
+            "content": "propos",
+            "beginOffset": 2140
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fra\u00eecheur",
+      "type": "OTHER",
+      "salience": 0.0005976223037578166,
+      "mentions": [
+        {
+          "text": {
+            "content": "fra\u00eecheur",
+            "beginOffset": 2105
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vent",
+      "type": "OTHER",
+      "salience": 0.0005976223037578166,
+      "mentions": [
+        {
+          "text": {
+            "content": "vent",
+            "beginOffset": 2097
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mise",
+      "type": "OTHER",
+      "salience": 0.0005976223037578166,
+      "mentions": [
+        {
+          "text": {
+            "content": "mise",
+            "beginOffset": 2066
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vie",
+      "type": "OTHER",
+      "salience": 0.0005894325440749526,
+      "mentions": [
+        {
+          "text": {
+            "content": "vie",
+            "beginOffset": 6132
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chroniques",
+      "type": "OTHER",
+      "salience": 0.0005885703722015023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chroniques",
+            "beginOffset": 4591
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FM",
+      "type": "ORGANIZATION",
+      "salience": 0.0005870492896065116,
+      "mentions": [
+        {
+          "text": {
+            "content": "FM",
+            "beginOffset": 4984
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "suite",
+      "type": "OTHER",
+      "salience": 0.0005859239608980715,
+      "mentions": [
+        {
+          "text": {
+            "content": "suite",
+            "beginOffset": 5561
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vie",
+      "type": "OTHER",
+      "salience": 0.0005828663124702871,
+      "mentions": [
+        {
+          "text": {
+            "content": "vie",
+            "beginOffset": 6225
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sexe",
+      "type": "OTHER",
+      "salience": 0.0005828663124702871,
+      "mentions": [
+        {
+          "text": {
+            "content": "sexe",
+            "beginOffset": 6254
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "autres",
+      "type": "PERSON",
+      "salience": 0.000577211903873831,
+      "mentions": [
+        {
+          "text": {
+            "content": "autres",
+            "beginOffset": 2232
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "c\u0153ur",
+      "type": "OTHER",
+      "salience": 0.000577211903873831,
+      "mentions": [
+        {
+          "text": {
+            "content": "c\u0153ur",
+            "beginOffset": 2258
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "joie",
+      "type": "OTHER",
+      "salience": 0.000577211903873831,
+      "mentions": [
+        {
+          "text": {
+            "content": "joie",
+            "beginOffset": 2264
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9bats",
+      "type": "EVENT",
+      "salience": 0.000577211903873831,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9bats",
+            "beginOffset": 2335
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quotidien",
+      "type": "OTHER",
+      "salience": 0.0005766036338172853,
+      "mentions": [
+        {
+          "text": {
+            "content": "quotidien",
+            "beginOffset": 3730
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "La Presse",
+      "type": "ORGANIZATION",
+      "salience": 0.00057575962273404,
+      "mentions": [
+        {
+          "text": {
+            "content": "La Presse",
+            "beginOffset": 3645
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "parent",
+      "type": "PERSON",
+      "salience": 0.0005689662648364902,
+      "mentions": [
+        {
+          "text": {
+            "content": "parent",
+            "beginOffset": 3075
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paternit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0005614824476651847,
+      "mentions": [
+        {
+          "text": {
+            "content": "paternit\u00e9",
+            "beginOffset": 3441
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "travers",
+      "type": "OTHER",
+      "salience": 0.0005614824476651847,
+      "mentions": [
+        {
+          "text": {
+            "content": "travers",
+            "beginOffset": 3395
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roman",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005575725808739662,
+      "mentions": [
+        {
+          "text": {
+            "content": "roman",
+            "beginOffset": 5541
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cano\u00eb",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0005565773462876678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cano\u00eb",
+            "beginOffset": 3806
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tome",
+      "type": "WORK_OF_ART",
+      "salience": 0.0005474619683809578,
+      "mentions": [
+        {
+          "text": {
+            "content": "tome",
+            "beginOffset": 2832
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Marie-Claude Fortin",
+      "type": "PERSON",
+      "salience": 0.0005472046323120594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marie-Claude Fortin",
+            "beginOffset": 3180
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9cit",
+      "type": "OTHER",
+      "salience": 0.0005419627414084971,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9cit",
+            "beginOffset": 5245
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fleur",
+      "type": "OTHER",
+      "salience": 0.0005419627414084971,
+      "mentions": [
+        {
+          "text": {
+            "content": "fleur",
+            "beginOffset": 5255
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nicolas Fr\u00e9ret",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Fr\u00e9ret",
+        "mid": "/m/08m3qs"
+      },
+      "salience": 0.0005419503431767225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nicolas Fr\u00e9ret",
+            "beginOffset": 1984
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "morve",
+      "type": "OTHER",
+      "salience": 0.0005351054714992642,
+      "mentions": [
+        {
+          "text": {
+            "content": "morve",
+            "beginOffset": 5321
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pleurs",
+      "type": "OTHER",
+      "salience": 0.0005351054714992642,
+      "mentions": [
+        {
+          "text": {
+            "content": "pleurs",
+            "beginOffset": 5310
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dr\u00f4les",
+      "type": "OTHER",
+      "salience": 0.0005350146675482392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dr\u00f4les",
+            "beginOffset": 3222
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "salience": 0.000533797312527895,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 6019
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorge",
+      "type": "OTHER",
+      "salience": 0.0005337794427759945,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorge",
+            "beginOffset": 2972
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mots",
+      "type": "OTHER",
+      "salience": 0.0005284176440909505,
+      "mentions": [
+        {
+          "text": {
+            "content": "mots",
+            "beginOffset": 5406
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vie",
+      "type": "OTHER",
+      "salience": 0.0005152265075594187,
+      "mentions": [
+        {
+          "text": {
+            "content": "vie",
+            "beginOffset": 4361
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Turbis",
+      "type": "PERSON",
+      "salience": 0.0005135538522154093,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pierre Turbis",
+            "beginOffset": 4969
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "CHRONIQUES-D-UNE-MERE-INDIGNE-2_COUV-HR.jpg",
+      "type": "OTHER",
+      "salience": 0.0005047762533649802,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHRONIQUES-D-UNE-MERE-INDIGNE-2_COUV-HR.jpg",
+            "beginOffset": 2574
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "plaisir",
+      "type": "OTHER",
+      "salience": 0.0005025645368732512,
+      "mentions": [
+        {
+          "text": {
+            "content": "plaisir",
+            "beginOffset": 5810
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Louise Chevrier",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/114002s8l"
+      },
+      "salience": 0.0005014653434045613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Louise Chevrier",
+            "beginOffset": 3318
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "La Terre de chez nous",
+      "type": "LOCATION",
+      "salience": 0.0005014653434045613,
+      "mentions": [
+        {
+          "text": {
+            "content": "La Terre de chez nous",
+            "beginOffset": 3335
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "tribu",
+      "type": "OTHER",
+      "salience": 0.0005012461333535612,
+      "mentions": [
+        {
+          "text": {
+            "content": "tribu",
+            "beginOffset": 2782
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "M\u00e9re",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mother",
+        "mid": "/m/0lbxz"
+      },
+      "salience": 0.0004965693806298077,
+      "mentions": [
+        {
+          "text": {
+            "content": "M\u00e9re",
+            "beginOffset": 5760
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "auteure",
+      "type": "PERSON",
+      "salience": 0.0004943241365253925,
+      "mentions": [
+        {
+          "text": {
+            "content": "auteure",
+            "beginOffset": 5836
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Caroline Larouche",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11hb11w32y"
+      },
+      "salience": 0.0004930548020638525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caroline Larouche",
+            "beginOffset": 5113
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Libraire",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Buchh\u00e4ndler",
+        "mid": "/g/121crrmn"
+      },
+      "salience": 0.0004930548020638525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Libraire",
+            "beginOffset": 5135
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ami",
+      "type": "PERSON",
+      "salience": 0.0004911992000415921,
+      "mentions": [
+        {
+          "text": {
+            "content": "ami",
+            "beginOffset": 2485
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9tails",
+      "type": "OTHER",
+      "salience": 0.0004909164272248745,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9tails",
+            "beginOffset": 3781
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aventures",
+      "type": "EVENT",
+      "salience": 0.0004909164272248745,
+      "mentions": [
+        {
+          "text": {
+            "content": "aventures",
+            "beginOffset": 3717
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "souhait",
+      "type": "OTHER",
+      "salience": 0.0004884053487330675,
+      "mentions": [
+        {
+          "text": {
+            "content": "souhait",
+            "beginOffset": 2912
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "long",
+      "type": "OTHER",
+      "salience": 0.0004761986783705652,
+      "mentions": [
+        {
+          "text": {
+            "content": "long",
+            "beginOffset": 2929
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Plan\u00e8te Qu\u00e9bec",
+      "type": "LOCATION",
+      "salience": 0.0004759856383316219,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plan\u00e8te Qu\u00e9bec",
+            "beginOffset": 2512
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Marie-Jos\u00e9e Turgeon",
+      "type": "PERSON",
+      "salience": 0.0004726246406789869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marie-Jos\u00e9e Turgeon",
+            "beginOffset": 2348
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "CKRL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/CKRL-FM",
+        "mid": "/m/026vpmf"
+      },
+      "salience": 0.0004718323762062937,
+      "mentions": [
+        {
+          "text": {
+            "content": "CKRL",
+            "beginOffset": 3506
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fa\u00e7ade",
+      "type": "OTHER",
+      "salience": 0.0004657722311094403,
+      "mentions": [
+        {
+          "text": {
+            "content": "fa\u00e7ade",
+            "beginOffset": 3863
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Vacances en famille",
+      "type": "OTHER",
+      "salience": 0.0004627091984730214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vacances en famille",
+            "beginOffset": 3516
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sympatico.ca",
+      "type": "OTHER",
+      "salience": 0.0004572525795083493,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sympatico.ca",
+            "beginOffset": 2370
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "souhait",
+      "type": "OTHER",
+      "salience": 0.00045715062879025936,
+      "mentions": [
+        {
+          "text": {
+            "content": "souhait",
+            "beginOffset": 5646
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tribulations",
+      "type": "OTHER",
+      "salience": 0.00045582489110529423,
+      "mentions": [
+        {
+          "text": {
+            "content": "tribulations",
+            "beginOffset": 5872
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enfants",
+      "type": "PERSON",
+      "salience": 0.0004431289853528142,
+      "mentions": [
+        {
+          "text": {
+            "content": "enfants",
+            "beginOffset": 5960
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "famille",
+      "type": "PERSON",
+      "salience": 0.0004409991961438209,
+      "mentions": [
+        {
+          "text": {
+            "content": "famille",
+            "beginOffset": 5898
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jade B\u00e9rub\u00e9",
+      "type": "PERSON",
+      "salience": 0.0004373180272523314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jade B\u00e9rub\u00e9",
+            "beginOffset": 3630
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lecture",
+      "type": "OTHER",
+      "salience": 0.00042406428838148713,
+      "mentions": [
+        {
+          "text": {
+            "content": "lecture",
+            "beginOffset": 4680
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soci\u00e9t\u00e9",
+      "type": "ORGANIZATION",
+      "salience": 0.0004192431515548378,
+      "mentions": [
+        {
+          "text": {
+            "content": "soci\u00e9t\u00e9",
+            "beginOffset": 4223
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "confession",
+      "type": "OTHER",
+      "salience": 0.0004164487181697041,
+      "mentions": [
+        {
+          "text": {
+            "content": "confession",
+            "beginOffset": 6236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9sultat",
+      "type": "OTHER",
+      "salience": 0.0004158240044489503,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9sultat",
+            "beginOffset": 2792
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soupe",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0004158240044489503,
+      "mentions": [
+        {
+          "text": {
+            "content": "soupe",
+            "beginOffset": 2885
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cruaut\u00e9",
+      "type": "OTHER",
+      "salience": 0.0004158240044489503,
+      "mentions": [
+        {
+          "text": {
+            "content": "cruaut\u00e9",
+            "beginOffset": 2856
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brin",
+      "type": "OTHER",
+      "salience": 0.0004158240044489503,
+      "mentions": [
+        {
+          "text": {
+            "content": "brin",
+            "beginOffset": 2848
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Espace Parent",
+      "type": "LOCATION",
+      "salience": 0.00041453936137259007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Espace Parent",
+            "beginOffset": 3814
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "maternit\u00e9",
+      "type": "LOCATION",
+      "salience": 0.0004126329440623522,
+      "mentions": [
+        {
+          "text": {
+            "content": "maternit\u00e9",
+            "beginOffset": 4432
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "id\u00e9es",
+      "type": "OTHER",
+      "salience": 0.0004126329440623522,
+      "mentions": [
+        {
+          "text": {
+            "content": "id\u00e9es",
+            "beginOffset": 4410
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "auteure",
+      "type": "PERSON",
+      "salience": 0.0004126329440623522,
+      "mentions": [
+        {
+          "text": {
+            "content": "auteure",
+            "beginOffset": 4313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Madame Parfaite",
+      "type": "PERSON",
+      "salience": 0.00040745886508375406,
+      "mentions": [
+        {
+          "text": {
+            "content": "Madame Parfaite",
+            "beginOffset": 3877
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "chapitres",
+      "type": "OTHER",
+      "salience": 0.0004054312303196639,
+      "mentions": [
+        {
+          "text": {
+            "content": "chapitres",
+            "beginOffset": 2938
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sylvia Hamel",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11f3_gqmg5"
+      },
+      "salience": 0.00040524982614442706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sylvia Hamel",
+            "beginOffset": 2498
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e8re",
+      "type": "OTHER",
+      "salience": 0.0003955392458010465,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e8re",
+            "beginOffset": 3060
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "besoin",
+      "type": "OTHER",
+      "salience": 0.0003955392458010465,
+      "mentions": [
+        {
+          "text": {
+            "content": "besoin",
+            "beginOffset": 3034
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doute",
+      "type": "OTHER",
+      "salience": 0.0003955392458010465,
+      "mentions": [
+        {
+          "text": {
+            "content": "doute",
+            "beginOffset": 2997
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clich\u00e9s",
+      "type": "WORK_OF_ART",
+      "salience": 0.0003940212191082537,
+      "mentions": [
+        {
+          "text": {
+            "content": "clich\u00e9s",
+            "beginOffset": 5570
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "polaro\u00efds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0003940212191082537,
+      "mentions": [
+        {
+          "text": {
+            "content": "polaro\u00efds",
+            "beginOffset": 5579
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "convictions",
+      "type": "OTHER",
+      "salience": 0.0003940212191082537,
+      "mentions": [
+        {
+          "text": {
+            "content": "convictions",
+            "beginOffset": 5607
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plaisir",
+      "type": "OTHER",
+      "salience": 0.00039398318040184677,
+      "mentions": [
+        {
+          "text": {
+            "content": "plaisir",
+            "beginOffset": 4564
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tomes",
+      "type": "WORK_OF_ART",
+      "salience": 0.00039398318040184677,
+      "mentions": [
+        {
+          "text": {
+            "content": "tomes",
+            "beginOffset": 4581
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ton",
+      "type": "OTHER",
+      "salience": 0.00038921370287425816,
+      "mentions": [
+        {
+          "text": {
+            "content": "ton",
+            "beginOffset": 5666
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "version",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0003754623467102647,
+      "mentions": [
+        {
+          "text": {
+            "content": "version",
+            "beginOffset": 5782
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "justesse",
+      "type": "OTHER",
+      "salience": 0.0003754623467102647,
+      "mentions": [
+        {
+          "text": {
+            "content": "justesse",
+            "beginOffset": 5915
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "OTHER",
+      "salience": 0.0003740169631782919,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 4264
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cr\u00e8me glac\u00e9e",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0003710894088726491,
+      "mentions": [
+        {
+          "text": {
+            "content": "cr\u00e8me glac\u00e9e",
+            "beginOffset": 5981
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "voisine",
+      "type": "PERSON",
+      "salience": 0.0003710894088726491,
+      "mentions": [
+        {
+          "text": {
+            "content": "voisine",
+            "beginOffset": 6004
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "auteur",
+      "type": "PERSON",
+      "salience": 0.0003684072580654174,
+      "mentions": [
+        {
+          "text": {
+            "content": "auteur",
+            "beginOffset": 3748
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.00036811979953199625,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 4334
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jaquette",
+      "type": "OTHER",
+      "salience": 0.0003585545055102557,
+      "mentions": [
+        {
+          "text": {
+            "content": "jaquette",
+            "beginOffset": 6109
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bribes",
+      "type": "OTHER",
+      "salience": 0.0003585545055102557,
+      "mentions": [
+        {
+          "text": {
+            "content": "bribes",
+            "beginOffset": 6122
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dialogue",
+      "type": "OTHER",
+      "salience": 0.0003545600629877299,
+      "mentions": [
+        {
+          "text": {
+            "content": "dialogue",
+            "beginOffset": 6173
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fille",
+      "type": "PERSON",
+      "salience": 0.0003545600629877299,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fille",
+            "beginOffset": 6187
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "myst\u00e8res",
+      "type": "OTHER",
+      "salience": 0.0003545600629877299,
+      "mentions": [
+        {
+          "text": {
+            "content": "myst\u00e8res",
+            "beginOffset": 6209
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "b\u00e9b\u00e9",
+      "type": "PERSON",
+      "salience": 0.0003545600629877299,
+      "mentions": [
+        {
+          "text": {
+            "content": "b\u00e9b\u00e9",
+            "beginOffset": 6266
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "format",
+      "type": "OTHER",
+      "salience": 0.0003545600629877299,
+      "mentions": [
+        {
+          "text": {
+            "content": "format",
+            "beginOffset": 6330
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "expression",
+      "type": "OTHER",
+      "salience": 0.0003545600629877299,
+      "mentions": [
+        {
+          "text": {
+            "content": "expression",
+            "beginOffset": 6365
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mamans",
+      "type": "PERSON",
+      "salience": 0.00034691591281443834,
+      "mentions": [
+        {
+          "text": {
+            "content": "mamans",
+            "beginOffset": 3670
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enfants",
+      "type": "PERSON",
+      "salience": 0.00034626113483682275,
+      "mentions": [
+        {
+          "text": {
+            "content": "enfants",
+            "beginOffset": 4651
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "revers",
+      "type": "OTHER",
+      "salience": 0.0003402123984415084,
+      "mentions": [
+        {
+          "text": {
+            "content": "revers",
+            "beginOffset": 3979
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "talent",
+      "type": "OTHER",
+      "salience": 0.00034020462771877646,
+      "mentions": [
+        {
+          "text": {
+            "content": "talent",
+            "beginOffset": 4073
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cindy L\u00e9vesque",
+      "type": "PERSON",
+      "salience": 0.0003323703713249415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cindy L\u00e9vesque",
+            "beginOffset": 5697
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Le Nouvelliste",
+      "type": "PERSON",
+      "salience": 0.0003323703713249415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Le Nouvelliste",
+            "beginOffset": 5714
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "allure",
+      "type": "OTHER",
+      "salience": 0.00032394961453974247,
+      "mentions": [
+        {
+          "text": {
+            "content": "allure",
+            "beginOffset": 4381
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "radio",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00032361599733121693,
+      "mentions": [
+        {
+          "text": {
+            "content": "radio",
+            "beginOffset": 4011
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "style",
+      "type": "OTHER",
+      "salience": 0.0003186377289239317,
+      "mentions": [
+        {
+          "text": {
+            "content": "style",
+            "beginOffset": 4293
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "un",
+      "type": "OTHER",
+      "salience": 0.00031843376928009093,
+      "mentions": [
+        {
+          "text": {
+            "content": "un",
+            "beginOffset": 4191
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dignit\u00e9",
+      "type": "OTHER",
+      "salience": 0.00031843376928009093,
+      "mentions": [
+        {
+          "text": {
+            "content": "dignit\u00e9",
+            "beginOffset": 4237
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "derniers",
+      "type": "PERSON",
+      "salience": 0.00031843376928009093,
+      "mentions": [
+        {
+          "text": {
+            "content": "derniers",
+            "beginOffset": 4198
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "point de vue",
+      "type": "OTHER",
+      "salience": 0.00031843376928009093,
+      "mentions": [
+        {
+          "text": {
+            "content": "point de vue",
+            "beginOffset": 4115
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Clodine",
+      "type": "PERSON",
+      "salience": 0.00031723667052574456,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clodine",
+            "beginOffset": 6047
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mode",
+      "type": "OTHER",
+      "salience": 0.0003134129219688475,
+      "mentions": [
+        {
+          "text": {
+            "content": "mode",
+            "beginOffset": 4478
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rectitude",
+      "type": "OTHER",
+      "salience": 0.0003134129219688475,
+      "mentions": [
+        {
+          "text": {
+            "content": "rectitude",
+            "beginOffset": 4452
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contre-courant",
+      "type": "OTHER",
+      "salience": 0.0003134129219688475,
+      "mentions": [
+        {
+          "text": {
+            "content": "contre-courant",
+            "beginOffset": 4391
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00c9milie Folie-Boivin",
+      "type": "PERSON",
+      "salience": 0.0003034063847735524,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00c9milie Folie-Boivin",
+            "beginOffset": 6381
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Le Devoir",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Le_Devoir",
+        "mid": "/m/01w5w6"
+      },
+      "salience": 0.0003034063847735524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Le Devoir",
+            "beginOffset": 6403
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fait",
+      "type": "OTHER",
+      "salience": 0.00029480253579095006,
+      "mentions": [
+        {
+          "text": {
+            "content": "fait",
+            "beginOffset": 4696
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Julie McNicoll",
+      "type": "PERSON",
+      "salience": 0.0002877807419281453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie McNicoll",
+            "beginOffset": 3991
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "SRC",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Canadian_Broadcasting_Corporation",
+        "mid": "/m/0hm0k"
+      },
+      "salience": 0.0002830992452800274,
+      "mentions": [
+        {
+          "text": {
+            "content": "SRC",
+            "beginOffset": 4027
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Abitibi-T\u00e9miscamingue",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Abitibi-T\u00e9miscamingue",
+        "mid": "/m/036p5q"
+      },
+      "salience": 0.0002830992452800274,
+      "mentions": [
+        {
+          "text": {
+            "content": "Abitibi-T\u00e9miscamingue",
+            "beginOffset": 4031
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Le Canada fran\u00e7ais",
+      "type": "LOCATION",
+      "salience": 0.00026578723918646574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Le Canada fran\u00e7ais",
+            "beginOffset": 4513
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Fran\u00e7ois Cr\u00e9peau",
+      "type": "PERSON",
+      "salience": 0.00026578723918646574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jean-Fran\u00e7ois Cr\u00e9peau",
+            "beginOffset": 4488
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "fr"
+}

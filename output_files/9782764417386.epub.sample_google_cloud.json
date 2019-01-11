@@ -1,0 +1,1503 @@
+{
+  "entities": [
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.07248795032501221,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 27
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.07248795032501221,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 46
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.07248795032501221,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 74
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.07248795032501221,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 21
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arachnides",
+      "type": "OTHER",
+      "salience": 0.06994546949863434,
+      "mentions": [
+        {
+          "text": {
+            "content": "arachnides",
+            "beginOffset": 140
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0005",
+      "type": "OTHER",
+      "salience": 0.05764620006084442,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0005",
+            "beginOffset": 34
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.05764620006084442,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 40
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ROI",
+      "type": "PERSON",
+      "salience": 0.05764620006084442,
+      "mentions": [
+        {
+          "text": {
+            "content": "ROI",
+            "beginOffset": 100
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9monstration",
+      "type": "EVENT",
+      "salience": 0.050474341958761215,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9monstration",
+            "beginOffset": 190
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toiles",
+      "type": "OTHER",
+      "salience": 0.044233761727809906,
+      "mentions": [
+        {
+          "text": {
+            "content": "toiles",
+            "beginOffset": 171
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pi\u00e8ce",
+      "type": "LOCATION",
+      "salience": 0.037842195481061935,
+      "mentions": [
+        {
+          "text": {
+            "content": "pi\u00e8ce",
+            "beginOffset": 123
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coin",
+      "type": "OTHER",
+      "salience": 0.037842195481061935,
+      "mentions": [
+        {
+          "text": {
+            "content": "coin",
+            "beginOffset": 112
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "talent",
+      "type": "OTHER",
+      "salience": 0.037842195481061935,
+      "mentions": [
+        {
+          "text": {
+            "content": "talent",
+            "beginOffset": 228
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ANNIVERSAIRE",
+      "type": "EVENT",
+      "salience": 0.037842195481061935,
+      "mentions": [
+        {
+          "text": {
+            "content": "ANNIVERSAIRE",
+            "beginOffset": 84
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "invit\u00e9s",
+      "type": "PERSON",
+      "salience": 0.027293089777231216,
+      "mentions": [
+        {
+          "text": {
+            "content": "invit\u00e9s",
+            "beginOffset": 240
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Clothilde",
+      "type": "ORGANIZATION",
+      "salience": 0.016525451093912125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clothilde",
+            "beginOffset": 314
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "amie",
+      "type": "PERSON",
+      "salience": 0.015437054447829723,
+      "mentions": [
+        {
+          "text": {
+            "content": "amie",
+            "beginOffset": 309
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tailleur",
+      "type": "PERSON",
+      "salience": 0.013164948672056198,
+      "mentions": [
+        {
+          "text": {
+            "content": "tailleur",
+            "beginOffset": 274
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "araign\u00e9e",
+      "type": "OTHER",
+      "salience": 0.008684064261615276,
+      "mentions": [
+        {
+          "text": {
+            "content": "araign\u00e9e",
+            "beginOffset": 328
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9paule",
+      "type": "OTHER",
+      "salience": 0.006605926901102066,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9paule",
+            "beginOffset": 346
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roi",
+      "type": "PERSON",
+      "salience": 0.005280070006847382,
+      "mentions": [
+        {
+          "text": {
+            "content": "roi",
+            "beginOffset": 383
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Veuve Blanche",
+      "type": "OTHER",
+      "salience": 0.00456586666405201,
+      "mentions": [
+        {
+          "text": {
+            "content": "Veuve Blanche",
+            "beginOffset": 465
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "f\u00eate",
+      "type": "EVENT",
+      "salience": 0.004366517066955566,
+      "mentions": [
+        {
+          "text": {
+            "content": "f\u00eate",
+            "beginOffset": 364
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arachnides",
+      "type": "OTHER",
+      "salience": 0.004280950874090195,
+      "mentions": [
+        {
+          "text": {
+            "content": "arachnides",
+            "beginOffset": 440
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "araign\u00e9es",
+      "type": "OTHER",
+      "salience": 0.0034078045282512903,
+      "mentions": [
+        {
+          "text": {
+            "content": "araign\u00e9es",
+            "beginOffset": 584
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Alexandre",
+      "type": "PERSON",
+      "salience": 0.003343235468491912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alexandre",
+            "beginOffset": 387
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "admiration",
+      "type": "OTHER",
+      "salience": 0.0032539679668843746,
+      "mentions": [
+        {
+          "text": {
+            "content": "admiration",
+            "beginOffset": 420
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "main",
+      "type": "OTHER",
+      "salience": 0.0032539679668843746,
+      "mentions": [
+        {
+          "text": {
+            "content": "main",
+            "beginOffset": 493
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "t\u00e9moignage",
+      "type": "OTHER",
+      "salience": 0.0032539679668843746,
+      "mentions": [
+        {
+          "text": {
+            "content": "t\u00e9moignage",
+            "beginOffset": 401
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "signe",
+      "type": "OTHER",
+      "salience": 0.0025898870080709457,
+      "mentions": [
+        {
+          "text": {
+            "content": "signe",
+            "beginOffset": 509
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "amiti\u00e9",
+      "type": "OTHER",
+      "salience": 0.0025898870080709457,
+      "mentions": [
+        {
+          "text": {
+            "content": "amiti\u00e9",
+            "beginOffset": 519
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toast",
+      "type": "OTHER",
+      "salience": 0.0025898870080709457,
+      "mentions": [
+        {
+          "text": {
+            "content": "toast",
+            "beginOffset": 540
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roi",
+      "type": "PERSON",
+      "salience": 0.0021981096360832453,
+      "mentions": [
+        {
+          "text": {
+            "content": "roi",
+            "beginOffset": 631
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.002081942977383733,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 779
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.002081942977383733,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 785
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.002081942977383733,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 804
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.002081942977383733,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 832
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.002081942977383733,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 857
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.002081942977383733,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 863
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0020143224392086267,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 882
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0020143224392086267,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 910
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0018100772285833955,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1953
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0018100772285833955,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 1928
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0018100772285833955,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 1903
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0018100772285833955,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1875
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0018100772285833955,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1934
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.0018100772285833955,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1856
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0018100772285833955,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 1850
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "royaume",
+      "type": "LOCATION",
+      "salience": 0.0017141245771199465,
+      "mentions": [
+        {
+          "text": {
+            "content": "royaume",
+            "beginOffset": 598
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0007",
+      "type": "OTHER",
+      "salience": 0.0016373854596167803,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0007",
+            "beginOffset": 870
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0016373854596167803,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 876
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0016373854596167803,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 798
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0006",
+      "type": "OTHER",
+      "salience": 0.0016373854596167803,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0006",
+            "beginOffset": 792
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Clothilde",
+      "type": "PERSON",
+      "salience": 0.0015279857907444239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clothilde",
+            "beginOffset": 667
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "h\u00f4tes",
+      "type": "PERSON",
+      "salience": 0.0015234608436003327,
+      "mentions": [
+        {
+          "text": {
+            "content": "h\u00f4tes",
+            "beginOffset": 682
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0014235104899853468,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 1947
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0009",
+      "type": "OTHER",
+      "salience": 0.0014235104899853468,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0009",
+            "beginOffset": 1941
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "i0008",
+      "type": "OTHER",
+      "salience": 0.0014235104899853468,
+      "mentions": [
+        {
+          "text": {
+            "content": "i0008",
+            "beginOffset": 1863
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.0014235104899853468,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 1869
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sant\u00e9",
+      "type": "OTHER",
+      "salience": 0.0014222146710380912,
+      "mentions": [
+        {
+          "text": {
+            "content": "sant\u00e9",
+            "beginOffset": 621
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roi",
+      "type": "PERSON",
+      "salience": 0.0014041916001588106,
+      "mentions": [
+        {
+          "text": {
+            "content": "roi",
+            "beginOffset": 973
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coupe",
+      "type": "OTHER",
+      "salience": 0.001394285704009235,
+      "mentions": [
+        {
+          "text": {
+            "content": "coupe",
+            "beginOffset": 703
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arachnides",
+      "type": "OTHER",
+      "salience": 0.0013919506454840302,
+      "mentions": [
+        {
+          "text": {
+            "content": "arachnides",
+            "beginOffset": 1213
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jpg",
+      "type": "OTHER",
+      "salience": 0.0013669929467141628,
+      "mentions": [
+        {
+          "text": {
+            "content": "jpg",
+            "beginOffset": 1981
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "invit\u00e9s",
+      "type": "PERSON",
+      "salience": 0.0013480153866112232,
+      "mentions": [
+        {
+          "text": {
+            "content": "invit\u00e9s",
+            "beginOffset": 1132
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mathieu",
+      "type": "PERSON",
+      "salience": 0.0012478844728320837,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mathieu",
+            "beginOffset": 656
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ch\u0153ur",
+      "type": "OTHER",
+      "salience": 0.0012145149521529675,
+      "mentions": [
+        {
+          "text": {
+            "content": "ch\u0153ur",
+            "beginOffset": 649
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vin",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0012035741237923503,
+      "mentions": [
+        {
+          "text": {
+            "content": "vin",
+            "beginOffset": 952
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "valet",
+      "type": "PERSON",
+      "salience": 0.0011536194942891598,
+      "mentions": [
+        {
+          "text": {
+            "content": "valet",
+            "beginOffset": 1033
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coupe",
+      "type": "OTHER",
+      "salience": 0.0011252962285652757,
+      "mentions": [
+        {
+          "text": {
+            "content": "coupe",
+            "beginOffset": 1414
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "souverain",
+      "type": "PERSON",
+      "salience": 0.0010592625476419926,
+      "mentions": [
+        {
+          "text": {
+            "content": "souverain",
+            "beginOffset": 723
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cri",
+      "type": "OTHER",
+      "salience": 0.0010592625476419926,
+      "mentions": [
+        {
+          "text": {
+            "content": "cri",
+            "beginOffset": 743
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "convives",
+      "type": "PERSON",
+      "salience": 0.0010574880288913846,
+      "mentions": [
+        {
+          "text": {
+            "content": "convives",
+            "beginOffset": 1177
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "b\u00eate",
+      "type": "OTHER",
+      "salience": 0.001024833065457642,
+      "mentions": [
+        {
+          "text": {
+            "content": "b\u00eate",
+            "beginOffset": 924
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reine",
+      "type": "PERSON",
+      "salience": 0.0009794060606509447,
+      "mentions": [
+        {
+          "text": {
+            "content": "reine",
+            "beginOffset": 1053
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "individu",
+      "type": "PERSON",
+      "salience": 0.0009637528564780951,
+      "mentions": [
+        {
+          "text": {
+            "content": "individu",
+            "beginOffset": 1819
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "faute",
+      "type": "EVENT",
+      "salience": 0.0009637528564780951,
+      "mentions": [
+        {
+          "text": {
+            "content": "faute",
+            "beginOffset": 1801
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Veuve Blanche",
+      "type": "ORGANIZATION",
+      "salience": 0.0009390668128617108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Veuve Blanche",
+            "beginOffset": 1009
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "poing",
+      "type": "OTHER",
+      "salience": 0.0009132975246757269,
+      "mentions": [
+        {
+          "text": {
+            "content": "poing",
+            "beginOffset": 1357
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accus\u00e9es",
+      "type": "OTHER",
+      "salience": 0.0009132975246757269,
+      "mentions": [
+        {
+          "text": {
+            "content": "accus\u00e9es",
+            "beginOffset": 1334
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "autres",
+      "type": "PERSON",
+      "salience": 0.0009132975246757269,
+      "mentions": [
+        {
+          "text": {
+            "content": "autres",
+            "beginOffset": 1294
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Clothilde",
+      "type": "PERSON",
+      "salience": 0.000874879362527281,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clothilde",
+            "beginOffset": 2014
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pied",
+      "type": "OTHER",
+      "salience": 0.0008548661135137081,
+      "mentions": [
+        {
+          "text": {
+            "content": "pied",
+            "beginOffset": 1401
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bestioles",
+      "type": "OTHER",
+      "salience": 0.0008493019267916679,
+      "mentions": [
+        {
+          "text": {
+            "content": "bestioles",
+            "beginOffset": 1233
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "secours",
+      "type": "OTHER",
+      "salience": 0.0007395492284558713,
+      "mentions": [
+        {
+          "text": {
+            "content": "secours",
+            "beginOffset": 1071
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mari",
+      "type": "PERSON",
+      "salience": 0.0007395492284558713,
+      "mentions": [
+        {
+          "text": {
+            "content": "mari",
+            "beginOffset": 1086
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9moi",
+      "type": "OTHER",
+      "salience": 0.0007395492284558713,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9moi",
+            "beginOffset": 1043
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plaie",
+      "type": "OTHER",
+      "salience": 0.0007395492284558713,
+      "mentions": [
+        {
+          "text": {
+            "content": "plaie",
+            "beginOffset": 1108
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vin",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000733465887606144,
+      "mentions": [
+        {
+          "text": {
+            "content": "vin",
+            "beginOffset": 1423
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bestiole",
+      "type": "OTHER",
+      "salience": 0.0007202358683571219,
+      "mentions": [
+        {
+          "text": {
+            "content": "bestiole",
+            "beginOffset": 2243
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Clothilde",
+      "type": "PERSON",
+      "salience": 0.000696456350851804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Clothilde",
+            "beginOffset": 1490
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Majest\u00e9",
+      "type": "OTHER",
+      "salience": 0.0006953268893994391,
+      "mentions": [
+        {
+          "text": {
+            "content": "Majest\u00e9",
+            "beginOffset": 1996
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "araign\u00e9e",
+      "type": "OTHER",
+      "salience": 0.0006893881945870817,
+      "mentions": [
+        {
+          "text": {
+            "content": "araign\u00e9e",
+            "beginOffset": 1601
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "amies",
+      "type": "PERSON",
+      "salience": 0.0006892926758155227,
+      "mentions": [
+        {
+          "text": {
+            "content": "amies",
+            "beginOffset": 1473
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "raison",
+      "type": "OTHER",
+      "salience": 0.0006656573386862874,
+      "mentions": [
+        {
+          "text": {
+            "content": "raison",
+            "beginOffset": 2124
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Veuve Blanche",
+      "type": "ORGANIZATION",
+      "salience": 0.0006498440052382648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Veuve Blanche",
+            "beginOffset": 2094
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "coupable",
+      "type": "PERSON",
+      "salience": 0.000622196588665247,
+      "mentions": [
+        {
+          "text": {
+            "content": "coupable",
+            "beginOffset": 1680
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toiles",
+      "type": "OTHER",
+      "salience": 0.0006150482804514468,
+      "mentions": [
+        {
+          "text": {
+            "content": "toiles",
+            "beginOffset": 1590
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roi",
+      "type": "PERSON",
+      "salience": 0.0006113547133281827,
+      "mentions": [
+        {
+          "text": {
+            "content": "roi",
+            "beginOffset": 1515
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gr\u00e2ce",
+      "type": "OTHER",
+      "salience": 0.0005868939333595335,
+      "mentions": [
+        {
+          "text": {
+            "content": "gr\u00e2ce",
+            "beginOffset": 1451
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mathieu",
+      "type": "PERSON",
+      "salience": 0.0005687224911525846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mathieu",
+            "beginOffset": 1503
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "communaut\u00e9",
+      "type": "ORGANIZATION",
+      "salience": 0.0005679485620930791,
+      "mentions": [
+        {
+          "text": {
+            "content": "communaut\u00e9",
+            "beginOffset": 1781
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gardes",
+      "type": "OTHER",
+      "salience": 0.0005236747674643993,
+      "mentions": [
+        {
+          "text": {
+            "content": "gardes",
+            "beginOffset": 1559
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "amis",
+      "type": "PERSON",
+      "salience": 0.0005236747674643993,
+      "mentions": [
+        {
+          "text": {
+            "content": "amis",
+            "beginOffset": 1621
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sire Alexandre",
+      "type": "PERSON",
+      "salience": 0.0005134386010468006,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sire Alexandre",
+            "beginOffset": 1432
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "morsure",
+      "type": "OTHER",
+      "salience": 0.0004968601278960705,
+      "mentions": [
+        {
+          "text": {
+            "content": "morsure",
+            "beginOffset": 1668
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "esprits",
+      "type": "OTHER",
+      "salience": 0.0004366179055068642,
+      "mentions": [
+        {
+          "text": {
+            "content": "esprits",
+            "beginOffset": 1536
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "fr"
+}

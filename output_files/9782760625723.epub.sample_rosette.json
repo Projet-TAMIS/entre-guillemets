@@ -1,0 +1,697 @@
+{
+    "entities": [
+        {
+            "confidence": 0.6668396,
+            "count": 4,
+            "entityId": "T34",
+            "mention": "Montr\u00e9al",
+            "mentionOffsets": [
+                {
+                    "endOffset": 5613,
+                    "startOffset": 5605
+                },
+                {
+                    "endOffset": 6548,
+                    "startOffset": 6540
+                },
+                {
+                    "endOffset": 7890,
+                    "startOffset": 7882
+                },
+                {
+                    "endOffset": 13581,
+                    "startOffset": 13573
+                }
+            ],
+            "normalized": "Montr\u00e9al",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.35108745,
+            "count": 4,
+            "entityId": "T56",
+            "mention": "SIG",
+            "mentionOffsets": [
+                {
+                    "endOffset": 13000,
+                    "startOffset": 12997
+                },
+                {
+                    "endOffset": 14950,
+                    "startOffset": 14947
+                },
+                {
+                    "endOffset": 15000,
+                    "startOffset": 14997
+                },
+                {
+                    "endOffset": 15587,
+                    "startOffset": 15584
+                }
+            ],
+            "normalized": "SIG",
+            "type": "ORGANIZATION"
+        },
+        {
+            "count": 3,
+            "entityId": "T16",
+            "mention": "Lacoste",
+            "mentionOffsets": [
+                {
+                    "endOffset": 2255,
+                    "startOffset": 2248
+                },
+                {
+                    "endOffset": 4450,
+                    "startOffset": 4443
+                },
+                {
+                    "endOffset": 5326,
+                    "startOffset": 5319
+                }
+            ],
+            "normalized": "Lacoste",
+            "type": "ORGANIZATION"
+        },
+        {
+            "confidence": 0.92969191,
+            "count": 3,
+            "entityId": "T17",
+            "mention": "Napol\u00e9on\nBonaparte",
+            "mentionOffsets": [
+                {
+                    "endOffset": 2402,
+                    "startOffset": 2384
+                },
+                {
+                    "endOffset": 3802,
+                    "startOffset": 3794
+                },
+                {
+                    "endOffset": 4320,
+                    "startOffset": 4312
+                }
+            ],
+            "normalized": "Napol\u00e9on Bonaparte",
+            "type": "PERSON"
+        },
+        {
+            "confidence": 0.55427325,
+            "count": 3,
+            "entityId": "T18",
+            "mention": "Austerlitz",
+            "mentionOffsets": [
+                {
+                    "endOffset": 2604,
+                    "startOffset": 2594
+                },
+                {
+                    "endOffset": 3715,
+                    "startOffset": 3705
+                },
+                {
+                    "endOffset": 3934,
+                    "startOffset": 3924
+                }
+            ],
+            "normalized": "Austerlitz",
+            "type": "LOCATION"
+        },
+        {
+            "count": 3,
+            "entityId": "T32",
+            "mention": "jeu",
+            "mentionOffsets": [
+                {
+                    "endOffset": 5091,
+                    "startOffset": 5088
+                },
+                {
+                    "endOffset": 6854,
+                    "startOffset": 6851
+                },
+                {
+                    "endOffset": 10014,
+                    "startOffset": 10011
+                }
+            ],
+            "normalized": "jeu",
+            "type": "TEMPORAL:DATE"
+        },
+        {
+            "confidence": 0.9272126,
+            "count": 2,
+            "entityId": "T0",
+            "mention": "Yves Lacoste",
+            "mentionOffsets": [
+                {
+                    "endOffset": 96,
+                    "startOffset": 84
+                },
+                {
+                    "endOffset": 1580,
+                    "startOffset": 1568
+                }
+            ],
+            "normalized": "Yves Lacoste",
+            "type": "PERSON"
+        },
+        {
+            "confidence": 0.24985445,
+            "count": 2,
+            "entityId": "T3",
+            "mention": "Singapour",
+            "mentionOffsets": [
+                {
+                    "endOffset": 237,
+                    "startOffset": 228
+                },
+                {
+                    "endOffset": 722,
+                    "startOffset": 713
+                }
+            ],
+            "normalized": "Singapour",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.29130399,
+            "count": 2,
+            "entityId": "T5",
+            "mention": "Qu\u00e9bec",
+            "mentionOffsets": [
+                {
+                    "endOffset": 540,
+                    "startOffset": 534
+                },
+                {
+                    "endOffset": 7862,
+                    "startOffset": 7856
+                }
+            ],
+            "normalized": "Qu\u00e9bec",
+            "type": "LOCATION"
+        },
+        {
+            "count": 2,
+            "entityId": "T19",
+            "mention": "2 d\u00e9cembre 1805",
+            "mentionOffsets": [
+                {
+                    "endOffset": 2623,
+                    "startOffset": 2608
+                },
+                {
+                    "endOffset": 3732,
+                    "startOffset": 3717
+                }
+            ],
+            "normalized": "2 d\u00e9cembre 1805",
+            "type": "TEMPORAL:DATE"
+        },
+        {
+            "confidence": 0.57164311,
+            "count": 2,
+            "entityId": "T45",
+            "mention": "San Francisco",
+            "mentionOffsets": [
+                {
+                    "endOffset": 7838,
+                    "startOffset": 7825
+                },
+                {
+                    "endOffset": 7959,
+                    "startOffset": 7946
+                }
+            ],
+            "normalized": "San Francisco",
+            "type": "LOCATION"
+        },
+        {
+            "count": 1,
+            "entityId": "T1",
+            "mention": "avril 1967",
+            "mentionOffsets": [
+                {
+                    "endOffset": 125,
+                    "startOffset": 115
+                }
+            ],
+            "normalized": "avril 1967",
+            "type": "TEMPORAL:DATE"
+        },
+        {
+            "count": 1,
+            "entityId": "T2",
+            "mention": "deux semaines",
+            "mentionOffsets": [
+                {
+                    "endOffset": 145,
+                    "startOffset": 132
+                }
+            ],
+            "normalized": "deux semaines",
+            "type": "TEMPORAL:TIME"
+        },
+        {
+            "confidence": 0.41155994,
+            "count": 1,
+            "entityId": "T4",
+            "mention": "universit\u00e9 fran\u00e7aise",
+            "mentionOffsets": [
+                {
+                    "endOffset": 417,
+                    "startOffset": 397
+                }
+            ],
+            "normalized": "universit\u00e9 fran\u00e7aise",
+            "type": "ORGANIZATION"
+        },
+        {
+            "confidence": 0.56452858,
+            "count": 1,
+            "entityId": "T6",
+            "mention": "Asie",
+            "mentionOffsets": [
+                {
+                    "endOffset": 694,
+                    "startOffset": 690
+                }
+            ],
+            "normalized": "Asie",
+            "type": "LOCATION"
+        },
+        {
+            "count": 1,
+            "entityId": "T8",
+            "mention": "six semaines",
+            "mentionOffsets": [
+                {
+                    "endOffset": 756,
+                    "startOffset": 744
+                }
+            ],
+            "normalized": "six semaines",
+            "type": "TEMPORAL:TIME"
+        },
+        {
+            "count": 1,
+            "entityId": "T9",
+            "mention": "20 avril",
+            "mentionOffsets": [
+                {
+                    "endOffset": 769,
+                    "startOffset": 761
+                }
+            ],
+            "normalized": "20 avril",
+            "type": "TEMPORAL:DATE"
+        },
+        {
+            "confidence": 0.73032129,
+            "count": 1,
+            "entityId": "T10",
+            "mention": "Ath\u00e8nes",
+            "mentionOffsets": [
+                {
+                    "endOffset": 796,
+                    "startOffset": 789
+                }
+            ],
+            "normalized": "Ath\u00e8nes",
+            "type": "LOCATION"
+        },
+        {
+            "count": 1,
+            "entityId": "T11",
+            "mention": "21 avril 1967",
+            "mentionOffsets": [
+                {
+                    "endOffset": 1022,
+                    "startOffset": 1009
+                }
+            ],
+            "normalized": "21 avril 1967",
+            "type": "TEMPORAL:DATE"
+        },
+        {
+            "confidence": 0.54463112,
+            "count": 1,
+            "entityId": "T12",
+            "mention": "mar\u00e9chal",
+            "mentionOffsets": [
+                {
+                    "endOffset": 1451,
+                    "startOffset": 1443
+                }
+            ],
+            "normalized": "mar\u00e9chal",
+            "type": "TITLE"
+        },
+        {
+            "confidence": 0.90518439,
+            "count": 1,
+            "entityId": "T13",
+            "mention": "Rommel",
+            "mentionOffsets": [
+                {
+                    "endOffset": 1458,
+                    "startOffset": 1452
+                }
+            ],
+            "normalized": "Rommel",
+            "type": "PERSON"
+        },
+        {
+            "confidence": 0.79745138,
+            "count": 1,
+            "entityId": "T15",
+            "mention": "H\u00e9rodote",
+            "mentionOffsets": [
+                {
+                    "endOffset": 1711,
+                    "startOffset": 1703
+                }
+            ],
+            "normalized": "H\u00e9rodote",
+            "type": "ORGANIZATION"
+        },
+        {
+            "confidence": 0.08573031,
+            "count": 1,
+            "entityId": "T20",
+            "mention": "royal",
+            "mentionOffsets": [
+                {
+                    "endOffset": 2858,
+                    "startOffset": 2853
+                }
+            ],
+            "normalized": "royal",
+            "type": "PERSON"
+        },
+        {
+            "confidence": 0.64056146,
+            "count": 1,
+            "entityId": "T21",
+            "mention": "Europe",
+            "mentionOffsets": [
+                {
+                    "endOffset": 3141,
+                    "startOffset": 3135
+                }
+            ],
+            "normalized": "Europe",
+            "type": "LOCATION"
+        },
+        {
+            "count": 1,
+            "entityId": "T22",
+            "mention": "Photo12.com",
+            "mentionOffsets": [
+                {
+                    "endOffset": 3593,
+                    "startOffset": 3582
+                }
+            ],
+            "normalized": "Photo12.com",
+            "type": "IDENTIFIER:URL"
+        },
+        {
+            "confidence": 0.00628805,
+            "count": 1,
+            "entityId": "T23",
+            "mention": "Fondation Napol\u00e9on",
+            "mentionOffsets": [
+                {
+                    "endOffset": 3614,
+                    "startOffset": 3596
+                }
+            ],
+            "normalized": "Fondation Napol\u00e9on",
+            "type": "ORGANIZATION"
+        },
+        {
+            "confidence": 0.46317291,
+            "count": 1,
+            "entityId": "T28",
+            "mention": "Pratzen",
+            "mentionOffsets": [
+                {
+                    "endOffset": 4080,
+                    "startOffset": 4073
+                }
+            ],
+            "normalized": "Pratzen",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.82213628,
+            "count": 1,
+            "entityId": "T31",
+            "mention": "France",
+            "mentionOffsets": [
+                {
+                    "endOffset": 4580,
+                    "startOffset": 4574
+                }
+            ],
+            "normalized": "France",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.32644761,
+            "count": 1,
+            "entityId": "T35",
+            "mention": "Saint-Laurent",
+            "mentionOffsets": [
+                {
+                    "endOffset": 5911,
+                    "startOffset": 5898
+                }
+            ],
+            "normalized": "Saint-Laurent",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.23507404,
+            "count": 1,
+            "entityId": "T36",
+            "mention": "Atlantique",
+            "mentionOffsets": [
+                {
+                    "endOffset": 5945,
+                    "startOffset": 5935
+                }
+            ],
+            "normalized": "Atlantique",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.4708674,
+            "count": 1,
+            "entityId": "T37",
+            "mention": "New\nYork",
+            "mentionOffsets": [
+                {
+                    "endOffset": 5958,
+                    "startOffset": 5950
+                }
+            ],
+            "normalized": "New York",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.67682266,
+            "count": 1,
+            "entityId": "T38",
+            "mention": "Toronto",
+            "mentionOffsets": [
+                {
+                    "endOffset": 5970,
+                    "startOffset": 5963
+                }
+            ],
+            "normalized": "Toronto",
+            "type": "LOCATION"
+        },
+        {
+            "count": 1,
+            "entityId": "T41",
+            "mention": "un jour",
+            "mentionOffsets": [
+                {
+                    "endOffset": 7457,
+                    "startOffset": 7450
+                }
+            ],
+            "normalized": "un jour",
+            "type": "TEMPORAL:TIME"
+        },
+        {
+            "count": 1,
+            "entityId": "T42",
+            "mention": "juin 1958",
+            "mentionOffsets": [
+                {
+                    "endOffset": 7487,
+                    "startOffset": 7478
+                }
+            ],
+            "normalized": "juin 1958",
+            "type": "TEMPORAL:DATE"
+        },
+        {
+            "confidence": 0.81287682,
+            "count": 1,
+            "entityId": "T43",
+            "mention": "Californie",
+            "mentionOffsets": [
+                {
+                    "endOffset": 7604,
+                    "startOffset": 7594
+                }
+            ],
+            "normalized": "Californie",
+            "type": "LOCATION"
+        },
+        {
+            "count": 1,
+            "entityId": "T44",
+            "mention": "deux mois",
+            "mentionOffsets": [
+                {
+                    "endOffset": 7637,
+                    "startOffset": 7628
+                }
+            ],
+            "normalized": "deux mois",
+            "type": "TEMPORAL:TIME"
+        },
+        {
+            "confidence": 0.03793943,
+            "count": 1,
+            "entityId": "T46",
+            "mention": "Bay Area",
+            "mentionOffsets": [
+                {
+                    "endOffset": 7851,
+                    "startOffset": 7843
+                }
+            ],
+            "normalized": "Bay Area",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.41251695,
+            "count": 1,
+            "entityId": "T49",
+            "mention": "Chicago",
+            "mentionOffsets": [
+                {
+                    "endOffset": 7924,
+                    "startOffset": 7917
+                }
+            ],
+            "normalized": "Chicago",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.4677273,
+            "count": 1,
+            "entityId": "T50",
+            "mention": "Denver",
+            "mentionOffsets": [
+                {
+                    "endOffset": 7937,
+                    "startOffset": 7931
+                }
+            ],
+            "normalized": "Denver",
+            "type": "LOCATION"
+        },
+        {
+            "count": 1,
+            "entityId": "T52",
+            "mention": "1959 et",
+            "mentionOffsets": [
+                {
+                    "endOffset": 8945,
+                    "startOffset": 8938
+                }
+            ],
+            "normalized": "1959 et",
+            "type": "TEMPORAL:TIME"
+        },
+        {
+            "confidence": 0.71092987,
+            "count": 1,
+            "entityId": "T53",
+            "mention": "Saint-Exup\u00e9ry",
+            "mentionOffsets": [
+                {
+                    "endOffset": 9189,
+                    "startOffset": 9176
+                }
+            ],
+            "normalized": "Saint-Exup\u00e9ry",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.03642166,
+            "count": 1,
+            "entityId": "T54",
+            "mention": "Indes",
+            "mentionOffsets": [
+                {
+                    "endOffset": 9510,
+                    "startOffset": 9505
+                }
+            ],
+            "normalized": "Indes",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.56458032,
+            "count": 1,
+            "entityId": "T58",
+            "mention": "Canada",
+            "mentionOffsets": [
+                {
+                    "endOffset": 14607,
+                    "startOffset": 14601
+                }
+            ],
+            "normalized": "Canada",
+            "type": "LOCATION"
+        },
+        {
+            "confidence": 0.17695713,
+            "count": 1,
+            "entityId": "T59",
+            "mention": "Canada Geographic Information System",
+            "mentionOffsets": [
+                {
+                    "endOffset": 14890,
+                    "startOffset": 14854
+                }
+            ],
+            "normalized": "Canada Geographic Information System",
+            "type": "ORGANIZATION"
+        }
+    ],
+    "responseHeaders": {
+        "Connection": "keep-alive",
+        "Content-Encoding": "gzip",
+        "Content-Length": "1612",
+        "Content-Type": "application/json",
+        "Date": "Mon, 10 Dec 2018 16:19:39 GMT",
+        "Server": "openresty",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+        "Vary": "Accept-Encoding",
+        "X-RosetteAPI-App-Id": "1409618042655",
+        "X-RosetteAPI-Concurrency": "2",
+        "X-RosetteAPI-ProcessedLanguage": "fra",
+        "X-RosetteAPI-Request-Id": "7254ee1dd6964237646a2377c4d17b4b"
+    }
+}

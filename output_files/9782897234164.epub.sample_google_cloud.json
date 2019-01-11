@@ -1,0 +1,9150 @@
+{
+  "entities": [
+    {
+      "name": "force",
+      "type": "OTHER",
+      "salience": 0.0683613196015358,
+      "mentions": [
+        {
+          "text": {
+            "content": "force",
+            "beginOffset": 108
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vapeur",
+      "type": "OTHER",
+      "salience": 0.059976253658533096,
+      "mentions": [
+        {
+          "text": {
+            "content": "vapeur",
+            "beginOffset": 120
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fin",
+      "type": "OTHER",
+      "salience": 0.05494529753923416,
+      "mentions": [
+        {
+          "text": {
+            "content": "fin",
+            "beginOffset": 38
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plupart",
+      "type": "OTHER",
+      "salience": 0.05494529753923416,
+      "mentions": [
+        {
+          "text": {
+            "content": "plupart",
+            "beginOffset": 87
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "avanc\u00e9es",
+      "type": "OTHER",
+      "salience": 0.05494529753923416,
+      "mentions": [
+        {
+          "text": {
+            "content": "avanc\u00e9es",
+            "beginOffset": 152
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00c8RE",
+      "type": "PERSON",
+      "salience": 0.05494529753923416,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00c8RE",
+            "beginOffset": 4
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "inventions",
+      "type": "OTHER",
+      "salience": 0.04907124489545822,
+      "mentions": [
+        {
+          "text": {
+            "content": "inventions",
+            "beginOffset": 72
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mati\u00e8re",
+      "type": "OTHER",
+      "salience": 0.04907124489545822,
+      "mentions": [
+        {
+          "text": {
+            "content": "mati\u00e8re",
+            "beginOffset": 165
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "technologie",
+      "type": "OTHER",
+      "salience": 0.04907124489545822,
+      "mentions": [
+        {
+          "text": {
+            "content": "technologie",
+            "beginOffset": 177
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e8re",
+      "type": "OTHER",
+      "salience": 0.01889161951839924,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e8re",
+            "beginOffset": 194
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "propri\u00e9taires",
+      "type": "PERSON",
+      "salience": 0.016421310603618622,
+      "mentions": [
+        {
+          "text": {
+            "content": "propri\u00e9taires",
+            "beginOffset": 416
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.016099464148283005,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 463
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gens",
+      "type": "PERSON",
+      "salience": 0.01496434397995472,
+      "mentions": [
+        {
+          "text": {
+            "content": "gens",
+            "beginOffset": 227
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "machines",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014654513448476791,
+      "mentions": [
+        {
+          "text": {
+            "content": "machines",
+            "beginOffset": 381
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "compte",
+      "type": "OTHER",
+      "salience": 0.014325808733701706,
+      "mentions": [
+        {
+          "text": {
+            "content": "compte",
+            "beginOffset": 245
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "science",
+      "type": "OTHER",
+      "salience": 0.012481567449867725,
+      "mentions": [
+        {
+          "text": {
+            "content": "science",
+            "beginOffset": 259
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00c8RE",
+      "type": "PERSON",
+      "salience": 0.010997743345797062,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00c8RE",
+            "beginOffset": 474
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "monde",
+      "type": "LOCATION",
+      "salience": 0.009485375136137009,
+      "mentions": [
+        {
+          "text": {
+            "content": "monde",
+            "beginOffset": 315
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "argent",
+      "type": "OTHER",
+      "salience": 0.009485375136137009,
+      "mentions": [
+        {
+          "text": {
+            "content": "argent",
+            "beginOffset": 454
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Objet",
+      "type": "OTHER",
+      "salience": 0.0080845532938838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Objet",
+            "beginOffset": 508
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "particules",
+      "type": "OTHER",
+      "salience": 0.007400395814329386,
+      "mentions": [
+        {
+          "text": {
+            "content": "particules",
+            "beginOffset": 550
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "choses",
+      "type": "OTHER",
+      "salience": 0.007210685405880213,
+      "mentions": [
+        {
+          "text": {
+            "content": "choses",
+            "beginOffset": 627
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "atomes",
+      "type": "OTHER",
+      "salience": 0.007210685405880213,
+      "mentions": [
+        {
+          "text": {
+            "content": "atomes",
+            "beginOffset": 586
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maladies",
+      "type": "OTHER",
+      "salience": 0.006829509977251291,
+      "mentions": [
+        {
+          "text": {
+            "content": "maladies",
+            "beginOffset": 766
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quantit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0066029890440404415,
+      "mentions": [
+        {
+          "text": {
+            "content": "quantit\u00e9",
+            "beginOffset": 537
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectricit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0060212514363229275,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectricit\u00e9",
+            "beginOffset": 1577
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bact\u00e9rie",
+      "type": "OTHER",
+      "salience": 0.005728567950427532,
+      "mentions": [
+        {
+          "text": {
+            "content": "bact\u00e9rie",
+            "beginOffset": 660
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectricit\u00e9",
+      "type": "OTHER",
+      "salience": 0.005714702419936657,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectricit\u00e9",
+            "beginOffset": 1147
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "GLOSSAIRE",
+      "type": "PERSON",
+      "salience": 0.005622668657451868,
+      "mentions": [
+        {
+          "text": {
+            "content": "GLOSSAIRE",
+            "beginOffset": 492
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aimant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004955756012350321,
+      "mentions": [
+        {
+          "text": {
+            "content": "aimant",
+            "beginOffset": 1119
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectricit\u00e9",
+      "type": "OTHER",
+      "salience": 0.004880136344581842,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectricit\u00e9",
+            "beginOffset": 1389
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cellule",
+      "type": "OTHER",
+      "salience": 0.0046783857978880405,
+      "mentions": [
+        {
+          "text": {
+            "content": "cellule",
+            "beginOffset": 713
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouvement",
+      "type": "OTHER",
+      "salience": 0.004163948819041252,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouvement",
+            "beginOffset": 1174
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boussole",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004053574055433273,
+      "mentions": [
+        {
+          "text": {
+            "content": "boussole",
+            "beginOffset": 850
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectron",
+      "type": "PERSON",
+      "salience": 0.004000031389296055,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectron",
+            "beginOffset": 1626
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ment",
+      "type": "OTHER",
+      "salience": 0.0039606234058737755,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ment",
+            "beginOffset": 1697
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Terre",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02j71",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Earth"
+      },
+      "salience": 0.0038008380215615034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terre",
+            "beginOffset": 1085
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Terre",
+            "beginOffset": 2594
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Terre",
+            "beginOffset": 7811
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Terre",
+            "beginOffset": 8808
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Terre",
+            "beginOffset": 15556
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dynamo",
+      "type": "OTHER",
+      "salience": 0.0037690005265176296,
+      "mentions": [
+        {
+          "text": {
+            "content": "dynamo",
+            "beginOffset": 1093
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.0037578875198960304,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 1818
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boussole",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003638851922005415,
+      "mentions": [
+        {
+          "text": {
+            "content": "boussole",
+            "beginOffset": 913
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fin",
+      "type": "OTHER",
+      "salience": 0.003638851922005415,
+      "mentions": [
+        {
+          "text": {
+            "content": "fin",
+            "beginOffset": 970
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "origine",
+      "type": "OTHER",
+      "salience": 0.0034742977004498243,
+      "mentions": [
+        {
+          "text": {
+            "content": "origine",
+            "beginOffset": 755
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coqueluche",
+      "type": "OTHER",
+      "salience": 0.0034742977004498243,
+      "mentions": [
+        {
+          "text": {
+            "content": "coqueluche",
+            "beginOffset": 837
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "t\u00e9tanos",
+      "type": "OTHER",
+      "salience": 0.0034742977004498243,
+      "mentions": [
+        {
+          "text": {
+            "content": "t\u00e9tanos",
+            "beginOffset": 822
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "intoxications",
+      "type": "OTHER",
+      "salience": 0.0034742977004498243,
+      "mentions": [
+        {
+          "text": {
+            "content": "intoxications",
+            "beginOffset": 791
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dynamo",
+      "type": "OTHER",
+      "salience": 0.003472279291599989,
+      "mentions": [
+        {
+          "text": {
+            "content": "dynamo",
+            "beginOffset": 1285
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bact\u00e9ries",
+      "type": "OTHER",
+      "salience": 0.0034168518614023924,
+      "mentions": [
+        {
+          "text": {
+            "content": "bact\u00e9ries",
+            "beginOffset": 732
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aimant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003246515756472945,
+      "mentions": [
+        {
+          "text": {
+            "content": "aimant",
+            "beginOffset": 955
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.003221440128982067,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 1831
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dynamos",
+      "type": "OTHER",
+      "salience": 0.0032184128649532795,
+      "mentions": [
+        {
+          "text": {
+            "content": "dynamos",
+            "beginOffset": 1297
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Instrument",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+        "mid": "/m/04szw"
+      },
+      "salience": 0.003164000576362014,
+      "mentions": [
+        {
+          "text": {
+            "content": "Instrument",
+            "beginOffset": 859
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectrons",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0030939995776861906,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectrons",
+            "beginOffset": 1684
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "voyageurs",
+      "type": "PERSON",
+      "salience": 0.0030793650075793266,
+      "mentions": [
+        {
+          "text": {
+            "content": "voyageurs",
+            "beginOffset": 882
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vapeur",
+      "type": "OTHER",
+      "salience": 0.0030385246500372887,
+      "mentions": [
+        {
+          "text": {
+            "content": "vapeur",
+            "beginOffset": 1250
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sorte",
+      "type": "OTHER",
+      "salience": 0.002944484120234847,
+      "mentions": [
+        {
+          "text": {
+            "content": "sorte",
+            "beginOffset": 1033
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Engin",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://fr.wikipedia.org/wiki/Engin",
+        "mid": "/g/11jgdv7qd"
+      },
+      "salience": 0.002885465044528246,
+      "mentions": [
+        {
+          "text": {
+            "content": "Engin",
+            "beginOffset": 1100
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Engin",
+            "beginOffset": 1420
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Engin",
+            "beginOffset": 2943
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fil",
+      "type": "OTHER",
+      "salience": 0.00282092671841383,
+      "mentions": [
+        {
+          "text": {
+            "content": "fil",
+            "beginOffset": 1493
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cours",
+      "type": "OTHER",
+      "salience": 0.0027811694890260696,
+      "mentions": [
+        {
+          "text": {
+            "content": "cours",
+            "beginOffset": 1218
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "esp\u00e8ces",
+      "type": "OTHER",
+      "salience": 0.002651611343026161,
+      "mentions": [
+        {
+          "text": {
+            "content": "esp\u00e8ces",
+            "beginOffset": 2002
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "magn\u00e9tisme",
+      "type": "OTHER",
+      "salience": 0.0026404226664453745,
+      "mentions": [
+        {
+          "text": {
+            "content": "magn\u00e9tisme",
+            "beginOffset": 1601
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectricit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0025927165988832712,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectricit\u00e9",
+            "beginOffset": 1442
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectroaimant",
+      "type": "PERSON",
+      "salience": 0.0025927165988832712,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectroaimant",
+            "beginOffset": 1405
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sud",
+      "type": "LOCATION",
+      "salience": 0.0025070763658732176,
+      "mentions": [
+        {
+          "text": {
+            "content": "sud",
+            "beginOffset": 1075
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "p\u00f4les",
+      "type": "OTHER",
+      "salience": 0.0025070763658732176,
+      "mentions": [
+        {
+          "text": {
+            "content": "p\u00f4les",
+            "beginOffset": 1060
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eau",
+      "type": "OTHER",
+      "salience": 0.002481265226379037,
+      "mentions": [
+        {
+          "text": {
+            "content": "eau",
+            "beginOffset": 1228
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roue",
+      "type": "OTHER",
+      "salience": 0.002481265226379037,
+      "mentions": [
+        {
+          "text": {
+            "content": "roue",
+            "beginOffset": 1272
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9volution",
+      "type": "EVENT",
+      "salience": 0.0024666294921189547,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9volution",
+            "beginOffset": 1957
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fer",
+      "type": "OTHER",
+      "salience": 0.002401865553110838,
+      "mentions": [
+        {
+          "text": {
+            "content": "fer",
+            "beginOffset": 1500
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "substance",
+      "type": "OTHER",
+      "salience": 0.0023537150118499994,
+      "mentions": [
+        {
+          "text": {
+            "content": "substance",
+            "beginOffset": 1711
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "substances",
+      "type": "OTHER",
+      "salience": 0.0023537150118499994,
+      "mentions": [
+        {
+          "text": {
+            "content": "substances",
+            "beginOffset": 1766
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouvement",
+      "type": "EVENT",
+      "salience": 0.002346970373764634,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouvement",
+            "beginOffset": 1945
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "atomes",
+      "type": "OTHER",
+      "salience": 0.002340237842872739,
+      "mentions": [
+        {
+          "text": {
+            "content": "atomes",
+            "beginOffset": 1661
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "substance",
+      "type": "OTHER",
+      "salience": 0.002124293940141797,
+      "mentions": [
+        {
+          "text": {
+            "content": "substance",
+            "beginOffset": 1887
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vent",
+      "type": "OTHER",
+      "salience": 0.00211264262907207,
+      "mentions": [
+        {
+          "text": {
+            "content": "vent",
+            "beginOffset": 1236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "objets",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001858870848082006,
+      "mentions": [
+        {
+          "text": {
+            "content": "objets",
+            "beginOffset": 1865
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chaleur",
+      "type": "OTHER",
+      "salience": 0.001858870848082006,
+      "mentions": [
+        {
+          "text": {
+            "content": "chaleur",
+            "beginOffset": 1915
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lumi\u00e8re",
+      "type": "OTHER",
+      "salience": 0.001858870848082006,
+      "mentions": [
+        {
+          "text": {
+            "content": "lumi\u00e8re",
+            "beginOffset": 1930
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "acier",
+      "type": "OTHER",
+      "salience": 0.0018244835082441568,
+      "mentions": [
+        {
+          "text": {
+            "content": "acier",
+            "beginOffset": 1536
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tige",
+      "type": "OTHER",
+      "salience": 0.0018244835082441568,
+      "mentions": [
+        {
+          "text": {
+            "content": "tige",
+            "beginOffset": 1527
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bobine",
+      "type": "OTHER",
+      "salience": 0.0018244835082441568,
+      "mentions": [
+        {
+          "text": {
+            "content": "bobine",
+            "beginOffset": 1483
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fer",
+      "type": "OTHER",
+      "salience": 0.001788630150258541,
+      "mentions": [
+        {
+          "text": {
+            "content": "fer",
+            "beginOffset": 1791
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Capacit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0014884300762787461,
+      "mentions": [
+        {
+          "text": {
+            "content": "Capacit\u00e9",
+            "beginOffset": 1840
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectricit\u00e9",
+      "type": "OTHER",
+      "salience": 0.001298504532314837,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectricit\u00e9",
+            "beginOffset": 3918
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9volution",
+      "type": "OTHER",
+      "salience": 0.001257602940313518,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9volution",
+            "beginOffset": 2092
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moteurs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0011387219419702888,
+      "mentions": [
+        {
+          "text": {
+            "content": "moteurs",
+            "beginOffset": 3020
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ment",
+      "type": "OTHER",
+      "salience": 0.0010897568427026272,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ment",
+            "beginOffset": 3160
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maladie",
+      "type": "OTHER",
+      "salience": 0.0010198185918852687,
+      "mentions": [
+        {
+          "text": {
+            "content": "maladie",
+            "beginOffset": 2523
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9n\u00e9rations",
+      "type": "OTHER",
+      "salience": 0.000966532330494374,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9n\u00e9rations",
+            "beginOffset": 2175
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "changements",
+      "type": "EVENT",
+      "salience": 0.000966532330494374,
+      "mentions": [
+        {
+          "text": {
+            "content": "changements",
+            "beginOffset": 2203
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "esp\u00e8ces",
+      "type": "OTHER",
+      "salience": 0.0009515723213553429,
+      "mentions": [
+        {
+          "text": {
+            "content": "esp\u00e8ces",
+            "beginOffset": 2065
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poids",
+      "type": "OTHER",
+      "salience": 0.0009408853366039693,
+      "mentions": [
+        {
+          "text": {
+            "content": "poids",
+            "beginOffset": 2660
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "or",
+      "type": "OTHER",
+      "salience": 0.0009289192967116833,
+      "mentions": [
+        {
+          "text": {
+            "content": "or",
+            "beginOffset": 1782
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e8ne",
+      "type": "OTHER",
+      "salience": 0.0009252774179913104,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e8ne",
+            "beginOffset": 2242
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "autres",
+      "type": "PERSON",
+      "salience": 0.0009252774179913104,
+      "mentions": [
+        {
+          "text": {
+            "content": "autres",
+            "beginOffset": 2292
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corps",
+      "type": "OTHER",
+      "salience": 0.0009089743252843618,
+      "mentions": [
+        {
+          "text": {
+            "content": "corps",
+            "beginOffset": 2364
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aimant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0009060977608896792,
+      "mentions": [
+        {
+          "text": {
+            "content": "aimant",
+            "beginOffset": 2964
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00c9LECTROMAGN\u00c9TISME",
+      "type": "OTHER",
+      "salience": 0.0008532002684660256,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00c9LECTROMAGN\u00c9TISME",
+            "beginOffset": 3554
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maladies",
+      "type": "OTHER",
+      "salience": 0.0008515871595591307,
+      "mentions": [
+        {
+          "text": {
+            "content": "maladies",
+            "beginOffset": 2881
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maladies",
+      "type": "OTHER",
+      "salience": 0.0008515871595591307,
+      "mentions": [
+        {
+          "text": {
+            "content": "maladies",
+            "beginOffset": 2845
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectricit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0008105681627057493,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectricit\u00e9",
+            "beginOffset": 3765
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectroaimant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008105681627057493,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectroaimant",
+            "beginOffset": 3816
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.0008019800297915936,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 3545
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moisissure",
+      "type": "OTHER",
+      "salience": 0.000801827001851052,
+      "mentions": [
+        {
+          "text": {
+            "content": "moisissure",
+            "beginOffset": 2486
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectricit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0007907928084023297,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectricit\u00e9",
+            "beginOffset": 4039
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plantes",
+      "type": "OTHER",
+      "salience": 0.0007731168298050761,
+      "mentions": [
+        {
+          "text": {
+            "content": "plantes",
+            "beginOffset": 2914
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quelque chose",
+      "type": "OTHER",
+      "salience": 0.0007714022067375481,
+      "mentions": [
+        {
+          "text": {
+            "content": "quelque chose",
+            "beginOffset": 2575
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bact\u00e9rie",
+      "type": "OTHER",
+      "salience": 0.0007458721520379186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bact\u00e9rie",
+            "beginOffset": 2466
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chose",
+      "type": "OTHER",
+      "salience": 0.0007431767298839986,
+      "mentions": [
+        {
+          "text": {
+            "content": "chose",
+            "beginOffset": 2610
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mani\u00e8re",
+      "type": "OTHER",
+      "salience": 0.0007410442340187728,
+      "mentions": [
+        {
+          "text": {
+            "content": "mani\u00e8re",
+            "beginOffset": 2333
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moisissure",
+      "type": "OTHER",
+      "salience": 0.0007169212913140655,
+      "mentions": [
+        {
+          "text": {
+            "content": "moisissure",
+            "beginOffset": 2678
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maladies",
+      "type": "OTHER",
+      "salience": 0.0007103463285602629,
+      "mentions": [
+        {
+          "text": {
+            "content": "maladies",
+            "beginOffset": 3444
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moisissure",
+      "type": "OTHER",
+      "salience": 0.0006924369954504073,
+      "mentions": [
+        {
+          "text": {
+            "content": "moisissure",
+            "beginOffset": 2795
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "processus",
+      "type": "OTHER",
+      "salience": 0.0006905857590027153,
+      "mentions": [
+        {
+          "text": {
+            "content": "processus",
+            "beginOffset": 2136
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "virus",
+      "type": "OTHER",
+      "salience": 0.0006826742319390178,
+      "mentions": [
+        {
+          "text": {
+            "content": "virus",
+            "beginOffset": 2477
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e8ne",
+      "type": "OTHER",
+      "salience": 0.0006699557998217642,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e8ne",
+            "beginOffset": 2395
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moisissures",
+      "type": "OTHER",
+      "salience": 0.0006695514894090593,
+      "mentions": [
+        {
+          "text": {
+            "content": "moisissures",
+            "beginOffset": 2821
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moteur",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0006481134332716465,
+      "mentions": [
+        {
+          "text": {
+            "content": "moteur",
+            "beginOffset": 2924
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectricit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0006381240673363209,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectricit\u00e9",
+            "beginOffset": 3659
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "atome",
+      "type": "OTHER",
+      "salience": 0.0006090652314014733,
+      "mentions": [
+        {
+          "text": {
+            "content": "atome",
+            "beginOffset": 3138
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0005937254172749817,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 3486
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Quelque chose",
+      "type": "OTHER",
+      "salience": 0.0005912345950491726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quelque chose",
+            "beginOffset": 3178
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "masse",
+      "type": "OTHER",
+      "salience": 0.0005859232624061406,
+      "mentions": [
+        {
+          "text": {
+            "content": "masse",
+            "beginOffset": 2533
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Quantit\u00e9 de mati\u00e8re",
+      "type": "OTHER",
+      "salience": 0.0005859232624061406,
+      "mentions": [
+        {
+          "text": {
+            "content": "Quantit\u00e9 de mati\u00e8re",
+            "beginOffset": 2539
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plupart",
+      "type": "OTHER",
+      "salience": 0.0005700530018657446,
+      "mentions": [
+        {
+          "text": {
+            "content": "plupart",
+            "beginOffset": 2869
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "masse",
+      "type": "OTHER",
+      "salience": 0.0005644837510772049,
+      "mentions": [
+        {
+          "text": {
+            "content": "masse",
+            "beginOffset": 2629
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "informations",
+      "type": "OTHER",
+      "salience": 0.000562863948289305,
+      "mentions": [
+        {
+          "text": {
+            "content": "informations",
+            "beginOffset": 2313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "acides",
+      "type": "OTHER",
+      "salience": 0.000562863948289305,
+      "mentions": [
+        {
+          "text": {
+            "content": "acides",
+            "beginOffset": 2259
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "porteuse",
+      "type": "PERSON",
+      "salience": 0.000562863948289305,
+      "mentions": [
+        {
+          "text": {
+            "content": "porteuse",
+            "beginOffset": 2300
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "uns",
+      "type": "PERSON",
+      "salience": 0.000562863948289305,
+      "mentions": [
+        {
+          "text": {
+            "content": "uns",
+            "beginOffset": 2284
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "S\u00e9rie",
+      "type": "WORK_OF_ART",
+      "salience": 0.000562863948289305,
+      "mentions": [
+        {
+          "text": {
+            "content": "S\u00e9rie",
+            "beginOffset": 2248
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sorte",
+      "type": "OTHER",
+      "salience": 0.0005618994473479688,
+      "mentions": [
+        {
+          "text": {
+            "content": "sorte",
+            "beginOffset": 2786
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectricit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0005577749107033014,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectricit\u00e9",
+            "beginOffset": 5395
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "courroie",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0005518004181794822,
+      "mentions": [
+        {
+          "text": {
+            "content": "courroie",
+            "beginOffset": 2994
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moteur",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0005506273009814322,
+      "mentions": [
+        {
+          "text": {
+            "content": "moteur",
+            "beginOffset": 3870
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Type",
+      "type": "OTHER",
+      "salience": 0.0005445406422950327,
+      "mentions": [
+        {
+          "text": {
+            "content": "Type",
+            "beginOffset": 2689
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mol\u00e9cule",
+      "type": "OTHER",
+      "salience": 0.0005397978238761425,
+      "mentions": [
+        {
+          "text": {
+            "content": "mol\u00e9cule",
+            "beginOffset": 2440
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ADN",
+      "type": "OTHER",
+      "salience": 0.0005397978238761425,
+      "mentions": [
+        {
+          "text": {
+            "content": "ADN",
+            "beginOffset": 2454
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dynamo",
+      "type": "OTHER",
+      "salience": 0.000521387904882431,
+      "mentions": [
+        {
+          "text": {
+            "content": "dynamo",
+            "beginOffset": 4000
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boutons",
+      "type": "OTHER",
+      "salience": 0.0005195232224650681,
+      "mentions": [
+        {
+          "text": {
+            "content": "boutons",
+            "beginOffset": 3524
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nombre",
+      "type": "OTHER",
+      "salience": 0.0005185544723644853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nombre",
+            "beginOffset": 3116
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "scientifiques",
+      "type": "PERSON",
+      "salience": 0.0005094098742119968,
+      "mentions": [
+        {
+          "text": {
+            "content": "scientifiques",
+            "beginOffset": 3623
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "machine",
+      "type": "OTHER",
+      "salience": 0.0004904532106593251,
+      "mentions": [
+        {
+          "text": {
+            "content": "machine",
+            "beginOffset": 3894
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "magn\u00e9tisme",
+      "type": "OTHER",
+      "salience": 0.0004904532106593251,
+      "mentions": [
+        {
+          "text": {
+            "content": "magn\u00e9tisme",
+            "beginOffset": 3938
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quelque chose",
+      "type": "OTHER",
+      "salience": 0.0004904532106593251,
+      "mentions": [
+        {
+          "text": {
+            "content": "quelque chose",
+            "beginOffset": 3968
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.0004894185694865882,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 5532
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "virus",
+      "type": "OTHER",
+      "salience": 0.0004890458076260984,
+      "mentions": [
+        {
+          "text": {
+            "content": "virus",
+            "beginOffset": 3329
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectricit\u00e9",
+      "type": "OTHER",
+      "salience": 0.0004873638099525124,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectricit\u00e9",
+            "beginOffset": 4315
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roue",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00047699082642793655,
+      "mentions": [
+        {
+          "text": {
+            "content": "roue",
+            "beginOffset": 3092
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "virus",
+      "type": "OTHER",
+      "salience": 0.00047550222370773554,
+      "mentions": [
+        {
+          "text": {
+            "content": "virus",
+            "beginOffset": 3475
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectroaimants",
+      "type": "PERSON",
+      "salience": 0.00046611737343482673,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectroaimants",
+            "beginOffset": 4462
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "h\u00f4te",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00046361779095605016,
+      "mentions": [
+        {
+          "text": {
+            "content": "h\u00f4te",
+            "beginOffset": 2733
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "salience": 0.0004538155917543918,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 3220
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "section",
+      "type": "OTHER",
+      "salience": 0.00045003934064880013,
+      "mentions": [
+        {
+          "text": {
+            "content": "section",
+            "beginOffset": 2424
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "yeux",
+      "type": "OTHER",
+      "salience": 0.00044907224946655333,
+      "mentions": [
+        {
+          "text": {
+            "content": "yeux",
+            "beginOffset": 3262
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taches de rousseur",
+      "type": "OTHER",
+      "salience": 0.00044907224946655333,
+      "mentions": [
+        {
+          "text": {
+            "content": "taches de rousseur",
+            "beginOffset": 3308
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9couvertes",
+      "type": "EVENT",
+      "salience": 0.0004453531582839787,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9couvertes",
+            "beginOffset": 4103
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouvement",
+      "type": "EVENT",
+      "salience": 0.0004421673947945237,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouvement",
+            "beginOffset": 4026
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Michael Faraday",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Faraday",
+        "mid": "/m/04zt0"
+      },
+      "salience": 0.00043978000758215785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael Faraday",
+            "beginOffset": 3732
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Faraday",
+            "beginOffset": 4119
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Michael Faraday",
+            "beginOffset": 4644
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Faraday",
+            "beginOffset": 4685
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Faraday",
+            "beginOffset": 5372
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "boussoles",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00043898189323954284,
+      "mentions": [
+        {
+          "text": {
+            "content": "boussoles",
+            "beginOffset": 3712
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aimant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00042801033123396337,
+      "mentions": [
+        {
+          "text": {
+            "content": "aimant",
+            "beginOffset": 3797
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectroaimant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00042023338028229773,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectroaimant",
+            "beginOffset": 4819
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dynamos",
+      "type": "OTHER",
+      "salience": 0.00041862664511427283,
+      "mentions": [
+        {
+          "text": {
+            "content": "dynamos",
+            "beginOffset": 4278
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.0004175131325609982,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 4637
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "but",
+      "type": "OTHER",
+      "salience": 0.0004061056242790073,
+      "mentions": [
+        {
+          "text": {
+            "content": "but",
+            "beginOffset": 3067
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.0003989817632827908,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 6725
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "traits",
+      "type": "OTHER",
+      "salience": 0.0003976296284236014,
+      "mentions": [
+        {
+          "text": {
+            "content": "traits",
+            "beginOffset": 13096
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "num\u00e9ro",
+      "type": "OTHER",
+      "salience": 0.0003938667941838503,
+      "mentions": [
+        {
+          "text": {
+            "content": "num\u00e9ro",
+            "beginOffset": 3099
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "protons",
+      "type": "OTHER",
+      "salience": 0.0003938667941838503,
+      "mentions": [
+        {
+          "text": {
+            "content": "protons",
+            "beginOffset": 3126
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectroaimant",
+      "type": "PERSON",
+      "salience": 0.00038749861414544284,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectroaimant",
+            "beginOffset": 5287
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.00038286802009679377,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 5820
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "machine",
+      "type": "OTHER",
+      "salience": 0.00038249435601755977,
+      "mentions": [
+        {
+          "text": {
+            "content": "machine",
+            "beginOffset": 4712
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enfants",
+      "type": "PERSON",
+      "salience": 0.0003823357110377401,
+      "mentions": [
+        {
+          "text": {
+            "content": "enfants",
+            "beginOffset": 3232
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "couleur",
+      "type": "OTHER",
+      "salience": 0.0003823357110377401,
+      "mentions": [
+        {
+          "text": {
+            "content": "couleur",
+            "beginOffset": 3250
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grippe",
+      "type": "OTHER",
+      "salience": 0.0003611658758018166,
+      "mentions": [
+        {
+          "text": {
+            "content": "grippe",
+            "beginOffset": 3510
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rougeole",
+      "type": "OTHER",
+      "salience": 0.0003611658758018166,
+      "mentions": [
+        {
+          "text": {
+            "content": "rougeole",
+            "beginOffset": 3497
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fi\u00e8vre",
+      "type": "OTHER",
+      "salience": 0.0003611658758018166,
+      "mentions": [
+        {
+          "text": {
+            "content": "fi\u00e8vre",
+            "beginOffset": 3535
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moteurs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0003530413086991757,
+      "mentions": [
+        {
+          "text": {
+            "content": "moteurs",
+            "beginOffset": 4144
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fait",
+      "type": "OTHER",
+      "salience": 0.00034469354432076216,
+      "mentions": [
+        {
+          "text": {
+            "content": "fait",
+            "beginOffset": 3271
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sacs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00033492769580334425,
+      "mentions": [
+        {
+          "text": {
+            "content": "sacs",
+            "beginOffset": 9340
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00c9NERGIE",
+      "type": "OTHER",
+      "salience": 0.00033431267365813255,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00c9NERGIE",
+            "beginOffset": 5500
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9but",
+      "type": "OTHER",
+      "salience": 0.000333426462020725,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9but",
+            "beginOffset": 3596
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aiguilles",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000333426462020725,
+      "mentions": [
+        {
+          "text": {
+            "content": "aiguilles",
+            "beginOffset": 3698
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "machines",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00033227665699087083,
+      "mentions": [
+        {
+          "text": {
+            "content": "machines",
+            "beginOffset": 6209
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "technologie",
+      "type": "OTHER",
+      "salience": 0.0003293027402833104,
+      "mentions": [
+        {
+          "text": {
+            "content": "technologie",
+            "beginOffset": 4073
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9lectricit\u00e9",
+      "type": "OTHER",
+      "salience": 0.00032904205727390945,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9lectricit\u00e9",
+            "beginOffset": 4739
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Esp\u00e8ce de substance chimique minuscule et complexe qui se conduit comme un \u00eatre vivant autonome",
+      "type": "OTHER",
+      "salience": 0.00032494746847078204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Esp\u00e8ce de substance chimique minuscule et complexe qui se conduit comme un\n\u00eatre vivant autonome",
+            "beginOffset": 3335
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.00032408698461949825,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 5708
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00c9L\u00c9MENTS",
+      "type": "OTHER",
+      "salience": 0.0003240409423597157,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00c9L\u00c9MENTS",
+            "beginOffset": 13827
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Concours des traits",
+      "type": "WORK_OF_ART",
+      "salience": 0.0003233370662201196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Concours des traits",
+            "beginOffset": 12992
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.000323096988722682,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 8736
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.0003159455955028534,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 5365
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.00031446132925339043,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 5979
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouvement",
+      "type": "OTHER",
+      "salience": 0.0003122710040770471,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouvement",
+            "beginOffset": 4774
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.00030791808967478573,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 12853
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "champignons",
+      "type": "OTHER",
+      "salience": 0.0003061421448364854,
+      "mentions": [
+        {
+          "text": {
+            "content": "champignons",
+            "beginOffset": 2765
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "atomes",
+      "type": "OTHER",
+      "salience": 0.0002890814794227481,
+      "mentions": [
+        {
+          "text": {
+            "content": "atomes",
+            "beginOffset": 4628
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9sum\u00e9",
+      "type": "OTHER",
+      "salience": 0.0002884290006477386,
+      "mentions": [
+        {
+          "text": {
+            "content": "R\u00e9sum\u00e9",
+            "beginOffset": 4661
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.00028766129980795085,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 9407
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.00028715698863379657,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 6419
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.00028715698863379657,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 6387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.000283179891994223,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 6492
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.00028119850321672857,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 13334
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.00027931018848903477,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 6644
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.00027931018848903477,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 6586
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.0002717517490964383,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 13603
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9hicules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00026814971351996064,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9hicules",
+            "beginOffset": 4187
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "magn\u00e9tisme",
+      "type": "OTHER",
+      "salience": 0.0002658634621184319,
+      "mentions": [
+        {
+          "text": {
+            "content": "magn\u00e9tisme",
+            "beginOffset": 4759
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.00026482276734896004,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 6803
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "traits",
+      "type": "OTHER",
+      "salience": 0.00026387430261820555,
+      "mentions": [
+        {
+          "text": {
+            "content": "traits",
+            "beginOffset": 12362
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "savants",
+      "type": "PERSON",
+      "salience": 0.00026336326845921576,
+      "mentions": [
+        {
+          "text": {
+            "content": "savants",
+            "beginOffset": 4602
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "GERMES",
+      "type": "OTHER",
+      "salience": 0.0002601474989205599,
+      "mentions": [
+        {
+          "text": {
+            "content": "GERMES",
+            "beginOffset": 9558
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "traits",
+      "type": "OTHER",
+      "salience": 0.0002588567149359733,
+      "mentions": [
+        {
+          "text": {
+            "content": "traits",
+            "beginOffset": 13578
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "traits",
+      "type": "OTHER",
+      "salience": 0.00025880380417220294,
+      "mentions": [
+        {
+          "text": {
+            "content": "traits",
+            "beginOffset": 12757
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.00025567671400494874,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 15514
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergies",
+      "type": "OTHER",
+      "salience": 0.0002548958291299641,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergies",
+            "beginOffset": 6991
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.0002521948772482574,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 6690
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.0002517483080737293,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 7106
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.0002517483080737293,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 7073
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "traits",
+      "type": "OTHER",
+      "salience": 0.00025076771271415055,
+      "mentions": [
+        {
+          "text": {
+            "content": "traits",
+            "beginOffset": 12942
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fil",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0002507336903363466,
+      "mentions": [
+        {
+          "text": {
+            "content": "fil",
+            "beginOffset": 4853
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.00025018767337314785,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 14384
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.00024867660249583423,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 7150
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tournevis",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00024606165243312716,
+      "mentions": [
+        {
+          "text": {
+            "content": "tournevis",
+            "beginOffset": 4914
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.00024567803484387696,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 7216
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.00024330274027306587,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 13877
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0002426867577014491,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 8374
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chances",
+      "type": "OTHER",
+      "salience": 0.0002426867577014491,
+      "mentions": [
+        {
+          "text": {
+            "content": "chances",
+            "beginOffset": 8478
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mission",
+      "type": "EVENT",
+      "salience": 0.00024243471852969378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mission",
+            "beginOffset": 4786
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.00024197620223276317,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 14008
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "proies",
+      "type": "OTHER",
+      "salience": 0.00024184577341657132,
+      "mentions": [
+        {
+          "text": {
+            "content": "proies",
+            "beginOffset": 9031
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.0002406639396212995,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 14192
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouvement",
+      "type": "OTHER",
+      "salience": 0.0002397456846665591,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouvement",
+            "beginOffset": 5621
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "son",
+      "type": "OTHER",
+      "salience": 0.0002397456846665591,
+      "mentions": [
+        {
+          "text": {
+            "content": "son",
+            "beginOffset": 5667
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.00023936558864079416,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 14298
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cachettes",
+      "type": "OTHER",
+      "salience": 0.00023725595383439213,
+      "mentions": [
+        {
+          "text": {
+            "content": "cachettes",
+            "beginOffset": 9180
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maladie",
+      "type": "OTHER",
+      "salience": 0.00023706498905085027,
+      "mentions": [
+        {
+          "text": {
+            "content": "maladie",
+            "beginOffset": 9825
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.0002368099958403036,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 14453
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "autre",
+      "type": "OTHER",
+      "salience": 0.00023677732679061592,
+      "mentions": [
+        {
+          "text": {
+            "content": "autre",
+            "beginOffset": 11985
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moteur",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00023650431830901653,
+      "mentions": [
+        {
+          "text": {
+            "content": "moteur",
+            "beginOffset": 5454
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.00023555236111860722,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 14618
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9n\u00e9ration",
+      "type": "OTHER",
+      "salience": 0.00023515107750426978,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9n\u00e9ration",
+            "beginOffset": 8662
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "autre",
+      "type": "PERSON",
+      "salience": 0.00023515107750426978,
+      "mentions": [
+        {
+          "text": {
+            "content": "autre",
+            "beginOffset": 8682
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00eatres vivants",
+      "type": "OTHER",
+      "salience": 0.00023515107750426978,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00eatres vivants",
+            "beginOffset": 8702
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jouets",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0002349277347093448,
+      "mentions": [
+        {
+          "text": {
+            "content": "jouets",
+            "beginOffset": 4257
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "outils",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0002349277347093448,
+      "mentions": [
+        {
+          "text": {
+            "content": "outils",
+            "beginOffset": 4223
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.00023430780856870115,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 14740
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.00023430780856870115,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 14719
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.0002330760908080265,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 14856
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tournevis",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00023302383488044143,
+      "mentions": [
+        {
+          "text": {
+            "content": "tournevis",
+            "beginOffset": 5011
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fil",
+      "type": "OTHER",
+      "salience": 0.00023302383488044143,
+      "mentions": [
+        {
+          "text": {
+            "content": "fil",
+            "beginOffset": 4997
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e8nes",
+      "type": "OTHER",
+      "salience": 0.00023208075435832143,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e8nes",
+            "beginOffset": 12261
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chacun",
+      "type": "OTHER",
+      "salience": 0.00023199243878480047,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chacun",
+            "beginOffset": 9054
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "salience": 0.0002307507093064487,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 8240
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e8nes",
+      "type": "OTHER",
+      "salience": 0.0002305558300577104,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e8nes",
+            "beginOffset": 12273
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e8nes",
+      "type": "OTHER",
+      "salience": 0.0002305558300577104,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e8nes",
+            "beginOffset": 12320
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "transmission",
+      "type": "EVENT",
+      "salience": 0.00022951833670958877,
+      "mentions": [
+        {
+          "text": {
+            "content": "transmission",
+            "beginOffset": 12925
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "autre",
+      "type": "PERSON",
+      "salience": 0.00022905065270606428,
+      "mentions": [
+        {
+          "text": {
+            "content": "autre",
+            "beginOffset": 12389
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fil",
+      "type": "OTHER",
+      "salience": 0.00022897605958860368,
+      "mentions": [
+        {
+          "text": {
+            "content": "fil",
+            "beginOffset": 5108
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trait",
+      "type": "OTHER",
+      "salience": 0.00022807055211160332,
+      "mentions": [
+        {
+          "text": {
+            "content": "trait",
+            "beginOffset": 13514
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9sum\u00e9",
+      "type": "OTHER",
+      "salience": 0.00022806409106124192,
+      "mentions": [
+        {
+          "text": {
+            "content": "R\u00e9sum\u00e9",
+            "beginOffset": 8759
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e8nes",
+      "type": "OTHER",
+      "salience": 0.00022756477119401097,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e8nes",
+            "beginOffset": 12510
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sac",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0002267891395604238,
+      "mentions": [
+        {
+          "text": {
+            "content": "sac",
+            "beginOffset": 9203
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "point",
+      "type": "OTHER",
+      "salience": 0.00022635242203250527,
+      "mentions": [
+        {
+          "text": {
+            "content": "point",
+            "beginOffset": 4702
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.0002259469183627516,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 15143
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tour",
+      "type": "OTHER",
+      "salience": 0.0002258749445900321,
+      "mentions": [
+        {
+          "text": {
+            "content": "tour",
+            "beginOffset": 8591
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00eatres vivants",
+      "type": "OTHER",
+      "salience": 0.00022579464712180197,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00eatres vivants",
+            "beginOffset": 8787
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sac",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00022531801369041204,
+      "mentions": [
+        {
+          "text": {
+            "content": "sac",
+            "beginOffset": 13189
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "formes",
+      "type": "OTHER",
+      "salience": 0.0002252986450912431,
+      "mentions": [
+        {
+          "text": {
+            "content": "formes",
+            "beginOffset": 5697
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fil",
+      "type": "OTHER",
+      "salience": 0.00022506491222884506,
+      "mentions": [
+        {
+          "text": {
+            "content": "fil",
+            "beginOffset": 5202
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.00022480035840999335,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 15193
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chances",
+      "type": "OTHER",
+      "salience": 0.00022464928042609245,
+      "mentions": [
+        {
+          "text": {
+            "content": "chances",
+            "beginOffset": 12733
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "centrales \u00e9lectriques",
+      "type": "ORGANIZATION",
+      "salience": 0.0002244631468784064,
+      "mentions": [
+        {
+          "text": {
+            "content": "centrales \u00e9lectriques",
+            "beginOffset": 4390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trait",
+      "type": "OTHER",
+      "salience": 0.0002242594928247854,
+      "mentions": [
+        {
+          "text": {
+            "content": "trait",
+            "beginOffset": 13716
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dynamo",
+      "type": "OTHER",
+      "salience": 0.00022394479310605675,
+      "mentions": [
+        {
+          "text": {
+            "content": "dynamo",
+            "beginOffset": 5489
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.0002236651926068589,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 15300
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ment",
+      "type": "OTHER",
+      "salience": 0.0002236651926068589,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ment",
+            "beginOffset": 15258
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parent",
+      "type": "PERSON",
+      "salience": 0.00022272828209679574,
+      "mentions": [
+        {
+          "text": {
+            "content": "parent",
+            "beginOffset": 11958
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ment",
+      "type": "OTHER",
+      "salience": 0.00022254142095334828,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ment",
+            "beginOffset": 15333
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "forme",
+      "type": "OTHER",
+      "salience": 0.00022190302843227983,
+      "mentions": [
+        {
+          "text": {
+            "content": "forme",
+            "beginOffset": 5907
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "formes",
+      "type": "OTHER",
+      "salience": 0.00022190302843227983,
+      "mentions": [
+        {
+          "text": {
+            "content": "formes",
+            "beginOffset": 5856
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9potoirs",
+      "type": "OTHER",
+      "salience": 0.000219568915781565,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9potoirs",
+            "beginOffset": 4518
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "instruments",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000219568915781565,
+      "mentions": [
+        {
+          "text": {
+            "content": "instruments",
+            "beginOffset": 4570
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.0002195626584580168,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 7383
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9sum\u00e9",
+      "type": "OTHER",
+      "salience": 0.00021903436572756618,
+      "mentions": [
+        {
+          "text": {
+            "content": "R\u00e9sum\u00e9",
+            "beginOffset": 12875
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "forme",
+      "type": "OTHER",
+      "salience": 0.00021860697597730905,
+      "mentions": [
+        {
+          "text": {
+            "content": "forme",
+            "beginOffset": 5969
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "forme",
+      "type": "OTHER",
+      "salience": 0.00021860697597730905,
+      "mentions": [
+        {
+          "text": {
+            "content": "forme",
+            "beginOffset": 6117
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9n\u00e9tique",
+      "type": "OTHER",
+      "salience": 0.0002176736743422225,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9n\u00e9tique",
+            "beginOffset": 12902
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9n\u00e9ration",
+      "type": "OTHER",
+      "salience": 0.0002176736743422225,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9n\u00e9ration",
+            "beginOffset": 12957
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tournevis",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0002176257548853755,
+      "mentions": [
+        {
+          "text": {
+            "content": "tournevis",
+            "beginOffset": 5263
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "substance",
+      "type": "OTHER",
+      "salience": 0.00021699104399885982,
+      "mentions": [
+        {
+          "text": {
+            "content": "substance",
+            "beginOffset": 5595
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "salience": 0.0002168759237974882,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 12336
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "train",
+      "type": "OTHER",
+      "salience": 0.00021508637291844934,
+      "mentions": [
+        {
+          "text": {
+            "content": "train",
+            "beginOffset": 6477
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00021500184084288776,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 13027
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chacune",
+      "type": "PERSON",
+      "salience": 0.00021500184084288776,
+      "mentions": [
+        {
+          "text": {
+            "content": "chacune",
+            "beginOffset": 13047
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "carte",
+      "type": "OTHER",
+      "salience": 0.00021369010210037231,
+      "mentions": [
+        {
+          "text": {
+            "content": "carte",
+            "beginOffset": 13156
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cartes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00021369010210037231,
+      "mentions": [
+        {
+          "text": {
+            "content": "cartes",
+            "beginOffset": 13141
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fin",
+      "type": "OTHER",
+      "salience": 0.0002134710521204397,
+      "mentions": [
+        {
+          "text": {
+            "content": "fin",
+            "beginOffset": 4875
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bout",
+      "type": "OTHER",
+      "salience": 0.00021299556829035282,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 5078
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.0002129075728589669,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 15844
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.0002129075728589669,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 15882
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nourriture",
+      "type": "OTHER",
+      "salience": 0.00021235468739178032,
+      "mentions": [
+        {
+          "text": {
+            "content": "nourriture",
+            "beginOffset": 8445
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "esp\u00e8ces",
+      "type": "OTHER",
+      "salience": 0.000211319827940315,
+      "mentions": [
+        {
+          "text": {
+            "content": "esp\u00e8ces",
+            "beginOffset": 12654
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9nergie",
+      "type": "OTHER",
+      "salience": 0.0002111844514729455,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9nergie",
+            "beginOffset": 7394
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chacun",
+      "type": "PERSON",
+      "salience": 0.00021107750944793224,
+      "mentions": [
+        {
+          "text": {
+            "content": "chacun",
+            "beginOffset": 9311
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "autre",
+      "type": "OTHER",
+      "salience": 0.00021107750944793224,
+      "mentions": [
+        {
+          "text": {
+            "content": "autre",
+            "beginOffset": 9352
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "magn\u00e9tisme",
+      "type": "OTHER",
+      "salience": 0.00021065711916889995,
+      "mentions": [
+        {
+          "text": {
+            "content": "magn\u00e9tisme",
+            "beginOffset": 5415
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "petits",
+      "type": "PERSON",
+      "salience": 0.00021011088392697275,
+      "mentions": [
+        {
+          "text": {
+            "content": "petits",
+            "beginOffset": 8523
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sac",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0002099332050420344,
+      "mentions": [
+        {
+          "text": {
+            "content": "sac",
+            "beginOffset": 13455
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bout",
+      "type": "OTHER",
+      "salience": 0.0002093573857564479,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 5194
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "science",
+      "type": "OTHER",
+      "salience": 0.00020869955187663436,
+      "mentions": [
+        {
+          "text": {
+            "content": "science",
+            "beginOffset": 6563
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.00020732538541778922,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 6016
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "carte",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00020697149739135057,
+      "mentions": [
+        {
+          "text": {
+            "content": "carte",
+            "beginOffset": 13405
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouvement",
+      "type": "OTHER",
+      "salience": 0.0002062794956145808,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouvement",
+            "beginOffset": 6537
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bouts",
+      "type": "OTHER",
+      "salience": 0.00020583998411893845,
+      "mentions": [
+        {
+          "text": {
+            "content": "bouts",
+            "beginOffset": 5227
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corps",
+      "type": "OTHER",
+      "salience": 0.00020576082170009613,
+      "mentions": [
+        {
+          "text": {
+            "content": "corps",
+            "beginOffset": 8692
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plantes",
+      "type": "OTHER",
+      "salience": 0.00020533506176434457,
+      "mentions": [
+        {
+          "text": {
+            "content": "plantes",
+            "beginOffset": 9453
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "magn\u00e9tisme",
+      "type": "OTHER",
+      "salience": 0.0002041159605141729,
+      "mentions": [
+        {
+          "text": {
+            "content": "magn\u00e9tisme",
+            "beginOffset": 5651
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.00020313146524131298,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 14919
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corps",
+      "type": "OTHER",
+      "salience": 0.00020307423255871981,
+      "mentions": [
+        {
+          "text": {
+            "content": "corps",
+            "beginOffset": 12165
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "objets",
+      "type": "OTHER",
+      "salience": 0.00020243738254066557,
+      "mentions": [
+        {
+          "text": {
+            "content": "objets",
+            "beginOffset": 5319
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e9ments",
+      "type": "OTHER",
+      "salience": 0.00020207458874210715,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e9ments",
+            "beginOffset": 15003
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adulte",
+      "type": "PERSON",
+      "salience": 0.00020196168043185025,
+      "mentions": [
+        {
+          "text": {
+            "content": "adulte",
+            "beginOffset": 4961
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tour",
+      "type": "OTHER",
+      "salience": 0.00020042076357640326,
+      "mentions": [
+        {
+          "text": {
+            "content": "tour",
+            "beginOffset": 9283
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chacun",
+      "type": "PERSON",
+      "salience": 0.00020023946126457304,
+      "mentions": [
+        {
+          "text": {
+            "content": "chacun",
+            "beginOffset": 13394
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "perceuses",
+      "type": "OTHER",
+      "salience": 0.00020001400844193995,
+      "mentions": [
+        {
+          "text": {
+            "content": "perceuses",
+            "beginOffset": 4203
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "forme",
+      "type": "OTHER",
+      "salience": 0.00019962525402661413,
+      "mentions": [
+        {
+          "text": {
+            "content": "forme",
+            "beginOffset": 6409
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9couverte",
+      "type": "EVENT",
+      "salience": 0.00019912264542654157,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9couverte",
+            "beginOffset": 12494
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "carte",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00019909923139493912,
+      "mentions": [
+        {
+          "text": {
+            "content": "carte",
+            "beginOffset": 13446
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "carte",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00019797177810687572,
+      "mentions": [
+        {
+          "text": {
+            "content": "carte",
+            "beginOffset": 13542
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mission",
+      "type": "EVENT",
+      "salience": 0.00019562654779292643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mission",
+            "beginOffset": 8858
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouvement",
+      "type": "OTHER",
+      "salience": 0.00019544281531125307,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouvement",
+            "beginOffset": 6766
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plantes",
+      "type": "OTHER",
+      "salience": 0.0001946636475622654,
+      "mentions": [
+        {
+          "text": {
+            "content": "plantes",
+            "beginOffset": 13625
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "g\u00e9n\u00e9ration",
+      "type": "OTHER",
+      "salience": 0.0001946636475622654,
+      "mentions": [
+        {
+          "text": {
+            "content": "g\u00e9n\u00e9ration",
+            "beginOffset": 13686
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0001946636475622654,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 13755
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "autres",
+      "type": "PERSON",
+      "salience": 0.0001946636475622654,
+      "mentions": [
+        {
+          "text": {
+            "content": "autres",
+            "beginOffset": 13771
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "avantage",
+      "type": "OTHER",
+      "salience": 0.00019436022557783872,
+      "mentions": [
+        {
+          "text": {
+            "content": "avantage",
+            "beginOffset": 8338
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cr\u00e9ature",
+      "type": "OTHER",
+      "salience": 0.00019436022557783872,
+      "mentions": [
+        {
+          "text": {
+            "content": "cr\u00e9ature",
+            "beginOffset": 8278
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mat\u00e9riel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00019412617257330567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mat\u00e9riel",
+            "beginOffset": 4835
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "esp\u00e8ces",
+      "type": "OTHER",
+      "salience": 0.0001931515580508858,
+      "mentions": [
+        {
+          "text": {
+            "content": "esp\u00e8ces",
+            "beginOffset": 9428
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TABLEAU",
+      "type": "OTHER",
+      "salience": 0.00019251828780397773,
+      "mentions": [
+        {
+          "text": {
+            "content": "TABLEAU",
+            "beginOffset": 13803
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "avantage",
+      "type": "OTHER",
+      "salience": 0.00019230654288548976,
+      "mentions": [
+        {
+          "text": {
+            "content": "avantage",
+            "beginOffset": 8562
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adulte",
+      "type": "PERSON",
+      "salience": 0.00019161688396707177,
+      "mentions": [
+        {
+          "text": {
+            "content": "adulte",
+            "beginOffset": 5130
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9oliennes",
+      "type": "OTHER",
+      "salience": 0.00019110455468762666,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9oliennes",
+            "beginOffset": 4372
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "phares",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00019110455468762666,
+      "mentions": [
+        {
+          "text": {
+            "content": "phares",
+            "beginOffset": 4432
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "motocyclettes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00019110455468762666,
+      "mentions": [
+        {
+          "text": {
+            "content": "motocyclettes",
+            "beginOffset": 4443
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "compte",
+      "type": "OTHER",
+      "salience": 0.00019063793297391385,
+      "mentions": [
+        {
+          "text": {
+            "content": "compte",
+            "beginOffset": 5945
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plastique",
+      "type": "OTHER",
+      "salience": 0.00019044190412387252,
+      "mentions": [
+        {
+          "text": {
+            "content": "plastique",
+            "beginOffset": 4892
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00eatres vivants",
+      "type": "OTHER",
+      "salience": 0.00019037540187127888,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00eatres vivants",
+            "beginOffset": 7778
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chandail",
+      "type": "OTHER",
+      "salience": 0.00019025789515580982,
+      "mentions": [
+        {
+          "text": {
+            "content": "chandail",
+            "beginOffset": 7200
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sacs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0001900061615742743,
+      "mentions": [
+        {
+          "text": {
+            "content": "sacs",
+            "beginOffset": 9105
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lumi\u00e8re",
+      "type": "OTHER",
+      "salience": 0.00018987043586093932,
+      "mentions": [
+        {
+          "text": {
+            "content": "lumi\u00e8re",
+            "beginOffset": 5638
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "objets",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00018987043586093932,
+      "mentions": [
+        {
+          "text": {
+            "content": "objets",
+            "beginOffset": 5573
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chaleur",
+      "type": "OTHER",
+      "salience": 0.00018987043586093932,
+      "mentions": [
+        {
+          "text": {
+            "content": "chaleur",
+            "beginOffset": 5680
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mission",
+      "type": "EVENT",
+      "salience": 0.0001892917207442224,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mission",
+            "beginOffset": 12971
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.00018924880714621395,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 15071
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gagnant",
+      "type": "OTHER",
+      "salience": 0.0001891708525363356,
+      "mentions": [
+        {
+          "text": {
+            "content": "gagnant",
+            "beginOffset": 9362
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "propri\u00e9t\u00e9s",
+      "type": "OTHER",
+      "salience": 0.0001874802983365953,
+      "mentions": [
+        {
+          "text": {
+            "content": "propri\u00e9t\u00e9s",
+            "beginOffset": 15126
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "scanners",
+      "type": "OTHER",
+      "salience": 0.00018693764286581427,
+      "mentions": [
+        {
+          "text": {
+            "content": "scanners",
+            "beginOffset": 4539
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.0001867010723799467,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 6433
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.00018621663912199438,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 10658
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9tal",
+      "type": "OTHER",
+      "salience": 0.0001852832647273317,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9tal",
+            "beginOffset": 5335
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "transformation",
+      "type": "EVENT",
+      "salience": 0.0001840987679315731,
+      "mentions": [
+        {
+          "text": {
+            "content": "transformation",
+            "beginOffset": 6781
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "batterie",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00018347300647292286,
+      "mentions": [
+        {
+          "text": {
+            "content": "batterie",
+            "beginOffset": 4932
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "causes",
+      "type": "OTHER",
+      "salience": 0.00018222093058284372,
+      "mentions": [
+        {
+          "text": {
+            "content": "causes",
+            "beginOffset": 9870
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "germe",
+      "type": "OTHER",
+      "salience": 0.00018183690553996712,
+      "mentions": [
+        {
+          "text": {
+            "content": "germe",
+            "beginOffset": 10126
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "germes",
+      "type": "OTHER",
+      "salience": 0.00018183690553996712,
+      "mentions": [
+        {
+          "text": {
+            "content": "germes",
+            "beginOffset": 10062
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouvement",
+      "type": "EVENT",
+      "salience": 0.00018114561680704355,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouvement",
+            "beginOffset": 7127
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "germes",
+      "type": "OTHER",
+      "salience": 0.00018108134099747986,
+      "mentions": [
+        {
+          "text": {
+            "content": "germes",
+            "beginOffset": 11472
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "germes",
+      "type": "OTHER",
+      "salience": 0.00018028370686806738,
+      "mentions": [
+        {
+          "text": {
+            "content": "germes",
+            "beginOffset": 10194
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9sum\u00e9",
+      "type": "OTHER",
+      "salience": 0.00017924826533999294,
+      "mentions": [
+        {
+          "text": {
+            "content": "R\u00e9sum\u00e9",
+            "beginOffset": 6697
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e9ponses",
+      "type": "OTHER",
+      "salience": 0.00017912550538312644,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e9ponses",
+            "beginOffset": 12078
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "germes",
+      "type": "OTHER",
+      "salience": 0.00017875652702059597,
+      "mentions": [
+        {
+          "text": {
+            "content": "germes",
+            "beginOffset": 10235
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "germes",
+      "type": "OTHER",
+      "salience": 0.00017875652702059597,
+      "mentions": [
+        {
+          "text": {
+            "content": "germes",
+            "beginOffset": 10320
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "machines",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00017808974371291697,
+      "mentions": [
+        {
+          "text": {
+            "content": "machines",
+            "beginOffset": 6352
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animaux",
+      "type": "OTHER",
+      "salience": 0.00017730178660713136,
+      "mentions": [
+        {
+          "text": {
+            "content": "animaux",
+            "beginOffset": 8895
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "t\u00e2che",
+      "type": "OTHER",
+      "salience": 0.00017701328033581376,
+      "mentions": [
+        {
+          "text": {
+            "content": "t\u00e2che",
+            "beginOffset": 6341
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.00017644856416154653,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 15810
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cour",
+      "type": "OTHER",
+      "salience": 0.000173905398696661,
+      "mentions": [
+        {
+          "text": {
+            "content": "cour",
+            "beginOffset": 9086
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "capacit\u00e9",
+      "type": "OTHER",
+      "salience": 0.00017378116899635643,
+      "mentions": [
+        {
+          "text": {
+            "content": "capacit\u00e9",
+            "beginOffset": 5548
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chandail",
+      "type": "OTHER",
+      "salience": 0.00017236107669305056,
+      "mentions": [
+        {
+          "text": {
+            "content": "chandail",
+            "beginOffset": 6837
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pointage",
+      "type": "OTHER",
+      "salience": 0.0001721880689729005,
+      "mentions": [
+        {
+          "text": {
+            "content": "pointage",
+            "beginOffset": 13037
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maladies",
+      "type": "OTHER",
+      "salience": 0.0001701740693533793,
+      "mentions": [
+        {
+          "text": {
+            "content": "maladies",
+            "beginOffset": 10081
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "air",
+      "type": "OTHER",
+      "salience": 0.00017004281107801944,
+      "mentions": [
+        {
+          "text": {
+            "content": "air",
+            "beginOffset": 7343
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "batterie",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00016807323845569044,
+      "mentions": [
+        {
+          "text": {
+            "content": "batterie",
+            "beginOffset": 5250
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vapeur",
+      "type": "OTHER",
+      "salience": 0.000168019556440413,
+      "mentions": [
+        {
+          "text": {
+            "content": "vapeur",
+            "beginOffset": 6311
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "germes",
+      "type": "OTHER",
+      "salience": 0.00016740179853513837,
+      "mentions": [
+        {
+          "text": {
+            "content": "germes",
+            "beginOffset": 10708
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cellules",
+      "type": "OTHER",
+      "salience": 0.00016691874770913273,
+      "mentions": [
+        {
+          "text": {
+            "content": "cellules",
+            "beginOffset": 12127
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "germes",
+      "type": "OTHER",
+      "salience": 0.00016608186706434935,
+      "mentions": [
+        {
+          "text": {
+            "content": "germes",
+            "beginOffset": 10779
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "s\u00e9quences",
+      "type": "OTHER",
+      "salience": 0.00016581491217948496,
+      "mentions": [
+        {
+          "text": {
+            "content": "s\u00e9quences",
+            "beginOffset": 12230
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fonctionnement",
+      "type": "OTHER",
+      "salience": 0.00016581491217948496,
+      "mentions": [
+        {
+          "text": {
+            "content": "fonctionnement",
+            "beginOffset": 12199
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apparence",
+      "type": "OTHER",
+      "salience": 0.00016581491217948496,
+      "mentions": [
+        {
+          "text": {
+            "content": "apparence",
+            "beginOffset": 12179
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "forme",
+      "type": "OTHER",
+      "salience": 0.00016482372302561998,
+      "mentions": [
+        {
+          "text": {
+            "content": "forme",
+            "beginOffset": 7467
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "engin",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00016336614498868585,
+      "mentions": [
+        {
+          "text": {
+            "content": "engin",
+            "beginOffset": 6450
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vapeur",
+      "type": "OTHER",
+      "salience": 0.00016336614498868585,
+      "mentions": [
+        {
+          "text": {
+            "content": "vapeur",
+            "beginOffset": 6459
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "charbon",
+      "type": "OTHER",
+      "salience": 0.00016336614498868585,
+      "mentions": [
+        {
+          "text": {
+            "content": "charbon",
+            "beginOffset": 6513
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pois",
+      "type": "OTHER",
+      "salience": 0.0001615401270100847,
+      "mentions": [
+        {
+          "text": {
+            "content": "pois",
+            "beginOffset": 12624
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fonctionnement",
+      "type": "OTHER",
+      "salience": 0.0001615401270100847,
+      "mentions": [
+        {
+          "text": {
+            "content": "fonctionnement",
+            "beginOffset": 12550
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "charbon",
+      "type": "OTHER",
+      "salience": 0.00016113366291392595,
+      "mentions": [
+        {
+          "text": {
+            "content": "charbon",
+            "beginOffset": 6680
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pointage",
+      "type": "OTHER",
+      "salience": 0.00016036526358220726,
+      "mentions": [
+        {
+          "text": {
+            "content": "pointage",
+            "beginOffset": 13414
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "WORK_OF_ART",
+      "salience": 0.00016011456318665296,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 11594
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peine",
+      "type": "OTHER",
+      "salience": 0.00016008802049327642,
+      "mentions": [
+        {
+          "text": {
+            "content": "peine",
+            "beginOffset": 9717
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "camouflage",
+      "type": "OTHER",
+      "salience": 0.00015817444364074618,
+      "mentions": [
+        {
+          "text": {
+            "content": "camouflage",
+            "beginOffset": 8917
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "partie",
+      "type": "OTHER",
+      "salience": 0.00015765616262797266,
+      "mentions": [
+        {
+          "text": {
+            "content": "partie",
+            "beginOffset": 13594
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maladies",
+      "type": "OTHER",
+      "salience": 0.00015666478429920971,
+      "mentions": [
+        {
+          "text": {
+            "content": "maladies",
+            "beginOffset": 10727
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "concours",
+      "type": "EVENT",
+      "salience": 0.00015664493548683822,
+      "mentions": [
+        {
+          "text": {
+            "content": "concours",
+            "beginOffset": 9002
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ami",
+      "type": "PERSON",
+      "salience": 0.00015664493548683822,
+      "mentions": [
+        {
+          "text": {
+            "content": "ami",
+            "beginOffset": 8989
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animaux",
+      "type": "OTHER",
+      "salience": 0.00015589973190799356,
+      "mentions": [
+        {
+          "text": {
+            "content": "animaux",
+            "beginOffset": 13636
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peine",
+      "type": "OTHER",
+      "salience": 0.00015589973190799356,
+      "mentions": [
+        {
+          "text": {
+            "content": "peine",
+            "beginOffset": 13648
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crayons",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00015514445840381086,
+      "mentions": [
+        {
+          "text": {
+            "content": "crayons",
+            "beginOffset": 9132
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ami",
+      "type": "PERSON",
+      "salience": 0.00015367202286142856,
+      "mentions": [
+        {
+          "text": {
+            "content": "ami",
+            "beginOffset": 9157
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lieu",
+      "type": "OTHER",
+      "salience": 0.00015367202286142856,
+      "mentions": [
+        {
+          "text": {
+            "content": "lieu",
+            "beginOffset": 9257
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cases",
+      "type": "OTHER",
+      "salience": 0.0001536123891128227,
+      "mentions": [
+        {
+          "text": {
+            "content": "cases",
+            "beginOffset": 13068
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plantes",
+      "type": "OTHER",
+      "salience": 0.00015275775513146073,
+      "mentions": [
+        {
+          "text": {
+            "content": "plantes",
+            "beginOffset": 7618
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00eatres humains",
+      "type": "PERSON",
+      "salience": 0.00015275775513146073,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00eatres\nhumains",
+            "beginOffset": 7598
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "un",
+      "type": "OTHER",
+      "salience": 0.00015267518756445497,
+      "mentions": [
+        {
+          "text": {
+            "content": "un",
+            "beginOffset": 13149
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chacune",
+      "type": "PERSON",
+      "salience": 0.0001519580982858315,
+      "mentions": [
+        {
+          "text": {
+            "content": "chacune",
+            "beginOffset": 10097
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Taches de rousseur",
+      "type": "OTHER",
+      "salience": 0.00015174917643889785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taches de rousseur",
+            "beginOffset": 13195
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "propri\u00e9t\u00e9s",
+      "type": "OTHER",
+      "salience": 0.00015158418682403862,
+      "mentions": [
+        {
+          "text": {
+            "content": "propri\u00e9t\u00e9s",
+            "beginOffset": 14091
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "survie",
+      "type": "OTHER",
+      "salience": 0.0001508442946942523,
+      "mentions": [
+        {
+          "text": {
+            "content": "survie",
+            "beginOffset": 8180
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "faim",
+      "type": "OTHER",
+      "salience": 0.0001508442946942523,
+      "mentions": [
+        {
+          "text": {
+            "content": "faim",
+            "beginOffset": 8151
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cheveux",
+      "type": "OTHER",
+      "salience": 0.0001508341811131686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheveux",
+            "beginOffset": 13215
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moiti\u00e9",
+      "type": "OTHER",
+      "salience": 0.0001507667766418308,
+      "mentions": [
+        {
+          "text": {
+            "content": "moiti\u00e9",
+            "beginOffset": 9075
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fois",
+      "type": "OTHER",
+      "salience": 0.00015068681386765093,
+      "mentions": [
+        {
+          "text": {
+            "content": "fois",
+            "beginOffset": 5033
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "savants",
+      "type": "PERSON",
+      "salience": 0.0001503611565567553,
+      "mentions": [
+        {
+          "text": {
+            "content": "savants",
+            "beginOffset": 5788
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Louis Pasteur",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+        "mid": "/m/04hcc"
+      },
+      "salience": 0.00015035242540761828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Louis Pasteur",
+            "beginOffset": 9945
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Pasteur",
+            "beginOffset": 10203
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Louis Pasteur",
+            "beginOffset": 10665
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Pasteur",
+            "beginOffset": 11601
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Cheveux",
+      "type": "OTHER",
+      "salience": 0.00014903658302500844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheveux",
+            "beginOffset": 13249
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "propri\u00e9t\u00e9s",
+      "type": "OTHER",
+      "salience": 0.00014834781177341938,
+      "mentions": [
+        {
+          "text": {
+            "content": "propri\u00e9t\u00e9s",
+            "beginOffset": 14474
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "extr\u00e9mit\u00e9",
+      "type": "OTHER",
+      "salience": 0.00014806924446020275,
+      "mentions": [
+        {
+          "text": {
+            "content": "extr\u00e9mit\u00e9",
+            "beginOffset": 5093
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00eatres vivants",
+      "type": "OTHER",
+      "salience": 0.00014770851703360677,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00eatres vivants",
+            "beginOffset": 8039
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lutte",
+      "type": "EVENT",
+      "salience": 0.00014762370847165585,
+      "mentions": [
+        {
+          "text": {
+            "content": "lutte",
+            "beginOffset": 8431
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dents",
+      "type": "OTHER",
+      "salience": 0.00014762370847165585,
+      "mentions": [
+        {
+          "text": {
+            "content": "dents",
+            "beginOffset": 8387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "semblables",
+      "type": "OTHER",
+      "salience": 0.00014762370847165585,
+      "mentions": [
+        {
+          "text": {
+            "content": "semblables",
+            "beginOffset": 8355
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diff\u00e9rence",
+      "type": "OTHER",
+      "salience": 0.00014762370847165585,
+      "mentions": [
+        {
+          "text": {
+            "content": "diff\u00e9rence",
+            "beginOffset": 8306
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "propri\u00e9t\u00e9s",
+      "type": "OTHER",
+      "salience": 0.00014678029401693493,
+      "mentions": [
+        {
+          "text": {
+            "content": "propri\u00e9t\u00e9s",
+            "beginOffset": 14790
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "germes",
+      "type": "OTHER",
+      "salience": 0.00014642291353084147,
+      "mentions": [
+        {
+          "text": {
+            "content": "germes",
+            "beginOffset": 11627
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "propri\u00e9t\u00e9s",
+      "type": "OTHER",
+      "salience": 0.000146008693263866,
+      "mentions": [
+        {
+          "text": {
+            "content": "propri\u00e9t\u00e9s",
+            "beginOffset": 14839
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "id\u00e9e",
+      "type": "OTHER",
+      "salience": 0.00014595894026570022,
+      "mentions": [
+        {
+          "text": {
+            "content": "id\u00e9e",
+            "beginOffset": 6131
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Demande",
+      "type": "EVENT",
+      "salience": 0.00014554003428202122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Demande",
+            "beginOffset": 5116
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nu",
+      "type": "OTHER",
+      "salience": 0.00014554003428202122,
+      "mentions": [
+        {
+          "text": {
+            "content": "nu",
+            "beginOffset": 5150
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "germes",
+      "type": "OTHER",
+      "salience": 0.00014540883421432227,
+      "mentions": [
+        {
+          "text": {
+            "content": "germes",
+            "beginOffset": 11760
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9tat",
+      "type": "OTHER",
+      "salience": 0.00014409083814825863,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9tat",
+            "beginOffset": 9677
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fourchette",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00014336856838781387,
+      "mentions": [
+        {
+          "text": {
+            "content": "fourchette",
+            "beginOffset": 11007
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bornes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0001430948032066226,
+      "mentions": [
+        {
+          "text": {
+            "content": "bornes",
+            "beginOffset": 5237
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Branche",
+      "type": "OTHER",
+      "salience": 0.0001430948032066226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Branche",
+            "beginOffset": 5210
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crayon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0001430650008842349,
+      "mentions": [
+        {
+          "text": {
+            "content": "crayon",
+            "beginOffset": 13429
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9tat",
+      "type": "OTHER",
+      "salience": 0.00014281766198109835,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9tat",
+            "beginOffset": 9786
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lieu",
+      "type": "OTHER",
+      "salience": 0.00014281766198109835,
+      "mentions": [
+        {
+          "text": {
+            "content": "lieu",
+            "beginOffset": 9744
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "voix",
+      "type": "OTHER",
+      "salience": 0.00014225032646209002,
+      "mentions": [
+        {
+          "text": {
+            "content": "voix",
+            "beginOffset": 13472
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gregor Mendel",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+        "mid": "/m/039c5"
+      },
+      "salience": 0.00014223172911442816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gregor Mendel",
+            "beginOffset": 12413
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mendel",
+            "beginOffset": 12813
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Gregor Mendel",
+            "beginOffset": 12860
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "questions",
+      "type": "OTHER",
+      "salience": 0.00014211189409252256,
+      "mentions": [
+        {
+          "text": {
+            "content": "questions",
+            "beginOffset": 12095
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lumi\u00e8re",
+      "type": "OTHER",
+      "salience": 0.00014173093950375915,
+      "mentions": [
+        {
+          "text": {
+            "content": "lumi\u00e8re",
+            "beginOffset": 7254
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "capacit\u00e9",
+      "type": "OTHER",
+      "salience": 0.00014166762412060052,
+      "mentions": [
+        {
+          "text": {
+            "content": "capacit\u00e9",
+            "beginOffset": 6741
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "id\u00e9e",
+      "type": "OTHER",
+      "salience": 0.00014156645920593292,
+      "mentions": [
+        {
+          "text": {
+            "content": "id\u00e9e",
+            "beginOffset": 9937
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "joueur",
+      "type": "PERSON",
+      "salience": 0.00014144479064270854,
+      "mentions": [
+        {
+          "text": {
+            "content": "joueur",
+            "beginOffset": 13491
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "case",
+      "type": "OTHER",
+      "salience": 0.00014144479064270854,
+      "mentions": [
+        {
+          "text": {
+            "content": "case",
+            "beginOffset": 13530
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "programme",
+      "type": "OTHER",
+      "salience": 0.00014117210230324417,
+      "mentions": [
+        {
+          "text": {
+            "content": "programme",
+            "beginOffset": 12143
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trombones",
+      "type": "PERSON",
+      "salience": 0.00014072937483433634,
+      "mentions": [
+        {
+          "text": {
+            "content": "trombones",
+            "beginOffset": 5353
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tableau",
+      "type": "OTHER",
+      "salience": 0.00014069197641219944,
+      "mentions": [
+        {
+          "text": {
+            "content": "tableau",
+            "beginOffset": 14528
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "b\u00e9b\u00e9s",
+      "type": "PERSON",
+      "salience": 0.0001402444759150967,
+      "mentions": [
+        {
+          "text": {
+            "content": "b\u00e9b\u00e9s",
+            "beginOffset": 12284
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tableau",
+      "type": "OTHER",
+      "salience": 0.00013994477922096848,
+      "mentions": [
+        {
+          "text": {
+            "content": "tableau",
+            "beginOffset": 14594
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Camouflage",
+      "type": "OTHER",
+      "salience": 0.0001397344603901729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Camouflage",
+            "beginOffset": 8879
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "tableau",
+      "type": "OTHER",
+      "salience": 0.00013920535275246948,
+      "mentions": [
+        {
+          "text": {
+            "content": "tableau",
+            "beginOffset": 14695
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "yeux",
+      "type": "OTHER",
+      "salience": 0.00013908119581174105,
+      "mentions": [
+        {
+          "text": {
+            "content": "yeux",
+            "beginOffset": 13739
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "h\u00e9r\u00e9dit\u00e9",
+      "type": "OTHER",
+      "salience": 0.00013842502085026354,
+      "mentions": [
+        {
+          "text": {
+            "content": "h\u00e9r\u00e9dit\u00e9",
+            "beginOffset": 12462
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chacun",
+      "type": "PERSON",
+      "salience": 0.00013774940453004092,
+      "mentions": [
+        {
+          "text": {
+            "content": "chacun",
+            "beginOffset": 14956
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mode",
+      "type": "OTHER",
+      "salience": 0.00013753259554505348,
+      "mentions": [
+        {
+          "text": {
+            "content": "mode",
+            "beginOffset": 12542
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "innombrables",
+      "type": "OTHER",
+      "salience": 0.00013753259554505348,
+      "mentions": [
+        {
+          "text": {
+            "content": "innombrables",
+            "beginOffset": 12590
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exp\u00e9riences",
+      "type": "OTHER",
+      "salience": 0.00013753259554505348,
+      "mentions": [
+        {
+          "text": {
+            "content": "exp\u00e9riences",
+            "beginOffset": 12603
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exemple",
+      "type": "OTHER",
+      "salience": 0.00013749384379480034,
+      "mentions": [
+        {
+          "text": {
+            "content": "exemple",
+            "beginOffset": 10366
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00e9hicules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00013719178969040513,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00e9hicules",
+            "beginOffset": 6297
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maladies",
+      "type": "OTHER",
+      "salience": 0.00013703142758458853,
+      "mentions": [
+        {
+          "text": {
+            "content": "maladies",
+            "beginOffset": 11646
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "r\u00e8gles",
+      "type": "OTHER",
+      "salience": 0.000136651549837552,
+      "mentions": [
+        {
+          "text": {
+            "content": "r\u00e8gles",
+            "beginOffset": 12709
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cr\u00e9pitements",
+      "type": "OTHER",
+      "salience": 0.00013629155000671744,
+      "mentions": [
+        {
+          "text": {
+            "content": "cr\u00e9pitements",
+            "beginOffset": 6938
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "atomes",
+      "type": "OTHER",
+      "salience": 0.00013597257202491164,
+      "mentions": [
+        {
+          "text": {
+            "content": "atomes",
+            "beginOffset": 13933
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moisissures",
+      "type": "OTHER",
+      "salience": 0.00013591251627076417,
+      "mentions": [
+        {
+          "text": {
+            "content": "moisissures",
+            "beginOffset": 10575
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "recherches",
+      "type": "EVENT",
+      "salience": 0.00013578157813753933,
+      "mentions": [
+        {
+          "text": {
+            "content": "recherches",
+            "beginOffset": 12799
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "substances",
+      "type": "OTHER",
+      "salience": 0.00013523917004931718,
+      "mentions": [
+        {
+          "text": {
+            "content": "substances",
+            "beginOffset": 10592
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00eatres vivants",
+      "type": "OTHER",
+      "salience": 0.00013523917004931718,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00eatres vivants",
+            "beginOffset": 10641
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00c9VOLUTION",
+      "type": "OTHER",
+      "salience": 0.00013520488573703915,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00c9VOLUTION",
+            "beginOffset": 7490
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9sum\u00e9",
+      "type": "OTHER",
+      "salience": 0.0001349259982816875,
+      "mentions": [
+        {
+          "text": {
+            "content": "R\u00e9sum\u00e9",
+            "beginOffset": 15098
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ennemis",
+      "type": "OTHER",
+      "salience": 0.00013466710515785962,
+      "mentions": [
+        {
+          "text": {
+            "content": "ennemis",
+            "beginOffset": 8972
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gens",
+      "type": "PERSON",
+      "salience": 0.00013450304686557502,
+      "mentions": [
+        {
+          "text": {
+            "content": "gens",
+            "beginOffset": 9887
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "propri\u00e9t\u00e9s",
+      "type": "OTHER",
+      "salience": 0.0001333740947302431,
+      "mentions": [
+        {
+          "text": {
+            "content": "propri\u00e9t\u00e9s",
+            "beginOffset": 15908
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tableau",
+      "type": "OTHER",
+      "salience": 0.00013288234185893089,
+      "mentions": [
+        {
+          "text": {
+            "content": "tableau",
+            "beginOffset": 15276
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "papier brun",
+      "type": "OTHER",
+      "salience": 0.0001320874143857509,
+      "mentions": [
+        {
+          "text": {
+            "content": "papier brun",
+            "beginOffset": 9113
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "R\u00e9sum\u00e9",
+      "type": "OTHER",
+      "salience": 0.00013199093518778682,
+      "mentions": [
+        {
+          "text": {
+            "content": "R\u00e9sum\u00e9",
+            "beginOffset": 10680
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "inventeurs",
+      "type": "PERSON",
+      "salience": 0.0001315692497882992,
+      "mentions": [
+        {
+          "text": {
+            "content": "inventeurs",
+            "beginOffset": 6606
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "groupe",
+      "type": "ORGANIZATION",
+      "salience": 0.0001309455547016114,
+      "mentions": [
+        {
+          "text": {
+            "content": "groupe",
+            "beginOffset": 14774
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dmitri Mendele\u00efev",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0gglj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev"
+      },
+      "salience": 0.00013073130685370415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dmitri Mendele\u00efev",
+            "beginOffset": 14233
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mendele\u00efev",
+            "beginOffset": 14428
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dmitri Mendele\u00efev",
+            "beginOffset": 15078
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9volution",
+      "type": "OTHER",
+      "salience": 0.00013068727275822312,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9volution",
+            "beginOffset": 7981
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9couverte",
+      "type": "EVENT",
+      "salience": 0.00013068727275822312,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9couverte",
+            "beginOffset": 7942
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "groupe",
+      "type": "ORGANIZATION",
+      "salience": 0.0001302571763517335,
+      "mentions": [
+        {
+          "text": {
+            "content": "groupe",
+            "beginOffset": 14827
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tranches",
+      "type": "OTHER",
+      "salience": 0.00012980899191461504,
+      "mentions": [
+        {
+          "text": {
+            "content": "tranches",
+            "beginOffset": 10956
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "groupe",
+      "type": "ORGANIZATION",
+      "salience": 0.0001295759720960632,
+      "mentions": [
+        {
+          "text": {
+            "content": "groupe",
+            "beginOffset": 14900
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maladies",
+      "type": "OTHER",
+      "salience": 0.00012950290692970157,
+      "mentions": [
+        {
+          "text": {
+            "content": "maladies",
+            "beginOffset": 10137
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nourriture",
+      "type": "OTHER",
+      "salience": 0.00012924696784466505,
+      "mentions": [
+        {
+          "text": {
+            "content": "nourriture",
+            "beginOffset": 8100
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "groupe",
+      "type": "ORGANIZATION",
+      "salience": 0.0001289017964154482,
+      "mentions": [
+        {
+          "text": {
+            "content": "groupe",
+            "beginOffset": 15017
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tranche",
+      "type": "OTHER",
+      "salience": 0.00012884482566732913,
+      "mentions": [
+        {
+          "text": {
+            "content": "tranche",
+            "beginOffset": 11033
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sac",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00012884482566732913,
+      "mentions": [
+        {
+          "text": {
+            "content": "sac",
+            "beginOffset": 11051
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "foins",
+      "type": "OTHER",
+      "salience": 0.00012764793063979596,
+      "mentions": [
+        {
+          "text": {
+            "content": "foins",
+            "beginOffset": 13242
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rhume",
+      "type": "OTHER",
+      "salience": 0.00012764793063979596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rhume",
+            "beginOffset": 13232
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9couverte",
+      "type": "EVENT",
+      "salience": 0.00012748935841955245,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9couverte",
+            "beginOffset": 10334
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tranche",
+      "type": "OTHER",
+      "salience": 0.00012695835903286934,
+      "mentions": [
+        {
+          "text": {
+            "content": "tranche",
+            "beginOffset": 11135
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tableau",
+      "type": "OTHER",
+      "salience": 0.00012649099517147988,
+      "mentions": [
+        {
+          "text": {
+            "content": "tableau",
+            "beginOffset": 15820
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fossette",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0001261354045709595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fossette",
+            "beginOffset": 13276
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "menton",
+      "type": "OTHER",
+      "salience": 0.0001261354045709595,
+      "mentions": [
+        {
+          "text": {
+            "content": "menton",
+            "beginOffset": 13288
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sac",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00012603538925759494,
+      "mentions": [
+        {
+          "text": {
+            "content": "sac",
+            "beginOffset": 11171
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Myope",
+      "type": "OTHER",
+      "salience": 0.00012539236922748387,
+      "mentions": [
+        {
+          "text": {
+            "content": "Myope",
+            "beginOffset": 13296
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mani\u00e8res",
+      "type": "OTHER",
+      "salience": 0.0001251895009772852,
+      "mentions": [
+        {
+          "text": {
+            "content": "mani\u00e8res",
+            "beginOffset": 7436
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tranche",
+      "type": "OTHER",
+      "salience": 0.00012512561806943268,
+      "mentions": [
+        {
+          "text": {
+            "content": "tranche",
+            "beginOffset": 11241
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "b\u00eates",
+      "type": "OTHER",
+      "salience": 0.00012490275548771024,
+      "mentions": [
+        {
+          "text": {
+            "content": "b\u00eates",
+            "beginOffset": 9440
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "atout",
+      "type": "OTHER",
+      "salience": 0.00012490275548771024,
+      "mentions": [
+        {
+          "text": {
+            "content": "atout",
+            "beginOffset": 9534
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gaucher",
+      "type": "OTHER",
+      "salience": 0.00012465791951399297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gaucher",
+            "beginOffset": 13303
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sac",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0001242287253262475,
+      "mentions": [
+        {
+          "text": {
+            "content": "sac",
+            "beginOffset": 11290
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Allergie",
+      "type": "OTHER",
+      "salience": 0.00012393188080750406,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allergie",
+            "beginOffset": 13312
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "personne",
+      "type": "PERSON",
+      "salience": 0.00012377134407870471,
+      "mentions": [
+        {
+          "text": {
+            "content": "personne",
+            "beginOffset": 13552
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "compte",
+      "type": "OTHER",
+      "salience": 0.00012376812810543925,
+      "mentions": [
+        {
+          "text": {
+            "content": "compte",
+            "beginOffset": 14369
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pi\u00e8ce",
+      "type": "LOCATION",
+      "salience": 0.00012314655759837478,
+      "mentions": [
+        {
+          "text": {
+            "content": "pi\u00e8ce",
+            "beginOffset": 6864
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "docteur",
+      "type": "PERSON",
+      "salience": 0.00012267650163266808,
+      "mentions": [
+        {
+          "text": {
+            "content": "docteur",
+            "beginOffset": 9645
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "famille",
+      "type": "PERSON",
+      "salience": 0.00012250464351382107,
+      "mentions": [
+        {
+          "text": {
+            "content": "famille",
+            "beginOffset": 13355
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "amis",
+      "type": "PERSON",
+      "salience": 0.00012250464351382107,
+      "mentions": [
+        {
+          "text": {
+            "content": "amis",
+            "beginOffset": 13370
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tranche",
+      "type": "OTHER",
+      "salience": 0.00012247257109265774,
+      "mentions": [
+        {
+          "text": {
+            "content": "tranche",
+            "beginOffset": 11525
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sac",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00012247257109265774,
+      "mentions": [
+        {
+          "text": {
+            "content": "sac",
+            "beginOffset": 11575
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nourriture",
+      "type": "OTHER",
+      "salience": 0.00012234786117915064,
+      "mentions": [
+        {
+          "text": {
+            "content": "nourriture",
+            "beginOffset": 10274
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animaux",
+      "type": "OTHER",
+      "salience": 0.00012233848974574357,
+      "mentions": [
+        {
+          "text": {
+            "content": "animaux",
+            "beginOffset": 7633
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plupart",
+      "type": "OTHER",
+      "salience": 0.00012233848974574357,
+      "mentions": [
+        {
+          "text": {
+            "content": "plupart",
+            "beginOffset": 7539
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9dicaments",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00012159253674326465,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9dicaments",
+            "beginOffset": 9752
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patient",
+      "type": "PERSON",
+      "salience": 0.00012159253674326465,
+      "mentions": [
+        {
+          "text": {
+            "content": "patient",
+            "beginOffset": 9799
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tire",
+      "type": "OTHER",
+      "salience": 0.00012110951502108946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tire",
+            "beginOffset": 13437
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abord",
+      "type": "OTHER",
+      "salience": 0.00012052728561684489,
+      "mentions": [
+        {
+          "text": {
+            "content": "abord",
+            "beginOffset": 9846
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "applications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00012022496230201796,
+      "mentions": [
+        {
+          "text": {
+            "content": "applications",
+            "beginOffset": 6165
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "situation",
+      "type": "OTHER",
+      "salience": 0.00011948035535169765,
+      "mentions": [
+        {
+          "text": {
+            "content": "situation",
+            "beginOffset": 9995
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bact\u00e9ries",
+      "type": "OTHER",
+      "salience": 0.00011931448534596711,
+      "mentions": [
+        {
+          "text": {
+            "content": "bact\u00e9ries",
+            "beginOffset": 10544
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "germes",
+      "type": "OTHER",
+      "salience": 0.000119180949695874,
+      "mentions": [
+        {
+          "text": {
+            "content": "germes",
+            "beginOffset": 10497
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "groupes",
+      "type": "ORGANIZATION",
+      "salience": 0.00011898558295797557,
+      "mentions": [
+        {
+          "text": {
+            "content": "groupes",
+            "beginOffset": 15870
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plancher",
+      "type": "OTHER",
+      "salience": 0.00011866819841088727,
+      "mentions": [
+        {
+          "text": {
+            "content": "plancher",
+            "beginOffset": 11258
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "v\u00eatements",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00011848942085634917,
+      "mentions": [
+        {
+          "text": {
+            "content": "v\u00eatements",
+            "beginOffset": 6256
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "biens",
+      "type": "OTHER",
+      "salience": 0.00011848942085634917,
+      "mentions": [
+        {
+          "text": {
+            "content": "biens",
+            "beginOffset": 6281
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "milieu",
+      "type": "OTHER",
+      "salience": 0.00011845125845866278,
+      "mentions": [
+        {
+          "text": {
+            "content": "milieu",
+            "beginOffset": 10009
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quart",
+      "type": "OTHER",
+      "salience": 0.00011841137165902182,
+      "mentions": [
+        {
+          "text": {
+            "content": "quart",
+            "beginOffset": 13657
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sp\u00e9cimens",
+      "type": "OTHER",
+      "salience": 0.00011841137165902182,
+      "mentions": [
+        {
+          "text": {
+            "content": "sp\u00e9cimens",
+            "beginOffset": 13667
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nombre",
+      "type": "OTHER",
+      "salience": 0.00011829470895463601,
+      "mentions": [
+        {
+          "text": {
+            "content": "nombre",
+            "beginOffset": 8072
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cr\u00e9atures",
+      "type": "OTHER",
+      "salience": 0.00011667030048556626,
+      "mentions": [
+        {
+          "text": {
+            "content": "cr\u00e9atures",
+            "beginOffset": 10523
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "type": "OTHER",
+      "salience": 0.00011599218851188198,
+      "mentions": [
+        {
+          "text": {
+            "content": "type",
+            "beginOffset": 10118
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poids",
+      "type": "OTHER",
+      "salience": 0.00011576472024898976,
+      "mentions": [
+        {
+          "text": {
+            "content": "poids",
+            "beginOffset": 13918
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corps",
+      "type": "OTHER",
+      "salience": 0.00011568961053853855,
+      "mentions": [
+        {
+          "text": {
+            "content": "corps",
+            "beginOffset": 15387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poids",
+      "type": "OTHER",
+      "salience": 0.00011513353092595935,
+      "mentions": [
+        {
+          "text": {
+            "content": "poids",
+            "beginOffset": 14049
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9lange",
+      "type": "OTHER",
+      "salience": 0.0001150056705228053,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9lange",
+            "beginOffset": 12307
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "compos\u00e9s",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00011453836486907676,
+      "mentions": [
+        {
+          "text": {
+            "content": "compos\u00e9s",
+            "beginOffset": 15484
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pr\u00e9f\u00e9rence",
+      "type": "OTHER",
+      "salience": 0.00011434721818659455,
+      "mentions": [
+        {
+          "text": {
+            "content": "pr\u00e9f\u00e9rence",
+            "beginOffset": 7359
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mani\u00e8re",
+      "type": "OTHER",
+      "salience": 0.00011389136489015073,
+      "mentions": [
+        {
+          "text": {
+            "content": "mani\u00e8re",
+            "beginOffset": 14280
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mission",
+      "type": "EVENT",
+      "salience": 0.00011367274419171736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mission",
+            "beginOffset": 10738
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apparence",
+      "type": "OTHER",
+      "salience": 0.00011339875345584005,
+      "mentions": [
+        {
+          "text": {
+            "content": "apparence",
+            "beginOffset": 7857
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "G\u00c9N\u00c9TIQUE",
+      "type": "OTHER",
+      "salience": 0.00011295669537503272,
+      "mentions": [
+        {
+          "text": {
+            "content": "G\u00c9N\u00c9TIQUE",
+            "beginOffset": 11772
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maximum",
+      "type": "OTHER",
+      "salience": 0.00011201579764019698,
+      "mentions": [
+        {
+          "text": {
+            "content": "maximum",
+            "beginOffset": 6632
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tonne",
+      "type": "OTHER",
+      "salience": 0.00011201579764019698,
+      "mentions": [
+        {
+          "text": {
+            "content": "tonne",
+            "beginOffset": 6671
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jeu",
+      "type": "OTHER",
+      "salience": 0.00011178811837453395,
+      "mentions": [
+        {
+          "text": {
+            "content": "jeu",
+            "beginOffset": 5052
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peine",
+      "type": "OTHER",
+      "salience": 0.00010974476754199713,
+      "mentions": [
+        {
+          "text": {
+            "content": "peine",
+            "beginOffset": 15041
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sacs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00010935901082120836,
+      "mentions": [
+        {
+          "text": {
+            "content": "sacs",
+            "beginOffset": 10861
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ordre",
+      "type": "OTHER",
+      "salience": 0.00010735062096500769,
+      "mentions": [
+        {
+          "text": {
+            "content": "ordre",
+            "beginOffset": 14167
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nombre",
+      "type": "OTHER",
+      "salience": 0.00010642086999723688,
+      "mentions": [
+        {
+          "text": {
+            "content": "nombre",
+            "beginOffset": 15224
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Charles Darwin",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01lwx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Darwin"
+      },
+      "salience": 0.00010581580136204138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charles Darwin",
+            "beginOffset": 7745
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Darwin",
+            "beginOffset": 7957
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Charles Darwin",
+            "beginOffset": 8743
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "faits",
+      "type": "OTHER",
+      "salience": 0.00010553294123383239,
+      "mentions": [
+        {
+          "text": {
+            "content": "faits",
+            "beginOffset": 8025
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "salience": 0.00010552824096521363,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 11874
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "noir",
+      "type": "OTHER",
+      "salience": 0.00010484483937034383,
+      "mentions": [
+        {
+          "text": {
+            "content": "noir",
+            "beginOffset": 6888
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "laine",
+      "type": "OTHER",
+      "salience": 0.00010484483937034383,
+      "mentions": [
+        {
+          "text": {
+            "content": "laine",
+            "beginOffset": 6849
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "partie",
+      "type": "OTHER",
+      "salience": 0.00010431334521854296,
+      "mentions": [
+        {
+          "text": {
+            "content": "partie",
+            "beginOffset": 15576
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9tal",
+      "type": "OTHER",
+      "salience": 0.00010379926970927045,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9tal",
+            "beginOffset": 15611
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lueurs",
+      "type": "PERSON",
+      "salience": 0.00010351817036280409,
+      "mentions": [
+        {
+          "text": {
+            "content": "lueurs",
+            "beginOffset": 6913
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Plancher",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Floor",
+        "mid": "/m/0l7_8"
+      },
+      "salience": 0.00010306632611900568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plancher",
+            "beginOffset": 11335
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "m\u00e9tal",
+      "type": "OTHER",
+      "salience": 0.0001027860416797921,
+      "mentions": [
+        {
+          "text": {
+            "content": "m\u00e9tal",
+            "beginOffset": 15686
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ordre",
+      "type": "OTHER",
+      "salience": 0.00010271278733853251,
+      "mentions": [
+        {
+          "text": {
+            "content": "ordre",
+            "beginOffset": 14040
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chimistes",
+      "type": "PERSON",
+      "salience": 0.00010271278733853251,
+      "mentions": [
+        {
+          "text": {
+            "content": "chimistes",
+            "beginOffset": 13968
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sacs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00010235812806058675,
+      "mentions": [
+        {
+          "text": {
+            "content": "sacs",
+            "beginOffset": 11369
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lumi\u00e8re",
+      "type": "OTHER",
+      "salience": 0.00010235812806058675,
+      "mentions": [
+        {
+          "text": {
+            "content": "lumi\u00e8re",
+            "beginOffset": 11395
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ph\u00e9nom\u00e8nes",
+      "type": "OTHER",
+      "salience": 0.00010222427954431623,
+      "mentions": [
+        {
+          "text": {
+            "content": "ph\u00e9nom\u00e8nes",
+            "beginOffset": 6957
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bras",
+      "type": "OTHER",
+      "salience": 0.00010096195182995871,
+      "mentions": [
+        {
+          "text": {
+            "content": "bras",
+            "beginOffset": 7042
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "muscles",
+      "type": "OTHER",
+      "salience": 0.00010096195182995871,
+      "mentions": [
+        {
+          "text": {
+            "content": "muscles",
+            "beginOffset": 7052
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sang",
+      "type": "OTHER",
+      "salience": 0.00010096195182995871,
+      "mentions": [
+        {
+          "text": {
+            "content": "sang",
+            "beginOffset": 7098
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nourriture",
+      "type": "OTHER",
+      "salience": 0.0001002172939479351,
+      "mentions": [
+        {
+          "text": {
+            "content": "nourriture",
+            "beginOffset": 11692
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chimistes",
+      "type": "PERSON",
+      "salience": 9.998596215154976e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "chimistes",
+            "beginOffset": 14657
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "outil",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.998596215154976e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "outil",
+            "beginOffset": 14633
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9gradation",
+      "type": "EVENT",
+      "salience": 9.989964019041508e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9gradation",
+            "beginOffset": 10255
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Propre",
+      "type": "OTHER",
+      "salience": 9.98118266579695e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Propre",
+            "beginOffset": 11107
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adulte",
+      "type": "PERSON",
+      "salience": 9.933763794833794e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "adulte",
+            "beginOffset": 10898
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "voix",
+      "type": "OTHER",
+      "salience": 9.87703533610329e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "voix",
+            "beginOffset": 15416
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pr\u00e9c\u00e9dent",
+      "type": "OTHER",
+      "salience": 9.841742576099932e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "pr\u00e9c\u00e9dent",
+            "beginOffset": 14986
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eau",
+      "type": "OTHER",
+      "salience": 9.841742576099932e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "eau",
+            "beginOffset": 14951
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fr\u00e8res",
+      "type": "PERSON",
+      "salience": 9.780878463061526e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "fr\u00e8res",
+            "beginOffset": 12006
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9tiquette",
+      "type": "OTHER",
+      "salience": 9.714043699204922e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9tiquette",
+            "beginOffset": 11079
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "H\u00e9lium",
+      "type": "OTHER",
+      "salience": 9.598333417670801e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "H\u00e9lium",
+            "beginOffset": 15395
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "s\u00e9quence",
+      "type": "OTHER",
+      "salience": 9.590860281605273e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "s\u00e9quence",
+            "beginOffset": 15166
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9tiquette",
+      "type": "OTHER",
+      "salience": 9.57282172748819e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9tiquette",
+            "beginOffset": 11188
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Propre",
+      "type": "OTHER",
+      "salience": 9.558024612488225e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Propre",
+            "beginOffset": 11582
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9tiquette",
+      "type": "OTHER",
+      "salience": 9.435598622076213e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9tiquette",
+            "beginOffset": 11307
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chaleur",
+      "type": "OTHER",
+      "salience": 9.390900231665e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "chaleur",
+            "beginOffset": 10295
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "air",
+      "type": "OTHER",
+      "salience": 9.316930663771927e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "air",
+            "beginOffset": 11497
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chr\u00e9tiens",
+      "type": "PERSON",
+      "salience": 9.292027243645862e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "chr\u00e9tiens",
+            "beginOffset": 7551
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "main",
+      "type": "OTHER",
+      "salience": 9.260125807486475e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "main",
+            "beginOffset": 15635
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poison",
+      "type": "OTHER",
+      "salience": 9.214710735250264e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "poison",
+            "beginOffset": 15656
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mat\u00e9riel",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.208996925735846e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mat\u00e9riel",
+            "beginOffset": 10787
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anc\u00eatres",
+      "type": "PERSON",
+      "salience": 9.187369141727686e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "anc\u00eatres",
+            "beginOffset": 7927
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pi\u00e8ce",
+      "type": "LOCATION",
+      "salience": 9.169733675662428e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "pi\u00e8ce",
+            "beginOffset": 15727
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temp\u00e9rature",
+      "type": "OTHER",
+      "salience": 9.169733675662428e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "temp\u00e9rature",
+            "beginOffset": 15708
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pomme de terre",
+      "type": "OTHER",
+      "salience": 9.137487359112129e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "pomme de terre",
+            "beginOffset": 10806
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fer",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Iron",
+        "mid": "/m/025rw19"
+      },
+      "salience": 9.12528412300162e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fer",
+            "beginOffset": 15535
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fourchette",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.997708937386051e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "fourchette",
+            "beginOffset": 10844
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plastique",
+      "type": "OTHER",
+      "salience": 8.92939351615496e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "plastique",
+            "beginOffset": 10881
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chaleur",
+      "type": "OTHER",
+      "salience": 8.864622941473499e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "chaleur",
+            "beginOffset": 11733
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mains",
+      "type": "OTHER",
+      "salience": 8.795789472060278e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "mains",
+            "beginOffset": 10932
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pomme de terre",
+      "type": "OTHER",
+      "salience": 8.795789472060278e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "pomme de terre",
+            "beginOffset": 10976
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "intervalle",
+      "type": "OTHER",
+      "salience": 8.74478355399333e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "intervalle",
+            "beginOffset": 14136
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "preuve",
+      "type": "OTHER",
+      "salience": 8.651844109408557e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "preuve",
+            "beginOffset": 10047
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disposition",
+      "type": "OTHER",
+      "salience": 8.558076660847291e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "disposition",
+            "beginOffset": 14550
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colonne",
+      "type": "OTHER",
+      "salience": 8.467647421639413e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "colonne",
+            "beginOffset": 14765
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "s\u00e9curit\u00e9",
+      "type": "OTHER",
+      "salience": 8.363537926925346e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "s\u00e9curit\u00e9",
+            "beginOffset": 10445
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lait",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.363537926925346e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "lait",
+            "beginOffset": 10409
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lois",
+      "type": "OTHER",
+      "salience": 8.155232353601605e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "lois",
+            "beginOffset": 12450
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dieu",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/God",
+        "mid": "/m/0d05l6"
+      },
+      "salience": 8.12862126622349e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dieu",
+            "beginOffset": 7576
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "position",
+      "type": "OTHER",
+      "salience": 8.083024295046926e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "position",
+            "beginOffset": 15242
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hydrog\u00e8ne",
+      "type": "OTHER",
+      "salience": 8.042411354836076e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hydrog\u00e8ne",
+            "beginOffset": 15313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aspires",
+      "type": "OTHER",
+      "salience": 8.002197137102485e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "aspires",
+            "beginOffset": 15445
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Carbone",
+      "type": "OTHER",
+      "salience": 7.962379459058866e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carbone",
+            "beginOffset": 15455
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gallium",
+      "type": "OTHER",
+      "salience": 7.883903890615329e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gallium",
+            "beginOffset": 15597
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "th\u00e9orie",
+      "type": "OTHER",
+      "salience": 7.871686830185354e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "th\u00e9orie",
+            "beginOffset": 7996
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Copernicium",
+      "type": "OTHER",
+      "salience": 7.769017975078896e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Copernicium",
+            "beginOffset": 15737
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "couteau",
+      "type": "CONSUMER_GOOD",
+      "salience": 7.719538552919403e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "couteau",
+            "beginOffset": 10828
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sandwich",
+      "type": "CONSUMER_GOOD",
+      "salience": 7.602322875754908e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "sandwich",
+            "beginOffset": 10869
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gens",
+      "type": "PERSON",
+      "salience": 7.528167770942673e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "gens",
+            "beginOffset": 10379
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "endroit",
+      "type": "LOCATION",
+      "salience": 7.115639164112508e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "endroit",
+            "beginOffset": 11382
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Univers",
+      "type": "LOCATION",
+      "salience": 7.035461021587253e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Univers",
+            "beginOffset": 15367
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Arsenic",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Arsenic",
+        "mid": "/m/027rq1r"
+      },
+      "salience": 6.862974987598136e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arsenic",
+            "beginOffset": 15642
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mercure",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mercury_(element)",
+        "mid": "/m/025sw5g"
+      },
+      "salience": 6.829476478742436e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mercure",
+            "beginOffset": 15672
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "doute",
+      "type": "OTHER",
+      "salience": 6.824015872552991e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "doute",
+            "beginOffset": 11817
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "espaces",
+      "type": "OTHER",
+      "salience": 6.461088923970237e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "espaces",
+            "beginOffset": 14512
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Refermele",
+      "type": "OTHER",
+      "salience": 6.454359390772879e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Refermele",
+            "beginOffset": 11056
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Crachat",
+      "type": "PERSON",
+      "salience": 6.360525730997324e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crachat",
+            "beginOffset": 11216
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Frotte",
+      "type": "PERSON",
+      "salience": 6.314612255664542e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frotte",
+            "beginOffset": 11231
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9gradation",
+      "type": "EVENT",
+      "salience": 6.07657348155044e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9gradation",
+            "beginOffset": 11673
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Certaines",
+      "type": "PERSON",
+      "salience": 5.624123878078535e-05,
+      "mentions": [
+        {
+          "text": {
+            "content": "Certaines",
+            "beginOffset": 10556
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "fr"
+}

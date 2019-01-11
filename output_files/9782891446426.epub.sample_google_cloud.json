@@ -1,0 +1,1535 @@
+{
+  "entities": [
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.2029200941324234,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 91
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.2029200941324234,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 2
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ben_entreprend_une_course_C31.png/OEBPS/image/Ben_entreprend_une_course_C31.png",
+      "type": "OTHER",
+      "salience": 0.1132616251707077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ben_entreprend_une_course_C31.png/OEBPS/image/Ben_entreprend_une_course_C31.png",
+            "beginOffset": 9
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ben_entreprend_un_feu_de_camp_C21.png/OEBPS/image/Ben_entreprend_un_feu_de_camp_C21.png) Notes aux lecteurs",
+      "type": "OTHER",
+      "salience": 0.0797831192612648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ben_entreprend_un_feu_de_camp_C21.png/OEBPS/image/Ben_entreprend_un_feu_de_camp_C21.png]\nNotes aux lecteurs",
+            "beginOffset": 98
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "personnages",
+      "type": "OTHER",
+      "salience": 0.037196919322013855,
+      "mentions": [
+        {
+          "text": {
+            "content": "personnages",
+            "beginOffset": 211
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.020628808066248894,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 266
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Th\u00e9o",
+      "type": "OTHER",
+      "salience": 0.013735857792198658,
+      "mentions": [
+        {
+          "text": {
+            "content": "Th\u00e9o",
+            "beginOffset": 229
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.011797696352005005,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 253
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Virgil",
+      "type": "PERSON",
+      "salience": 0.010938943363726139,
+      "mentions": [
+        {
+          "text": {
+            "content": "Virgil",
+            "beginOffset": 236
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.010341724380850792,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 327
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "OTHER",
+      "salience": 0.010341724380850792,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 316
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.010341724380850792,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 306
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.010341724380850792,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 293
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "OTHER",
+      "salience": 0.010341724380850792,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 276
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.010341724380850792,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 287
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Julie",
+      "type": "PERSON",
+      "salience": 0.009080569259822369,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie",
+            "beginOffset": 244
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.008042101748287678,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 310
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.008042101748287678,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 270
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "succ\u00e8s",
+      "type": "OTHER",
+      "salience": 0.005842442624270916,
+      "mentions": [
+        {
+          "text": {
+            "content": "succ\u00e8s",
+            "beginOffset": 425
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ben",
+      "type": "PERSON",
+      "salience": 0.00510514248162508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ben",
+            "beginOffset": 332
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "efforts",
+      "type": "OTHER",
+      "salience": 0.0044336202554404736,
+      "mentions": [
+        {
+          "text": {
+            "content": "efforts",
+            "beginOffset": 358
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "projets",
+      "type": "OTHER",
+      "salience": 0.0044336202554404736,
+      "mentions": [
+        {
+          "text": {
+            "content": "projets",
+            "beginOffset": 397
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 929
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 942
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "OTHER",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 952
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 963
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 969
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 982
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 1003
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1009
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 1022
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "OTHER",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 1032
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 1043
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "OTHER",
+      "salience": 0.004045663867145777,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 992
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "valeurs",
+      "type": "OTHER",
+      "salience": 0.0036139115691184998,
+      "mentions": [
+        {
+          "text": {
+            "content": "valeurs",
+            "beginOffset": 595
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.00330564146861434,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 710
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livre",
+      "type": "WORK_OF_ART",
+      "salience": 0.0032143343705683947,
+      "mentions": [
+        {
+          "text": {
+            "content": "livre",
+            "beginOffset": 1301
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.003144375281408429,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 1026
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.003144375281408429,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 986
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.003144375281408429,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 946
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "livres",
+      "type": "WORK_OF_ART",
+      "salience": 0.0030648193787783384,
+      "mentions": [
+        {
+          "text": {
+            "content": "livres",
+            "beginOffset": 1425
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9dition",
+      "type": "EVENT",
+      "salience": 0.0030648193787783384,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9dition",
+            "beginOffset": 1413
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cr\u00e9dit",
+      "type": "OTHER",
+      "salience": 0.0030648193787783384,
+      "mentions": [
+        {
+          "text": {
+            "content": "cr\u00e9dit",
+            "beginOffset": 1385
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mots",
+      "type": "OTHER",
+      "salience": 0.0030315739568322897,
+      "mentions": [
+        {
+          "text": {
+            "content": "mots",
+            "beginOffset": 669
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "salience": 0.002956217620521784,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": 1049
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.002956217620521784,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 1062
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "type": "OTHER",
+      "salience": 0.002956217620521784,
+      "mentions": [
+        {
+          "text": {
+            "content": "image",
+            "beginOffset": 1072
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "png",
+      "type": "OTHER",
+      "salience": 0.002956217620521784,
+      "mentions": [
+        {
+          "text": {
+            "content": "png",
+            "beginOffset": 1083
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "version",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0029284467454999685,
+      "mentions": [
+        {
+          "text": {
+            "content": "version",
+            "beginOffset": 1458
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "entremise",
+      "type": "EVENT",
+      "salience": 0.0028679396491497755,
+      "mentions": [
+        {
+          "text": {
+            "content": "entremise",
+            "beginOffset": 1279
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Canada",
+        "mid": "/m/0d060g"
+      },
+      "salience": 0.0028123087249696255,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": 1310
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "version",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002803562441840768,
+      "mentions": [
+        {
+          "text": {
+            "content": "version",
+            "beginOffset": 1502
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "entremise",
+      "type": "EVENT",
+      "salience": 0.002734520472586155,
+      "mentions": [
+        {
+          "text": {
+            "content": "entremise",
+            "beginOffset": 1359
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "valeurs",
+      "type": "OTHER",
+      "salience": 0.002663935301825404,
+      "mentions": [
+        {
+          "text": {
+            "content": "valeurs",
+            "beginOffset": 472
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ISBN",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/International_Standard_Book_Number",
+        "mid": "/m/03vm8"
+      },
+      "salience": 0.0025621429085731506,
+      "mentions": [
+        {
+          "text": {
+            "content": "ISBN",
+            "beginOffset": 1434
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "ISBN",
+            "beginOffset": 1478
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "ISBN",
+            "beginOffset": 1527
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Fonds",
+      "type": "ORGANIZATION",
+      "salience": 0.0024421014823019505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fonds",
+            "beginOffset": 1292
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gouvernement du Qu\u00e9bec",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Government_of_Quebec",
+        "mid": "/m/0661pfc"
+      },
+      "salience": 0.0023924517445266247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gouvernement du Qu\u00e9bec",
+            "beginOffset": 1327
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "enfant",
+      "type": "PERSON",
+      "salience": 0.002391452668234706,
+      "mentions": [
+        {
+          "text": {
+            "content": "enfant",
+            "beginOffset": 545
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ben",
+      "type": "PERSON",
+      "salience": 0.002345056040212512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ben",
+            "beginOffset": 514
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "imp\u00f4t",
+      "type": "OTHER",
+      "salience": 0.0023284750059247017,
+      "mentions": [
+        {
+          "text": {
+            "content": "imp\u00f4t",
+            "beginOffset": 1397
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "programme",
+      "type": "OTHER",
+      "salience": 0.0023284750059247017,
+      "mentions": [
+        {
+          "text": {
+            "content": "programme",
+            "beginOffset": 1372
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OEBPS",
+      "type": "OTHER",
+      "salience": 0.002297422382980585,
+      "mentions": [
+        {
+          "text": {
+            "content": "OEBPS",
+            "beginOffset": 1066
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Archives nationales du Qu\u00e9bec",
+      "type": "LOCATION",
+      "salience": 0.002264376264065504,
+      "mentions": [
+        {
+          "text": {
+            "content": "Archives nationales du Qu\u00e9bec",
+            "beginOffset": 1629
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "potentiel",
+      "type": "OTHER",
+      "salience": 0.002211660146713257,
+      "mentions": [
+        {
+          "text": {
+            "content": "potentiel",
+            "beginOffset": 632
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "difficult\u00e9s",
+      "type": "OTHER",
+      "salience": 0.0021515327971428633,
+      "mentions": [
+        {
+          "text": {
+            "content": "difficult\u00e9s",
+            "beginOffset": 768
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FLC",
+      "type": "ORGANIZATION",
+      "salience": 0.0021365827415138483,
+      "mentions": [
+        {
+          "text": {
+            "content": "FLC",
+            "beginOffset": 1318
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PDF",
+      "type": "OTHER",
+      "salience": 0.0021299361251294613,
+      "mentions": [
+        {
+          "text": {
+            "content": "PDF",
+            "beginOffset": 1521
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "collection",
+      "type": "OTHER",
+      "salience": 0.0020363095682114363,
+      "mentions": [
+        {
+          "text": {
+            "content": "collection",
+            "beginOffset": 503
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9l\u00e8ve",
+      "type": "PERSON",
+      "salience": 0.0020363095682114363,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9l\u00e8ve",
+            "beginOffset": 561
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "version",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002030447591096163,
+      "mentions": [
+        {
+          "text": {
+            "content": "version",
+            "beginOffset": 1551
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "phrases",
+      "type": "OTHER",
+      "salience": 0.0018468966009095311,
+      "mentions": [
+        {
+          "text": {
+            "content": "phrases",
+            "beginOffset": 689
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ex.",
+      "type": "OTHER",
+      "salience": 0.0018372631166130304,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ex.",
+            "beginOffset": 811
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lettres",
+      "type": "OTHER",
+      "salience": 0.0017684699269011617,
+      "mentions": [
+        {
+          "text": {
+            "content": "lettres",
+            "beginOffset": 787
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Diffusion",
+      "type": "OTHER",
+      "salience": 0.0017440620576962829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Diffusion",
+            "beginOffset": 1695
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Diffusion",
+      "type": "OTHER",
+      "salience": 0.0016845294740051031,
+      "mentions": [
+        {
+          "text": {
+            "content": "Diffusion",
+            "beginOffset": 1765
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Biblioth\u00e8que",
+      "type": "OTHER",
+      "salience": 0.0016742062289267778,
+      "mentions": [
+        {
+          "text": {
+            "content": "Biblioth\u00e8que",
+            "beginOffset": 1612
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gr\u00e2ce",
+      "type": "OTHER",
+      "salience": 0.001634475658647716,
+      "mentions": [
+        {
+          "text": {
+            "content": "gr\u00e2ce",
+            "beginOffset": 735
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "identification",
+      "type": "OTHER",
+      "salience": 0.001634475658647716,
+      "mentions": [
+        {
+          "text": {
+            "content": "identification",
+            "beginOffset": 749
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ex.",
+      "type": "OTHER",
+      "salience": 0.0016023650532588363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ex.",
+            "beginOffset": 843
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "\u00e9dition",
+      "type": "EVENT",
+      "salience": 0.0015804105205461383,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00e9dition",
+            "beginOffset": 1235
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cr\u00e9dits",
+      "type": "OTHER",
+      "salience": 0.001576752751134336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cr\u00e9dits",
+            "beginOffset": 1827
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "distribution",
+      "type": "OTHER",
+      "salience": 0.0015560183674097061,
+      "mentions": [
+        {
+          "text": {
+            "content": "distribution",
+            "beginOffset": 1705
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cr\u00e9dits",
+      "type": "OTHER",
+      "salience": 0.0015278193168342113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cr\u00e9dits",
+            "beginOffset": 1837
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lettres",
+      "type": "OTHER",
+      "salience": 0.0015273141907528043,
+      "mentions": [
+        {
+          "text": {
+            "content": "lettres",
+            "beginOffset": 825
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "distribution",
+      "type": "OTHER",
+      "salience": 0.0015029008500277996,
+      "mentions": [
+        {
+          "text": {
+            "content": "distribution",
+            "beginOffset": 1775
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "D\u00e9p\u00f4t",
+      "type": "EVENT",
+      "salience": 0.0014817204792052507,
+      "mentions": [
+        {
+          "text": {
+            "content": "D\u00e9p\u00f4t",
+            "beginOffset": 1577
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enfants",
+      "type": "PERSON",
+      "salience": 0.0014295907458290458,
+      "mentions": [
+        {
+          "text": {
+            "content": "enfants",
+            "beginOffset": 848
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ex.",
+      "type": "OTHER",
+      "salience": 0.001420214888639748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ex.",
+            "beginOffset": 905
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Biblioth\u00e8que et Archives Canada",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Library_and_Archives_Canada",
+        "mid": "/m/03h2px"
+      },
+      "salience": 0.0014111294876784086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Biblioth\u00e8que et Archives Canada",
+            "beginOffset": 1661
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "www.distributionhmh.com",
+      "type": "OTHER",
+      "salience": 0.001361295348033309,
+      "mentions": [
+        {
+          "text": {
+            "content": "www.distributionhmh.com",
+            "beginOffset": 1740
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ePub",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/EPUB",
+        "mid": "/m/05n00zq"
+      },
+      "salience": 0.0013494436861947179,
+      "mentions": [
+        {
+          "text": {
+            "content": "ePub",
+            "beginOffset": 1570
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Marcel Didier",
+      "type": "PERSON",
+      "salience": 0.0013001080369576812,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marcel Didier",
+            "beginOffset": 1097
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "www.lirbairieduquebec.fr",
+      "type": "OTHER",
+      "salience": 0.0012713816249743104,
+      "mentions": [
+        {
+          "text": {
+            "content": "www.lirbairieduquebec.fr",
+            "beginOffset": 1801
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pers\u00e9v\u00e9rance",
+      "type": "OTHER",
+      "salience": 0.0012670713476836681,
+      "mentions": [
+        {
+          "text": {
+            "content": "pers\u00e9v\u00e9rance",
+            "beginOffset": 910
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "inc",
+      "type": "OTHER",
+      "salience": 0.0012653276789933443,
+      "mentions": [
+        {
+          "text": {
+            "content": "inc",
+            "beginOffset": 1111
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Marcel Didier",
+      "type": "PERSON",
+      "salience": 0.0012335432693362236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marcel Didier",
+            "beginOffset": 1131
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "activit\u00e9s",
+      "type": "OTHER",
+      "salience": 0.0012005429016426206,
+      "mentions": [
+        {
+          "text": {
+            "content": "activit\u00e9s",
+            "beginOffset": 1220
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "institutions",
+      "type": "ORGANIZATION",
+      "salience": 0.0012005429016426206,
+      "mentions": [
+        {
+          "text": {
+            "content": "institutions",
+            "beginOffset": 1186
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aide",
+      "type": "OTHER",
+      "salience": 0.0012005429016426206,
+      "mentions": [
+        {
+          "text": {
+            "content": "aide",
+            "beginOffset": 1166
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gouvernement du Canada",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Government_of_Canada",
+        "mid": "/m/02wz7x"
+      },
+      "salience": 0.0011733908904716372,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gouvernement du Canada",
+            "beginOffset": 1248
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Am\u00e9rique du Nord",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/North_America",
+        "mid": "/m/059g4"
+      },
+      "salience": 0.0011590684298425913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Am\u00e9rique du Nord",
+            "beginOffset": 1721
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vocabulaire",
+      "type": "OTHER",
+      "salience": 0.001143910107202828,
+      "mentions": [
+        {
+          "text": {
+            "content": "vocabulaire",
+            "beginOffset": 860
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d\u00e9finitions",
+      "type": "OTHER",
+      "salience": 0.001143910107202828,
+      "mentions": [
+        {
+          "text": {
+            "content": "d\u00e9finitions",
+            "beginOffset": 873
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "page",
+      "type": "OTHER",
+      "salience": 0.001143910107202828,
+      "mentions": [
+        {
+          "text": {
+            "content": "page",
+            "beginOffset": 892
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Europe",
+        "mid": "/m/02j9z"
+      },
+      "salience": 0.0011194957187399268,
+      "mentions": [
+        {
+          "text": {
+            "content": "Europe",
+            "beginOffset": 1791
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "\u00c9ditions",
+      "type": "ORGANIZATION",
+      "salience": 0.0005222000763751566,
+      "mentions": [
+        {
+          "text": {
+            "content": "\u00c9ditions",
+            "beginOffset": 1121
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "fr"
+}

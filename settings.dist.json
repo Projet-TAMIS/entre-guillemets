@@ -6,7 +6,8 @@
   "global_template_file": "./static/global_template.html",
   "vendors": {
     "textrazor": {
-      "api_key": "YOUR_KEY_HERE"
+      "api_key": "YOUR_KEY_HERE",
+      "classifiers": ["textrazor_iab", "YOUR CUSTOM CLASSIFIERS NAMES HERE"]
     },
     "ibm_watson": {
       "api_key": "YOUR_KEY_HERE",

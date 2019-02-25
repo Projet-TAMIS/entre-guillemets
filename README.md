@@ -55,7 +55,9 @@ Classification is not benchmarked because it is available in English only.
 
 ### TextRazor
 
-Text in truncated to 200kb in order to respect TextRazor's limit.
+Text in truncated to 200kb in order to respect TextRazor's limit. If you wish to truncate to a smaller size, add the `max_size` key to the TextRazor config in `settings.json` and use a value of your choice, in bytes.
+
+By default, no classifiers are set. To use classifiers (including custom classifiers), list them in the `classifiers` key of the TextRazor config. 
 
 ### IBM Watson
 
@@ -63,7 +65,7 @@ The Watson API returns 50 entities by default, and Entre Guillemets uses that de
 
 ## Adding more vendors
 
- Adding more vendors should be relatively easy if you are developer: have a look at the constant at the beginning of `lib/entre_guillemets.py`, and then at examples of the vendors already implemented.
+Adding more vendors should be relatively easy if you are developer: have a look at the constant at the beginning of `lib/entre_guillemets.py`, and then at examples of the vendors already implemented.
 
 ## License
 

@@ -10,11 +10,23 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
     def __init__(self, settings):
         textrazor.api_key = settings['api_key']
         self.client = textrazor.TextRazor(extractors=["entities", "topics"])
+        self.use_categories = ('classifiers' in settings) and (settings['classifiers'] is not None)
+        if self.use_categories:
+            self.client.set_classifiers(settings['classifiers'])
+        self.max_size = MAX_SIZE
+        if 'max_size' in settings:
+            self.max_size = settings['max_size']
 
     def call_api(self, content):
-        truncated_content = self.__truncate_to_byte_size(content, MAX_SIZE-1)
-        response = self.client.analyze(truncated_content) # truncate the content
-        return json.dumps(response.json, sort_keys=True, indent=4)
+        truncated_content = self.__truncate_to_byte_size(content, self.max_size-1)
+        try:
+            response = self.client.analyze(truncated_content) # truncate the content
+            response_json = response.json
+        except TextRazorAnalysisException as exception:
+            print("Exception: " + str(exception))
+            response_json = { "exception": str(exception) }
+
+        return json.dumps(response_json, sort_keys=True, indent=4)
 
     def report(self, response_file_name, metadata):
         json_response = self.load_response_json(response_file_name)
@@ -59,6 +71,14 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
         for topic in topics:
             if len(report['topics']['examples']) < 5:
                 report['topics']['examples'].append(topic.label)
+
+        # report on categories
+        if self.use_categories:
+            report['categories'] = {}
+            for category in response.categories():
+                if category.classifier_id not in report['categories']:
+                    report['categories'][category.classifier_id] = []
+                report['categories'][category.classifier_id].append(category.category_id + ' ' + category.label + ' (' + str(category.score) + ')')
 
         return report
 

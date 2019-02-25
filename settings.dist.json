@@ -18,6 +18,9 @@
     },
     "rosette": {
       "api_key": "YOUR_KEY_HERE"
+    },
+    "amazon_comprehend_custom_classification": {
+      "predictions_file": "PATH_TO_YOUR_PREDICTIONS_FILE.jsonl"
     }
   }
 }

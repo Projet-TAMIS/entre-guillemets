@@ -28,7 +28,7 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
 
         return json.dumps(response_json, sort_keys=True, indent=4)
 
-    def report(self, response_file_name, metadata):
+    def report(self, response_file_name, metadata, original_file=''):
         json_response = self.load_response_json(response_file_name)
         response = textrazor.TextRazorResponse(json_response)
         report = self.base_report(response_file_name)

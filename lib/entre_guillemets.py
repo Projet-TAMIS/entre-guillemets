@@ -3,6 +3,7 @@ from . import textrazor
 from . import ibm_watson
 from . import google_cloud
 from . import rosette
+from . import amazon_comprehend_custom_classification
 import os
 import json
 import datetime
@@ -14,7 +15,8 @@ VENDORS = {
     'textrazor': textrazor.TextRazorWrapper,
     'ibm_watson': ibm_watson.IBMWatsonWrapper,
     'google_cloud': google_cloud.GoogleCloudWrapper,
-    'rosette': rosette.RosetteWrapper
+    'rosette': rosette.RosetteWrapper,
+    'amazon_comprehend_custom_classification': amazon_comprehend_custom_classification.AmazonComprehendCustomClassification
 }
 
 class EntreGuillemets:
@@ -52,10 +54,13 @@ class EntreGuillemets:
             vendor = VENDORS[vendor_name](self.settings['vendors'][vendor_name])
             vendor_report = {}
             for file in all_files:
-                if self.__already_processed(file, vendor_name):
-                    vendor_response_file_name = self.__output_file_name(file, vendor_name)
-                    vendor_report[os.path.basename(file)] = vendor.report(vendor_response_file_name, self.__get_all_meta_as_string(file_refs[os.path.basename(file)]))
-                    print("Analyzing and creating report for " + file + " (" + vendor_name + ")")
+                if vendor.stores_results:
+                    if self.__already_processed(file, vendor_name):
+                        vendor_response_file_name = self.__output_file_name(file, vendor_name)
+                else:
+                    vendor_response_file_name = ''
+                vendor_report[os.path.basename(file)] = vendor.report(vendor_response_file_name, self.__get_all_meta_as_string(file_refs[os.path.basename(file)]), file)
+                print("Analyzing and creating report for " + file + " (" + vendor_name + ")")
             self.__build_vendor_report(vendor_name, vendor_report, file_refs)
             global_report[vendor_name] = vendor_report
 

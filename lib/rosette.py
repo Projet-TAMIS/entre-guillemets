@@ -17,7 +17,7 @@ class RosetteWrapper(generic_vendor.VendorWrapper):
             res = {"rosette_exception": str(exception)}
         return json.dumps(res, sort_keys=True, indent=4)
 
-    def report(self, response_file_name, metadata):
+    def report(self, response_file_name, metadata, original_file=''):
         response = self.load_response_json(response_file_name)
         response_with_confidence = {
             'entities': [entity for entity in response['entities'] if 'confidence' in entity]

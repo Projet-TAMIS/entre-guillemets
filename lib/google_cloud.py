@@ -22,7 +22,7 @@ class GoogleCloudWrapper(generic_vendor.VendorWrapper):
         )
         return MessageToJson(response)
 
-    def report(self, response_file_name, metadata):
+    def report(self, response_file_name, metadata, original_file=''):
         response = self.load_response_json(response_file_name)
         report = self.base_report(response_file_name)
 

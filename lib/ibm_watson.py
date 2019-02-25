@@ -23,7 +23,7 @@ class IBMWatsonWrapper(generic_vendor.VendorWrapper):
             response = {"ibm_exception": str(exception)}
         return json.dumps(response, sort_keys=True, indent=4)
 
-    def report(self, response_file_name, metadata):
+    def report(self, response_file_name, metadata, original_file=''):
         response = self.load_response_json(response_file_name)
         report = self.base_report(response_file_name)
 

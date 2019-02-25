@@ -57,11 +57,17 @@ Classification is not benchmarked because it is available in English only.
 
 Text in truncated to 200kb in order to respect TextRazor's limit. If you wish to truncate to a smaller size, add the `max_size` key to the TextRazor config in `settings.json` and use a value of your choice, in bytes.
 
-By default, no classifiers are set. To use classifiers (including custom classifiers), list them in the `classifiers` key of the TextRazor config. 
+By default, no classifiers are set. To use classifiers (including custom classifiers), list them in the `classifiers` key of the TextRazor config.
 
 ### IBM Watson
 
 The Watson API returns 50 entities by default, and Entre Guillemets uses that default value.
+
+### Amazon Comprehend Custom Classifications
+
+Basic entity extraction is not implemented for Comprehend for now.
+
+However Entre Guillemets can use Comprehend Custom Classification results and include them in the reports. Classification results should be stored in the JSONL format outputted by Comprehend and available in a single file. Reference that file in the `settings.json` file. Entre Guillemets will expect that the `File` value from the results match the input files, and that the classification was made using the `ONE_DOC_PER_FILE` input format.
 
 ## Adding more vendors
 

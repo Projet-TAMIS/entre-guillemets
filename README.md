@@ -2,7 +2,7 @@
 
 Run a corpus of text files through multiple natural language processing (NLP) API vendors. View API results side by side so that you can get a general feel for how well each vendor works for your use case. Supported vendors: TextRazor, Google Cloud, IBM Watson and Rosette.
 
-Entre Guillemets is greatly inspired by [Cloudy Vision](https://github.com/goberoi/cloudy_vision) which meets the same types of objectives, but for computer vision APIs.
+Entre Guillemets is inspired by [Cloudy Vision](https://github.com/goberoi/cloudy_vision) which meets the same types of objectives, but for computer vision APIs.
 
 See [example results here](https://projet-tamis.github.io/entre-guillemets/report/).
 
@@ -56,6 +56,10 @@ Classification is not benchmarked because it is available in English only.
 ### TextRazor
 
 Text in truncated to 200kb in order to respect TextRazor's limit.
+
+### IBM Watson
+
+The Watson API returns 50 entities by default, and Entre Guillemets uses that default value.
 
 ## Adding more vendors
 

@@ -10,6 +10,7 @@ import datetime
 import xlsxwriter
 import pandas as pd
 from pandas.io.json import json_normalize
+import importlib
 
 VENDORS = {
     'textrazor': textrazor.TextRazorWrapper,
@@ -59,7 +60,7 @@ class EntreGuillemets:
                         vendor_response_file_name = self.__output_file_name(file, vendor_name)
                 else:
                     vendor_response_file_name = ''
-                vendor_report[os.path.basename(file)] = vendor.report(vendor_response_file_name, self.__get_all_meta_as_string(file_refs[os.path.basename(file)]), file)
+                vendor_report[os.path.basename(file)] = self.__apply_vendors_plugin(vendor.report(vendor_response_file_name, self.__get_all_meta_as_string(file_refs[os.path.basename(file)]), file))
                 print("Analyzing and creating report for " + file + " (" + vendor_name + ")")
             self.__build_vendor_report(vendor_name, vendor_report, file_refs)
             global_report[vendor_name] = vendor_report
@@ -90,7 +91,7 @@ class EntreGuillemets:
             ref_file_name = os.path.join(self.settings['input_files_dir'], file_name + '.json')
             if os.path.isfile(ref_file_name):
                 with open(ref_file_name) as data:
-                    refs[os.path.basename(file_name)] = json.load(data)
+                    refs[os.path.basename(file_name)] = self.__apply_file_refs_plugin(json.load(data))
             else:
                 refs[os.path.basename(file_name)] = { "name": file_name }
         return refs
@@ -154,3 +155,25 @@ class EntreGuillemets:
     # return a single long string with title, description and keywords
     def __get_all_meta_as_string(self, ref):
         return ref['products'][0]['title'] + ref['products'][0]['subjects']['keywords'] + ref['products'][0]['description']
+
+    # applies the file_refs plugin to the file references, if a plugin is defined
+    def __apply_file_refs_plugin(self, data):
+        if ('plugins' in self.settings and self.settings['plugins'].get('file_refs')):
+            plugin_name = self.settings['plugins'].get('file_refs')
+            return self.__apply_plugin(plugin_name, data)
+        else:
+            return data
+
+    # applies the vendors plugin to the vendor report, if a plugin is defined
+    def __apply_vendors_plugin(self, data):
+        if ('plugins' in self.settings and self.settings['plugins'].get('vendor_reports')):
+            plugin_name = self.settings['plugins'].get('vendor_reports')
+            return self.__apply_plugin(plugin_name, data)
+        else:
+            return data
+
+    # applies a plugin to some data
+    def __apply_plugin(self, plugin_name, data):
+        plugin_module = importlib.import_module('plugins.' + plugin_name)
+        plugin = plugin_module.Plugin()
+        return plugin.apply(data)

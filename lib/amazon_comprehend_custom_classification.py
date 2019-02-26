@@ -27,6 +27,6 @@ class AmazonComprehendCustomClassification(generic_vendor.VendorWrapper):
 
     def report(self, response_file_name, metadata, original_file):
         report = self.base_report(response_file_name)
-        report['custom_classifications'] = {}
-        report['custom_classifications']['BISAC'] = [klass['Name']+ ' (' + str(klass['Score']) + ')' for klass in self.predictions[original_file]]
+        report['categories'] = {}
+        report['categories']['BISAC'] = [klass['Name']+ ' (' + str(klass['Score']) + ')' for klass in self.predictions[original_file]]
         return report

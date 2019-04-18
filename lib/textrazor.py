@@ -13,16 +13,14 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
         self.use_categories = ('classifiers' in settings) and (settings['classifiers'] is not None)
         if self.use_categories:
             self.client.set_classifiers(settings['classifiers'])
-        self.max_size = MAX_SIZE
-        if 'max_size' in settings:
-            self.max_size = settings['max_size']
+        self.max_size = settings.get('max_size') or MAX_SIZE
 
     def call_api(self, content):
         truncated_content = self.__truncate_to_byte_size(content, self.max_size-1)
         try:
             response = self.client.analyze(truncated_content) # truncate the content
             response_json = response.json
-        except TextRazorAnalysisException as exception:
+        except textrazor.TextRazorAnalysisException as exception:
             print("Exception: " + str(exception))
             response_json = { "exception": str(exception) }
 
@@ -60,7 +58,8 @@ class TextRazorWrapper(generic_vendor.VendorWrapper):
                         report['entities'][entity_type].append(entity.id)
                 seen.add(entity.id)
         report['entities']['in_metadata_count'] = len({e for e in seen if e.lower() in metadata.lower()})
-        report['entities']['in_metadata_percent'] = report['entities']['in_metadata_count']/report['entities']['count']
+        if report['entities']['count'] > 0:
+            report['entities']['in_metadata_percent'] = report['entities']['in_metadata_count']/report['entities']['count']
 
         # report on topics
         report['topics'] = {}
